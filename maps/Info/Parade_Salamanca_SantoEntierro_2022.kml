@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>PROCESIÓN DEL SANTO ENTIERRO</name>
+    <description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br><br>HORARIO: 16:45 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Iglesia de la Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Rúa Antigua, plaza de San Isidro, Libreros, Calderón de la Barca, Benedicto XVI, plaza de Anaya, Rúa Mayor, Corrillo, Plaza Mayor (por el centro), Zamora, plaza de Los Bandos, Espoz y Mina, Prior, Bordadores, Úrsulas y Capilla de la Vera Cruz. <br>PASOS: La Flagelación del Salvador “Los Azotes” (Alejandro Carnicero, 1724). <br>El Balcón de Pilato “La Caña” (Juan de Villabrile y Ron, finales del S. XVII). <br>N. P. Jesús con la Cruz a Cuestas (Juan de Villabrile y Ron, finales del S. XVII). <br>La Caída (anónimo 1617/Francisco González Macías, 1943). <br>El Calvario (conjunto compuesto por el Stmo. Cristo de los Doctrinos (anónimo finales S. XVII), Virgen de la Amargura, San Juan (Pedro Hernández 1615) y María Magdalena (anónimo anterior a 1700). <br>Stma. Virgen de los Dolores (Felipe del Corral, S. XVIII). <br>Santo Sepulcro (anónimo, 1678) En el interior de la urna, Cristo Nuestro Bien (Pedro Hernández, 1615).]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Santo-Entierro.csv</name>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <address>Iglesia de la Vera Cruz  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Domínguez Berrueta</name>
+        <address>Calle Domínguez Berrueta  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Ramón y Cajal</name>
+        <address>Calle Ramón y Cajal  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de las Agustinas</name>
+        <address>Plaza de las Agustinas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <address>Rúa Antigua  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Isidro</name>
+        <address>Plaza de San Isidro  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <address>Calle Libreros  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Calderón de la Barca</name>
+        <address>Calle Calderón de la Barca  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <address>Plaza de Anaya  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Corrillo</name>
+        <address>Calle Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Zamora</name>
+        <address>Calle Zamora  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Los Bandos</name>
+        <address>Plaza de Los Bandos  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Espoz y Mina</name>
+        <address>Calle Espoz y Mina  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <address>Calle Prior  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Bordadores</name>
+        <address>Calle Bordadores  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Úrsulas</name>
+        <address>Calle Úrsulas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <address>Iglesia de la Vera Cruz  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Iglesia de la Vera Cruz a Calle Espoz y Mina</name>
+      <Placemark>
+        <name>Indicaciones de Iglesia de la Vera Cruz a Calle Espoz y Mina</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66774,40.96617,0
+            -5.66761,40.96612,0
+            -5.66762,40.96611,0
+            -5.66764,40.9661,0
+            -5.66765,40.96609,0
+            -5.66767,40.96608,0
+            -5.66772,40.96607,0
+            -5.66781,40.96604,0
+            -5.66786,40.966,0
+            -5.66787,40.96598,0
+            -5.66804,40.96576,0
+            -5.66824,40.96553,0
+            -5.6681,40.96546,0
+            -5.66776,40.96529,0
+            -5.66745,40.96511,0
+            -5.66726,40.96509,0
+            -5.66702,40.96507,0
+            -5.66703,40.96498,0
+            -5.66702,40.96498,0
+            -5.66702,40.96497,0
+            -5.66701,40.96497,0
+            -5.66699,40.96497,0
+            -5.66698,40.96497,0
+            -5.66687,40.96496,0
+            -5.66665,40.96495,0
+            -5.66654,40.96495,0
+            -5.66648,40.96475,0
+            -5.66642,40.9644,0
+            -5.6664,40.96404,0
+            -5.66639,40.96398,0
+            -5.66638,40.96387,0
+            -5.66633,40.96364,0
+            -5.6663,40.96353,0
+            -5.66626,40.96338,0
+            -5.6662,40.9632,0
+            -5.66619,40.96316,0
+            -5.66617,40.96309,0
+            -5.66614,40.96302,0
+            -5.66613,40.96299,0
+            -5.666,40.96273,0
+            -5.66596,40.96266,0
+            -5.66618,40.96259,0
+            -5.66646,40.96251,0
+            -5.66668,40.96248,0
+            -5.66667,40.96244,0
+            -5.66668,40.9624,0
+            -5.6667,40.96238,0
+            -5.66685,40.96219,0
+            -5.66697,40.96203,0
+            -5.66707,40.9619,0
+            -5.66721,40.96171,0
+            -5.66732,40.96152,0
+            -5.66738,40.96143,0
+            -5.66748,40.96126,0
+            -5.66755,40.96116,0
+            -5.66747,40.96112,0
+            -5.66731,40.96103,0
+            -5.66722,40.96099,0
+            -5.6669,40.96084,0
+            -5.66671,40.96108,0
+            -5.66656,40.9613,0
+            -5.66645,40.96146,0
+            -5.66644,40.96147,0
+            -5.66642,40.96152,0
+            -5.66644,40.96176,0
+            -5.66622,40.96176,0
+            -5.66605,40.96199,0
+            -5.66569,40.96247,0
+            -5.66562,40.96261,0
+            -5.66549,40.9628,0
+            -5.66534,40.963,0
+            -5.66525,40.96312,0
+            -5.66504,40.96338,0
+            -5.66494,40.96352,0
+            -5.66471,40.96386,0
+            -5.66468,40.96394,0
+            -5.66466,40.96402,0
+            -5.66463,40.96411,0
+            -5.6648,40.9641,0
+            -5.6648,40.96423,0
+            -5.6648,40.96438,0
+            -5.66478,40.96445,0
+            -5.66476,40.96448,0
+            -5.66474,40.96451,0
+            -5.66472,40.96453,0
+            -5.66465,40.96458,0
+            -5.6646,40.96466,0
+            -5.66457,40.96469,0
+            -5.66452,40.9648,0
+            -5.6645,40.96484,0
+            -5.66438,40.96528,0
+            -5.66435,40.96541,0
+            -5.66395,40.96533,0
+            -5.66397,40.96551,0
+            -5.66398,40.96573,0
+            -5.66401,40.96598,0
+            -5.66404,40.96639,0
+            -5.66404,40.96646,0
+            -5.66407,40.96666,0
+            -5.6641,40.96683,0
+            -5.66416,40.96685,0
+            -5.66419,40.96686,0
+            -5.66435,40.96688,0
+            -5.66438,40.96688,0
+            -5.66481,40.96697,0
+            -5.66488,40.96681,0
+            -5.6649,40.96677,0
+            -5.66494,40.96672,0
+            -5.66497,40.96663,0
+            -5.66512,40.9663,0
+            -5.66515,40.96619,0
+            -5.66521,40.96595,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6677418,40.9661729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Domínguez Berrueta</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6680438,40.965755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de las Agustinas</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6668743,40.9649625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6659574,40.962656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Isidro</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6664645,40.9625054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667551,40.9611596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6665576,40.9613035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665339,40.9630034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Corrillo</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6647796,40.9644478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Espoz y Mina</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6652097,40.9659524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Calle Espoz y Mina, 20, 37002 Salamanca, España a Iglesia de la Vera Cruz</name>
+      <Placemark>
+        <name>Indicaciones de Calle Espoz y Mina, 20, 37002 Salamanca, España a Iglesia de la Vera Cruz</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66521,40.96595,0
+            -5.66528,40.96565,0
+            -5.66529,40.96558,0
+            -5.66534,40.96541,0
+            -5.66534,40.96539,0
+            -5.66538,40.96524,0
+            -5.66544,40.965,0
+            -5.66544,40.96498,0
+            -5.66571,40.96503,0
+            -5.66587,40.96506,0
+            -5.66634,40.96514,0
+            -5.66655,40.96516,0
+            -5.66658,40.96541,0
+            -5.66662,40.96569,0
+            -5.66686,40.96574,0
+            -5.66704,40.9658,0
+            -5.66709,40.96582,0
+            -5.66726,40.96588,0
+            -5.66762,40.96602,0
+            -5.66772,40.96607,0
+            -5.66767,40.96608,0
+            -5.66765,40.96609,0
+            -5.66764,40.9661,0
+            -5.66762,40.96611,0
+            -5.66761,40.96612,0
+            -5.66774,40.96617,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Calle Espoz y Mina, 20, 37002 Salamanca, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6652097,40.9659524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665441,40.964975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Úrsulas</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6672599,40.96588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6677418,40.9661729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

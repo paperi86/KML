@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>Estilos Mapas</name>
+
+    <Style id="icono-marcador">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+        <BalloonStyle>
+          <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+        </BalloonStyle>
+      </IconStyle>
+    </Style>
+
+    <Style id="icono-cementerio">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://localhost:3000/media/icons/Cementerio.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+
+    <Style id="icono-auditorio">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://localhost:3000/media/icons/Auditorio.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+
+    <Style id="icono-catedral">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://localhost:3000/media/icons/Catedral.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+
+    <Style id="icono-convento">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://localhost:3000/media/icons/Convento.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+
+    <Style id="icono-iglesia">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://localhost:3000/media/icons/Iglesia.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+
+    <Style id="icono-media">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://localhost:3000/media/icons/Fotografia.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+
+    <Style id="icono-destacado">
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.64</scale>
+        <Icon>
+          <href>http://localhost:3000/media/icons/Destacado.png</href>
+        </Icon>
+        <hotSpot x="64" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+
+
+    <Style id="linea-CristoAmorYPaz">
+      <LineStyle>
+        <color>fff9f9f9</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-Rosario">
+      <LineStyle>
+        <color>fffffff8</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-JesusAmigoNinos">
+      <LineStyle>
+        <color>ffeef8f8</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-CristoAgonia">
+      <LineStyle>
+        <color>ff663a65</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-CristoYacente">
+      <LineStyle>
+        <color>ff19249d</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-CristoDoctrinos">
+      <LineStyle>
+        <color>ffecbf04</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-SantoEntierro">
+      <LineStyle>
+        <color>ffecbf04</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-CristoLuzSraSabiduria">
+      <LineStyle>
+        <color>ff5a565c</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-Perdon">
+      <LineStyle>
+        <color>ff1129e9</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-CristoVela">
+      <LineStyle>
+        <color>ff122ae8</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-ViaCrucis">
+      <LineStyle>
+        <color>fff8f8f8</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-Soledad">
+      <LineStyle>
+        <color>ff5c585e</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-Dominicana">
+      <LineStyle>
+        <color>ff1028e8</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-CristoHumildad">
+      <LineStyle>
+        <color>ff444f52</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-JesusNazareno">
+      <LineStyle>
+        <color>ff803e7d</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-JesusRescatado">
+      <LineStyle>
+        <color>ff834380</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+     <Style id="linea-OracionEnHuerto">
+      <LineStyle>
+        <color>ff3e8906</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-CristoLiberacion">
+      <LineStyle>
+        <color>ff030303</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-JesusDespojadoVestiduras">
+      <LineStyle>
+        <color>ff080532</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-Flagelado">
+      <LineStyle>
+        <color>ff8649ed</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-Encuentro">
+      <LineStyle>
+        <color>ff7f3821</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="linea-VirgenAlegria">
+      <LineStyle>
+        <color>ffffffff</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+      </BalloonStyle>
+    </Style>
+
+</Document>
+</kml>

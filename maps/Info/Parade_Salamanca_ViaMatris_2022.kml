@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Procesión Via Matris</name>
+    <description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURISIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN VIA MATRIS<br><br>HORARIO: 20:30 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, plaza de San Benito, (Acto del Vía Matris frente a las Madres de Dios), Compañía, Meléndez, Juan del Rey, Prado, Doctrinos, Compañía, plaza de Monterrey, Úrsulas y Vera Cruz. <br>PASO: Stma. Virgen de los Dolores (Felipe del Corral, S.XVIII).]]></description>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Capa sin nombre</name>
+      <Placemark>
+        <name>Capilla de la Vera Cruz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.66769309999995,40.966247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Campo de San Francisco, 7, 37002 Salamanca, España a Calle Doctrinos, Salamanca</name>
+      <Placemark>
+        <name>Indicaciones de Campo de San Francisco, 7, 37002 Salamanca, España a Calle Doctrinos, Salamanca</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66773,40.96617,0
+            -5.66761,40.96612,0
+            -5.66762,40.96611,0
+            -5.66764,40.9661,0
+            -5.66765,40.96609,0
+            -5.66767,40.96608,0
+            -5.66772,40.96607,0
+            -5.66781,40.96604,0
+            -5.66786,40.966,0
+            -5.66787,40.96598,0
+            -5.66804,40.96576,0
+            -5.66824,40.96553,0
+            -5.6681,40.96546,0
+            -5.66776,40.96529,0
+            -5.66745,40.96511,0
+            -5.66726,40.96509,0
+            -5.66702,40.96507,0
+            -5.66703,40.96498,0
+            -5.66702,40.96498,0
+            -5.66702,40.96497,0
+            -5.66701,40.96497,0
+            -5.66699,40.96497,0
+            -5.66698,40.96497,0
+            -5.66687,40.96496,0
+            -5.66665,40.96495,0
+            -5.66654,40.96495,0
+            -5.66648,40.96475,0
+            -5.66642,40.9644,0
+            -5.6664,40.96404,0
+            -5.66639,40.96398,0
+            -5.66638,40.96387,0
+            -5.66633,40.96364,0
+            -5.66629,40.96365,0
+            -5.6662,40.96366,0
+            -5.66609,40.96368,0
+            -5.6662,40.96366,0
+            -5.66629,40.96365,0
+            -5.66633,40.96364,0
+            -5.66638,40.96387,0
+            -5.66633,40.96364,0
+            -5.66629,40.96365,0
+            -5.6662,40.96366,0
+            -5.66609,40.96368,0
+            -5.66604,40.9637,0
+            -5.66599,40.96371,0
+            -5.66595,40.96375,0
+            -5.6659,40.9638,0
+            -5.6657,40.96366,0
+            -5.66564,40.96369,0
+            -5.66538,40.96389,0
+            -5.66507,40.96409,0
+            -5.66556,40.96424,0
+            -5.66564,40.96427,0
+            -5.66574,40.96431,0
+            -5.66576,40.96436,0
+            -5.66576,40.9644,0
+            -5.66575,40.96449,0
+            -5.66574,40.96469,0
+            -5.666,40.96472,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Campo de San Francisco, 7, 37002 Salamanca, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6677293,40.9661682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Ramón y Cajal, 13, 37002 Salamanca, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6682369,40.9655296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de las Agustinas, Salamanca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6668743,40.9649625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle de la Compañía, Salamanca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6663808,40.9638679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza San Benito, Salamanca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6660906,40.9636818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle de la Compañía, Salamanca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6663808,40.9638679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Meléndez, Salamanca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6656443,40.9636939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Juan del Rey, Salamanca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6655647,40.9642421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prado, Salamanca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6657593,40.9643957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Doctrinos, Salamanca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6660047,40.9647181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Calle Doctrinos, 3, 37002 Salamanca, España a Capilla de la Vera Cruz</name>
+      <Placemark>
+        <name>Indicaciones de Calle Doctrinos, 3, 37002 Salamanca, España a Capilla de la Vera Cruz</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66601,40.96472,0
+            -5.66629,40.96474,0
+            -5.66638,40.96475,0
+            -5.66648,40.96475,0
+            -5.66654,40.96495,0
+            -5.66656,40.96505,0
+            -5.66655,40.96516,0
+            -5.66658,40.96541,0
+            -5.66662,40.96569,0
+            -5.66686,40.96574,0
+            -5.66704,40.9658,0
+            -5.66709,40.96582,0
+            -5.66726,40.96588,0
+            -5.66762,40.96602,0
+            -5.66772,40.96607,0
+            -5.66767,40.96608,0
+            -5.66765,40.96609,0
+            -5.66764,40.9661,0
+            -5.66762,40.96611,0
+            -5.66761,40.96612,0
+            -5.66774,40.96617,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Calle Doctrinos, 3, 37002 Salamanca, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6660054,40.9647182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Capilla de la Vera Cruz</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6677418,40.9661729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

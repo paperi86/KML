@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>SANTÍSIMO CRISTO DE LA LIBERACIÓN</name>
+    <description><![CDATA[SÁBADO SANTO. Día 20 DE ABRIL<br>HORARIO: 00:30 H. <br><br>SALIDA: Colegio Arzobispo Fonseca. <br>RECORRIDO: Colegio Arzobispo Fonseca, Cuesta de San Blas, Fuentecilla de San Blas, Cervantes, Serranos, Traviesa, Libreros, Tavira, plaza Juan XXIII, Benedicto XVI, Francisco Vitoria, Rúa Antigua, Compañía, Cañizal, Tahonas Viejas, Ancha, Ramón y Cajal, Fonseca, Colegio Arzobispo Fonseca. <br>PASO: Santísimo Cristo de la Liberación (Vicente Cid Pérez, 1988).]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Cristo-Liberacion.csv</name>
+      <Placemark>
+        <name>Colegio Arzobispo Fonseca</name>
+        <address>Colegio Arzobispo Fonseca  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Cuesta de San Blas</name>
+        <address>Cuesta de San Blas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Fuentecilla de San Blas</name>
+        <address>Calle Fuentecilla de San Blas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Cervantes</name>
+        <address>Calle Cervantes  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Serranos</name>
+        <address>Calle Serranos  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Traviesa</name>
+        <address>Calle Traviesa  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <address>Calle Libreros  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Tavira</name>
+        <address>Calle Tavira  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Juan XXIII</name>
+        <address>Plaza Juan XXIII  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Francisco Vitoria</name>
+        <address>Calle Francisco Vitoria  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <address>Rúa Antigua  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Cañizal</name>
+        <address>Calle Cañizal  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Tahonas Viejas</name>
+        <address>Calle Tahonas Viejas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Ancha</name>
+        <address>Calle Ancha  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Ramón y Cajal</name>
+        <address>Calle Ramón y Cajal  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Fonseca</name>
+        <address>Calle Fonseca  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Colegio Arzobispo Fonseca</name>
+        <address>Colegio Arzobispo Fonseca  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Colegio Arzobispo Fonseca a Calle Cañizal</name>
+      <Placemark>
+        <name>Indicaciones de Colegio Arzobispo Fonseca a Calle Cañizal</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.67004,40.96513,0
+            -5.66999,40.96515,0
+            -5.6699,40.96519,0
+            -5.66983,40.96514,0
+            -5.66974,40.96508,0
+            -5.66956,40.96495,0
+            -5.6694,40.96481,0
+            -5.66934,40.96477,0
+            -5.66929,40.96473,0
+            -5.66925,40.9647,0
+            -5.66914,40.96462,0
+            -5.66906,40.96456,0
+            -5.66897,40.9645,0
+            -5.66886,40.96442,0
+            -5.66844,40.96414,0
+            -5.6685,40.9641,0
+            -5.66846,40.96407,0
+            -5.66828,40.96395,0
+            -5.66809,40.96382,0
+            -5.66788,40.96369,0
+            -5.66782,40.96364,0
+            -5.66771,40.96355,0
+            -5.66762,40.96347,0
+            -5.66751,40.96338,0
+            -5.66741,40.96331,0
+            -5.6674,40.96327,0
+            -5.66739,40.96321,0
+            -5.66739,40.96317,0
+            -5.66742,40.96309,0
+            -5.66747,40.96296,0
+            -5.66756,40.96269,0
+            -5.66763,40.96242,0
+            -5.66764,40.96234,0
+            -5.66765,40.96234,0
+            -5.66766,40.96233,0
+            -5.66791,40.96226,0
+            -5.66779,40.96213,0
+            -5.66777,40.96211,0
+            -5.6677,40.96206,0
+            -5.66761,40.96199,0
+            -5.6676,40.96198,0
+            -5.66753,40.96193,0
+            -5.66743,40.96186,0
+            -5.66729,40.96177,0
+            -5.66721,40.96171,0
+            -5.66732,40.96152,0
+            -5.66738,40.96143,0
+            -5.66748,40.96126,0
+            -5.66755,40.96116,0
+            -5.6677,40.96093,0
+            -5.66781,40.96077,0
+            -5.66791,40.96063,0
+            -5.66774,40.96057,0
+            -5.6674,40.96045,0
+            -5.66725,40.9604,0
+            -5.66704,40.96068,0
+            -5.6669,40.96084,0
+            -5.66671,40.96108,0
+            -5.66656,40.9613,0
+            -5.66645,40.96146,0
+            -5.66644,40.96147,0
+            -5.66642,40.96152,0
+            -5.66644,40.96176,0
+            -5.66646,40.9621,0
+            -5.66646,40.96219,0
+            -5.66646,40.96228,0
+            -5.66646,40.96244,0
+            -5.66646,40.96251,0
+            -5.66618,40.96259,0
+            -5.66596,40.96266,0
+            -5.666,40.96273,0
+            -5.66613,40.96299,0
+            -5.66614,40.96302,0
+            -5.66617,40.96309,0
+            -5.66619,40.96316,0
+            -5.6662,40.9632,0
+            -5.66626,40.96338,0
+            -5.6663,40.96353,0
+            -5.66633,40.96364,0
+            -5.66638,40.96387,0
+            -5.66639,40.96398,0
+            -5.6664,40.96404,0
+            -5.66671,40.964,0
+            -5.66691,40.96397,0
+            -5.66696,40.96396,0
+            -5.667,40.96395,0
+            -5.66704,40.96394,0
+            -5.66708,40.96392,0
+            -5.66711,40.96391,0
+            -5.66715,40.9639,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Colegio Arzobispo Fonseca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6700356,40.9651285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Fuentecilla de San Blas</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.668861,40.9644247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Cervantes</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6676177,40.9634728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Serranos</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6676641,40.9623322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Traviesa</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6676024,40.9619828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Tavira</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6677363,40.9605733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6665576,40.9613035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6659574,40.962656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6663808,40.9638679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Cañizal</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6671506,40.9638957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Calle Cañizal, 9, 37002 Salamanca, España a Colegio Arzobispo Fonseca</name>
+      <Placemark>
+        <name>Indicaciones de Calle Cañizal, 9, 37002 Salamanca, España a Colegio Arzobispo Fonseca</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66716,40.96389,0
+            -5.66726,40.96386,0
+            -5.66732,40.9639,0
+            -5.66746,40.96398,0
+            -5.66753,40.96402,0
+            -5.66762,40.96407,0
+            -5.66767,40.96409,0
+            -5.6677,40.9641,0
+            -5.66779,40.96413,0
+            -5.66785,40.96415,0
+            -5.66805,40.96421,0
+            -5.66807,40.96422,0
+            -5.66826,40.96428,0
+            -5.66801,40.96454,0
+            -5.66789,40.96466,0
+            -5.6676,40.96495,0
+            -5.66745,40.96511,0
+            -5.66776,40.96529,0
+            -5.6681,40.96546,0
+            -5.66824,40.96553,0
+            -5.66872,40.96576,0
+            -5.66893,40.96586,0
+            -5.66901,40.9659,0
+            -5.66919,40.96576,0
+            -5.66937,40.96562,0
+            -5.66976,40.9653,0
+            -5.66985,40.96522,0
+            -5.6699,40.96519,0
+            -5.66999,40.96515,0
+            -5.67004,40.96513,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Calle Cañizal, 9, 37002 Salamanca, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6671639,40.9638914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Ramón y Cajal</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6687207,40.9657617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colegio Arzobispo Fonseca</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6700356,40.9651285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

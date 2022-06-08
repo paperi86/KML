@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jesús Amigo de los Niños</name>
+    <description><![CDATA[DOMINGO DE RAMOS. Día 14 DE ABRIL<br><br>HERMANDAD JESÚS AMIGO DE LOS NIÑOS<br><br>HORARIO: 12:15 H. S.I.B. <br>SALIDA: Catedral Nueva. <br>RECORRIDO: Catedral Nueva, Atrio de la Catedral, Calderón de la Barca, Libreros, Compañía, Meléndez, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, Quintana, Rúa Mayor, Rúa Antigua, plaza de Anaya, Catedral Nueva. <br>PASO: Jesús Amigo de los Niños (Borriquilla) (Carlos Guerra-Del Moral Santos, 2009).]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Jesus-Amigo-Ninos.csv</name>
+      <Placemark>
+        <name>Catedral Nueva</name>
+        <address>Catedral Nueva  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Atrio de la Catedral</name>
+        <address>Atrio de la Catedral  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Calderón de la Barca</name>
+        <address>Calle Calderón de la Barca  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <address>Calle Libreros  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Meléndez</name>
+        <address>Calle Meléndez  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <address>Plaza del Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Quintana</name>
+        <address>Calle Quintana  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <address>Rúa Antigua  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <address>Plaza de Anaya  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Catedral Nueva. Salamanca</name>
+        <address>Catedral Nueva. Salamanca</address>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Plaza de Anaya, 15, 37008 Salamanca, España a Plaza de Anaya, 15, 37008 Salamanca, España</name>
+      <Placemark>
+        <name>Indicaciones de Plaza de Anaya, 15, 37008 Salamanca, España a Plaza de Anaya, 15, 37008 Salamanca, España</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66578,40.96105,0
+            -5.66585,40.96108,0
+            -5.66627,40.96121,0
+            -5.66656,40.9613,0
+            -5.66671,40.96108,0
+            -5.6669,40.96084,0
+            -5.66722,40.96099,0
+            -5.66731,40.96103,0
+            -5.66747,40.96112,0
+            -5.66755,40.96116,0
+            -5.66748,40.96126,0
+            -5.66738,40.96143,0
+            -5.66732,40.96152,0
+            -5.66721,40.96171,0
+            -5.66707,40.9619,0
+            -5.66697,40.96203,0
+            -5.66685,40.96219,0
+            -5.6667,40.96238,0
+            -5.66667,40.96241,0
+            -5.66667,40.96245,0
+            -5.66668,40.96248,0
+            -5.66646,40.96251,0
+            -5.66618,40.96259,0
+            -5.66596,40.96266,0
+            -5.666,40.96273,0
+            -5.66613,40.96299,0
+            -5.66614,40.96302,0
+            -5.66617,40.96309,0
+            -5.66619,40.96316,0
+            -5.6662,40.9632,0
+            -5.66611,40.96333,0
+            -5.66607,40.96337,0
+            -5.66594,40.96348,0
+            -5.6657,40.96366,0
+            -5.66564,40.96369,0
+            -5.66538,40.96389,0
+            -5.66507,40.96409,0
+            -5.66496,40.96408,0
+            -5.66492,40.96409,0
+            -5.6648,40.9641,0
+            -5.6648,40.96423,0
+            -5.6648,40.96438,0
+            -5.66478,40.96445,0
+            -5.66476,40.96448,0
+            -5.66474,40.96451,0
+            -5.66472,40.96453,0
+            -5.66465,40.96458,0
+            -5.6646,40.96466,0
+            -5.66457,40.96469,0
+            -5.66452,40.9648,0
+            -5.6645,40.96484,0
+            -5.66438,40.96528,0
+            -5.66435,40.96541,0
+            -5.66395,40.96533,0
+            -5.66357,40.96524,0
+            -5.66374,40.9649,0
+            -5.66381,40.96474,0
+            -5.66384,40.9647,0
+            -5.6639,40.96467,0
+            -5.66403,40.96469,0
+            -5.66411,40.96419,0
+            -5.66452,40.96413,0
+            -5.66463,40.96411,0
+            -5.66466,40.96402,0
+            -5.66468,40.96394,0
+            -5.66471,40.96386,0
+            -5.66494,40.96352,0
+            -5.66504,40.96338,0
+            -5.66525,40.96312,0
+            -5.66534,40.963,0
+            -5.66549,40.9628,0
+            -5.66562,40.96261,0
+            -5.66569,40.96247,0
+            -5.66605,40.96199,0
+            -5.66622,40.96176,0
+            -5.66615,40.9617,0
+            -5.66604,40.96161,0
+            -5.66597,40.96157,0
+            -5.66627,40.96121,0
+            -5.66585,40.96108,0
+            -5.66578,40.96105,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya, 15, 37008 Salamanca, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6657775,40.9610536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6659574,40.962656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6647796,40.9644478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665339,40.9630034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya, 15, 37008 Salamanca, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6657775,40.9610536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

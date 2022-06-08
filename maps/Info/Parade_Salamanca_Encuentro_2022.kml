@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>PROCESIÓN CONJUNTA DE RESURRECCIÓN</name>
+    <description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN DEL ENCUENTRO<br><br>DOMINGO DE RESURRECCIÓN. 21 DE ABRIL<br>HORARIO: 13:15 H. <br>ITINERARIO: Atrio de la Catedral, Benedicto XVI, Rúa Mayor, Quintana, Plaza del Poeta Iglesias, Plaza Mayor, Prior, Plaza de Monterrey, Bordadores, Úrsulas, Iglesia de la Vera Cruz. PASOS: Lignum Crucis (Reliquia autenticada de la Cruz de Cristo traída de Roma en el S. XVII. Cruz-relicario, Pedro Benítez, 1675), Las tres marías ante el Sepulcro vacío (imágenes, Pedro Hernández 1617, Santo Sepulcro, anónimo 1678). Nuestra Señora de la Alegría (anónimo S. XVIII). Jesús Resucitado (Alejandro Carnicero, 1725)]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Conjunta-Resurreccion.csv</name>
+      <Placemark>
+        <name>Catedral Nueva</name>
+        <address>Catedral Nueva  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Quintana</name>
+        <address>Calle Quintana  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <address>Calle Prior  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Monterrey</name>
+        <address>Plaza de Monterrey  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Bordadores</name>
+        <address>Calle Bordadores  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Calle Úrsulas</name>
+        <address>Calle Úrsulas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <address>Iglesia de la Vera Cruz  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Indicaciones de Plaza de Anaya, 15, 37008 Salamanca, España a Iglesia de la Vera Cruz</name>
+      <Placemark>
+        <name>Indicaciones de Plaza de Anaya, 15, 37008 Salamanca, España a Iglesia de la Vera Cruz</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66604,40.96114,0
+            -5.66627,40.96121,0
+            -5.66656,40.9613,0
+            -5.66645,40.96146,0
+            -5.66644,40.96147,0
+            -5.66642,40.96152,0
+            -5.66644,40.96176,0
+            -5.66622,40.96176,0
+            -5.66605,40.96199,0
+            -5.66569,40.96247,0
+            -5.66562,40.96261,0
+            -5.66549,40.9628,0
+            -5.66534,40.963,0
+            -5.66525,40.96312,0
+            -5.66504,40.96338,0
+            -5.66494,40.96352,0
+            -5.66471,40.96386,0
+            -5.66468,40.96394,0
+            -5.66466,40.96402,0
+            -5.66463,40.96411,0
+            -5.66452,40.96413,0
+            -5.66411,40.96419,0
+            -5.66403,40.96469,0
+            -5.6639,40.96467,0
+            -5.66384,40.9647,0
+            -5.66381,40.96474,0
+            -5.66374,40.9649,0
+            -5.66357,40.96524,0
+            -5.66395,40.96533,0
+            -5.66435,40.96541,0
+            -5.66438,40.96528,0
+            -5.6645,40.96484,0
+            -5.66452,40.9648,0
+            -5.66522,40.96492,0
+            -5.66544,40.96498,0
+            -5.66571,40.96503,0
+            -5.66587,40.96506,0
+            -5.66634,40.96514,0
+            -5.66655,40.96516,0
+            -5.66658,40.96541,0
+            -5.66662,40.96569,0
+            -5.66686,40.96574,0
+            -5.66704,40.9658,0
+            -5.66709,40.96582,0
+            -5.66726,40.96588,0
+            -5.66762,40.96602,0
+            -5.66772,40.96607,0
+            -5.66767,40.96608,0
+            -5.66765,40.96609,0
+            -5.66764,40.9661,0
+            -5.66762,40.96611,0
+            -5.66761,40.96612,0
+            -5.66774,40.96617,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya, 15, 37008 Salamanca, España</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6660421,40.9611369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6665576,40.9613035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Quintana</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6645175,40.9641302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665441,40.964975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Monterrey</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666554,40.965156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6677418,40.9661729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
