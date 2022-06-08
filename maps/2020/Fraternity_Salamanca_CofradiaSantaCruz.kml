@@ -4,228 +4,122 @@
   <Document>
     <name>Cristo de los Doctrinos</name>
     <description><![CDATA[LUNES SANTO. Día 15 DE ABRIL<br><br>ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN CRISTO DE LOS DOCTRINOS.<br><br>HORARIO: 21:00 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Iglesia de la Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Rúa Antigua, Francisco Vitoria, plaza de Anaya, (Entrada en Catedral por la Puerta de Ramos y Salida por la Puerta del Obispo), Calderón de la Barca, Libreros, Traviesa, Serranos, Cervantes, Cañizal, Compañía, Bordadores y Úrsulas. <br>PASOS: Santísimo Cristo de los Doctrinos (Anónimo, S. XVII). Virgen de la Amargura (Pedro Hernández, 1615).]]></description>
-    <Style id="icon-1899-0288D1-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1899-DB4436-nodesc-normal">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-DB4436-nodesc-highlight">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1899-DB4436-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-1267FF-5000-nodesc-normal">
-      <LineStyle>
-        <color>ffff6712</color>
-        <width>5</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="line-1267FF-5000-nodesc-highlight">
-      <LineStyle>
-        <color>ffff6712</color>
-        <width>7.5</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="line-1267FF-5000-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Folder>
       <name>Cristo-Doctrinos.csv</name>
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
         <address>Iglesia de la Vera Cruz  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Domínguez Berrueta</name>
         <address>Calle Domínguez Berrueta  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Ramón y Cajal</name>
         <address>Calle Ramón y Cajal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Plaza de las Agustinas</name>
         <address>Plaza de las Agustinas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Rúa Antigua</name>
         <address>Rúa Antigua  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Francisco Vitoria</name>
         <address>Calle Francisco Vitoria  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Catedral Nueva</name>
         <address>Catedral Nueva  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Traviesa</name>
         <address>Calle Traviesa  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Serranos</name>
         <address>Calle Serranos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Cervantes</name>
         <address>Calle Cervantes  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Cañizal</name>
         <address>Calle Cañizal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Bordadores</name>
         <address>Calle Bordadores  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Convento de las Úrsulas</name>
         <address>Convento de las Úrsulas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
     </Folder>
     <Folder>
       <name>Indicaciones de Iglesia de la Vera Cruz a Plaza de Anaya, 15, 37008 Salamanca, España</name>
       <Placemark>
         <name>Indicaciones de Iglesia de la Vera Cruz a Plaza de Anaya, 15, 37008 Salamanca, España</name>
-        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <styleUrl>#linea-CristoDoctrinos</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -289,7 +183,7 @@
       </Placemark>
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -298,7 +192,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Domínguez Berrueta</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6680438,40.965755,0
@@ -307,7 +201,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de las Agustinas</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6668743,40.9649625,0
@@ -316,7 +210,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -325,7 +219,7 @@
       </Placemark>
       <Placemark>
         <name>Rúa Antigua</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -334,7 +228,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Francisco Vitoria</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6664596,40.9621005,0
@@ -343,7 +237,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de Anaya, 15, 37008 Salamanca, España</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6658414,40.961075,0
@@ -355,7 +249,7 @@
       <name>Indicaciones de Calle Cardenal Placita y Daniel, 20, 37008 Salamanca, España a Calle Úrsulas, 2, 37002 Salamanca, España</name>
       <Placemark>
         <name>Indicaciones de Calle Cardenal Placita y Daniel, 20, 37008 Salamanca, España a Calle Úrsulas, 2, 37002 Salamanca, España</name>
-        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <styleUrl>#linea-CristoDoctrinos</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -425,7 +319,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Cardenal Placita y Daniel, 20, 37008 Salamanca, España</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6669038,40.9608418,0
@@ -434,7 +328,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Libreros</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -443,7 +337,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Traviesa</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6676024,40.9619828,0
@@ -452,7 +346,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Serranos</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6676641,40.9623322,0
@@ -461,7 +355,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Cañizal, 38, 37002 Salamanca, España</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6676993,40.9636986,0
@@ -470,7 +364,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Úrsulas, 2, 37002 Salamanca, España</name>
-        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6672729,40.9658852,0
