@@ -15,7 +15,7 @@
         <ExtendedData>
           <Data name="indexPlacemark">1</Data>
         </ExtendedData>
-        
+
         <index>1</index>
         <name>Iglesia de la Vera Cruz</name>
         <address>Iglesia de la Vera Cruz  Salamanca</address>
@@ -94,7 +94,7 @@
       </Placemark>
       <Placemark>
         <index>12</index>
-        <name>Calle Traviesa</name>
+        <name>Calle Traviesa 12</name>
         <address>Calle Traviesa  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
