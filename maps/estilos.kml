@@ -8,11 +8,12 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <!--<href>http://semanasanta-laravel.com/media/icons/Cementerio.png</href>-->
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/EventVersion_Parade_Salamanca_CristoDoctrinos_2022-0.svg</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
         <BalloonStyle>
-          <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
+          <text><![CDATA[<h3>$[name]</h3><p>$[#PlacemarkFolder/indexPlacemark] $[description]</p>]]></text>
         </BalloonStyle>
       </IconStyle>
     </Style>
