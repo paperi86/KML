@@ -2,113 +2,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
+    <idEventVersion>EventVersion_Parade_Salamanca_CristoDoctrinos_2022</idEventVersion>
     <name>Cristo de los Doctrinos</name>
     <description><![CDATA[LUNES SANTO. Día 15 DE ABRIL<br><br>ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN CRISTO DE LOS DOCTRINOS.<br><br>HORARIO: 21:00 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Iglesia de la Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Rúa Antigua, Francisco Vitoria, plaza de Anaya, (Entrada en Catedral por la Puerta de Ramos y Salida por la Puerta del Obispo), Calderón de la Barca, Libreros, Traviesa, Serranos, Cervantes, Cañizal, Compañía, Bordadores y Úrsulas. <br>PASOS: Santísimo Cristo de los Doctrinos (Anónimo, S. XVII). Virgen de la Amargura (Pedro Hernández, 1615).]]></description>
-    <Folder>
-      <name>Cristo-Doctrinos.csv</name>
+    <Folder id="PlacemarkFolder">
+      <name>Placemarks</name>
+      <ExtendedData>
+        <Data name="indexPlacemark">0</Data>
+      </ExtendedData>
+
       <Placemark>
+        <ExtendedData>
+          <Data name="indexPlacemark">1</Data>
+        </ExtendedData>
+        
+        <index>1</index>
         <name>Iglesia de la Vera Cruz</name>
         <address>Iglesia de la Vera Cruz  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>2</index>
         <name>Calle Domínguez Berrueta</name>
         <address>Calle Domínguez Berrueta  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>3</index>
         <name>Calle Ramón y Cajal</name>
         <address>Calle Ramón y Cajal  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>4</index>
         <name>Plaza de las Agustinas</name>
         <address>Plaza de las Agustinas  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>5</index>
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>6</index>
         <name>Rúa Antigua</name>
         <address>Rúa Antigua  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>7</index>
         <name>Calle Francisco Vitoria</name>
         <address>Calle Francisco Vitoria  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>8</index>
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>9</index>
         <name>Catedral Nueva</name>
         <address>Catedral Nueva  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#icono-marcador</styleUrl>
+        <styleUrl>#icono-catedral</styleUrl>
       </Placemark>
       <Placemark>
+        <index>10</index>
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>11</index>
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>12</index>
         <name>Calle Traviesa</name>
         <address>Calle Traviesa  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>13</index>
         <name>Calle Serranos</name>
         <address>Calle Serranos  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>14</index>
         <name>Calle Cervantes</name>
         <address>Calle Cervantes  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>15</index>
         <name>Calle Cañizal</name>
         <address>Calle Cañizal  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>16</index>
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>17</index>
         <name>Calle Bordadores</name>
         <address>Calle Bordadores  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
+        <index>18</index>
         <name>Convento de las Úrsulas</name>
         <address>Convento de las Úrsulas  Salamanca</address>
         <description>Salamanca</description>
