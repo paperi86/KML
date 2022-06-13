@@ -88,7 +88,7 @@
         <color>ffffffff</color>
         <scale>0.64</scale>
         <Icon>
-          <href>http://localhost:3000/media/icons/Destacado.png</href>
+          <href>http://localhost:3000/media/icons/DestacadoOjo.png</href>
         </Icon>
         <hotSpot x="64" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
