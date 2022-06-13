@@ -12,7 +12,7 @@
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
         <BalloonStyle>
-          <text><![CDATA[<h3>$[name] $[index]</h3><p>$[description]</p>]]></text>
+          <text><![CDATA[<h3>$[name]</h3><p>$[description]</p>]]></text>
         </BalloonStyle>
       </IconStyle>
     </Style>

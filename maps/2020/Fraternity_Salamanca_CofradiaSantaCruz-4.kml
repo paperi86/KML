@@ -6,7 +6,6 @@
     <Folder>
       <name>Cristo de los Doctrinos 4</name>
       <Placemark>
-        <index>1</index>
         <name>Iglesia de la Vera Cruz</name>
         <address>Iglesia de la Vera Cruz  Salamanca</address>
         <description>Salamanca</description>
@@ -18,7 +17,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <index>2</index>
         <name>Calle Domínguez Berrueta</name>
         <address>Calle Domínguez Berrueta  Salamanca</address>
         <description>Salamanca</description>
