@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-  <Placemark>
-    <name>Iglesia de la Vera Cruz</name>
-    <description>Salamanca</description>
-    <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
-    <Point>
-      <coordinates>
-        -5.6677418,40.9661729,0
-      </coordinates>
-    </Point>
-  </Placemark>
-</kml>
+<kml xmlns="http://www.opengis.net/kml/2.2"> 
+<Placemark>
+ <name>Marca de posición simple</name>
+ <description>Pegada al suelo. Se coloca de forma inteligente a la altura del relieve subyacente.</description>
+ <Point>
+  <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
+ </Point>
+ </Placemark> 
+ </kml>
