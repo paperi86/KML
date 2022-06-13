@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
+    <Style id="icono-marcador">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/b5270ba75b2f33eb9f133f04e6552bb0801ea7cc/Catedral.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+        <BalloonStyle>
+          <text><![CDATA[<h3>$[name]</h3><p>$[#PlacemarkFolder/indexPlacemark] $[description]</p>]]></text>
+        </BalloonStyle>
+      </IconStyle>
+    </Style>
+
     <name>Cristo de los Doctrinos</name>
     <description><![CDATA[LUNES SANTO. Día 15 DE ABRIL<br><br>ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN CRISTO DE LOS DOCTRINOS.<br><br>HORARIO: 21:00 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Iglesia de la Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Rúa Antigua, Francisco Vitoria, plaza de Anaya, (Entrada en Catedral por la Puerta de Ramos y Salida por la Puerta del Obispo), Calderón de la Barca, Libreros, Traviesa, Serranos, Cervantes, Cañizal, Compañía, Bordadores y Úrsulas. <br>PASOS: Santísimo Cristo de los Doctrinos (Anónimo, S. XVII). Virgen de la Amargura (Pedro Hernández, 1615).]]></description>
     <Folder>
@@ -9,7 +23,7 @@
         <name>Iglesia de la Vera Cruz</name>
         <address>Iglesia de la Vera Cruz  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -20,7 +34,7 @@
         <name>Calle Domínguez Berrueta</name>
         <address>Calle Domínguez Berrueta  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6680438,40.965755,0
@@ -31,13 +45,13 @@
         <name>Calle Ramón y Cajal</name>
         <address>Calle Ramón y Cajal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Plaza de las Agustinas</name>
         <address>Plaza de las Agustinas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6668743,40.9649625,0
@@ -48,7 +62,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -59,7 +73,7 @@
         <name>Rúa Antigua</name>
         <address>Rúa Antigua  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -70,7 +84,7 @@
         <name>Calle Francisco Vitoria</name>
         <address>Calle Francisco Vitoria  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6664596,40.9621005,0
@@ -81,7 +95,7 @@
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6658414,40.961075,0
@@ -103,13 +117,13 @@
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -120,7 +134,7 @@
         <name>Calle Traviesa</name>
         <address>Calle Traviesa  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6676024,40.9619828,0
@@ -131,7 +145,7 @@
         <name>Calle Serranos</name>
         <address>Calle Serranos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6676641,40.9623322,0
@@ -142,13 +156,13 @@
         <name>Calle Cervantes</name>
         <address>Calle Cervantes  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Cañizal</name>
         <address>Calle Cañizal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6676993,40.9636986,0
@@ -159,7 +173,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -170,7 +184,7 @@
         <name>Calle Bordadores 2</name>
         <address>Calle Bordadores  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.666577,40.965552,0
@@ -181,7 +195,7 @@
         <name>Convento de las Úrsulas</name>
         <address>Convento de las Úrsulas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
+        <styleUrl>#icono-marcador</styleUrl>
         <Point>
           <coordinates>
             -5.6672729,40.9658852,0
@@ -193,7 +207,7 @@
       <name>Indicaciones de Iglesia de la Vera Cruz a Plaza de Anaya, 15, 37008 Salamanca, España</name>
       <Placemark>
         <name>Indicaciones de Iglesia de la Vera Cruz a Plaza de Anaya, 15, 37008 Salamanca, España</name>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#linea-CristoDoctrinos</styleUrl>
+        <styleUrl>#linea-CristoDoctrinos</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -260,7 +274,7 @@
       <name>Indicaciones de Calle Cardenal Placita y Daniel, 20, 37008 Salamanca, España a Calle Úrsulas, 2, 37002 Salamanca, España</name>
       <Placemark>
         <name>Indicaciones de Calle Cardenal Placita y Daniel, 20, 37008 Salamanca, España a Calle Úrsulas, 2, 37002 Salamanca, España</name>
-        <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#linea-CristoDoctrinos</styleUrl>
+        <styleUrl>#linea-CristoDoctrinos</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
