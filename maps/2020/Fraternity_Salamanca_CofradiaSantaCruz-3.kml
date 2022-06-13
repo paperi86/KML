@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Style id="estiloInterno">
+  
+
+  <Placemark>
+    <Style id="estiloInterno">
     <IconStyle>
       <Icon>
         <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
@@ -11,8 +14,7 @@
       <text>$[name]</text>
     </BalloonStyle>
   </Style>
-
-  <Placemark>
+  
     <name>Iglesia de la Vera Cruz</name>
     <description>Salamanca</description>
     <styleUrl>#estiloInterno</styleUrl>
