@@ -8,7 +8,7 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>https://mt.google.com/vt/icon/name=icons/onion/SHARED-mymaps-container-bg_4x.png,icons/onion/SHARED-mymaps-container_4x.png,icons/onion/1738-blank-sequence_4x.png&amp;highlight=ff000000,0288D1,ff000000&scale=2.0&color=ffffffff&psize=15&text=1&font=fonts/Roboto-Medium.ttf</href>
+          <href>https://developers.google.com/maps/documentation/javascript/examples/full/images/info-i_maps.png</href>
         </Icon>
       </IconStyle>
     </Style>
