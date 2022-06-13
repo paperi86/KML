@@ -22,7 +22,7 @@
         <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
-          <href>http://localhost:3000/media/icons/Cementerio.png</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/Cementerio.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -33,7 +33,7 @@
         <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
-          <href>http://localhost:3000/media/icons/Auditorio.png</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/Auditorio.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -44,7 +44,7 @@
         <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
-          <href>http://localhost:3000/media/icons/Catedral.png</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/Catedral.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -55,7 +55,7 @@
         <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
-          <href>http://localhost:3000/media/icons/Convento.png</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/Convento.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -66,7 +66,7 @@
         <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
-          <href>http://localhost:3000/media/icons/Iglesia.png</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/Iglesia.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -77,7 +77,7 @@
         <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
-          <href>http://localhost:3000/media/icons/Fotografia.png</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/Fotografia.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="32" yunits="insetPixels"/>
       </IconStyle>
@@ -88,7 +88,7 @@
         <color>ffffffff</color>
         <scale>0.64</scale>
         <Icon>
-          <href>http://localhost:3000/media/icons/DestacadoOjo.png</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/DestacadoOjo.png</href>
         </Icon>
         <hotSpot x="64" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
