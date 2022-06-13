@@ -8,8 +8,7 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <!--<href>http://semanasanta-laravel.com/media/icons/Cementerio.png</href>-->
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/EventVersion_Parade_Salamanca_CristoDoctrinos_2022-0.svg</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/Catedral.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
         <BalloonStyle>
