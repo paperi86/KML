@@ -207,7 +207,7 @@
       <name>Indicaciones de Iglesia de la Vera Cruz a Plaza de Anaya, 15, 37008 Salamanca, España</name>
       <Placemark>
         <name>Indicaciones de Iglesia de la Vera Cruz a Plaza de Anaya, 15, 37008 Salamanca, España</name>
-        <styleUrl>#linea-CristoDoctrinos</styleUrl>
+        <styleUrl>#linea-CristoDoctrin</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
