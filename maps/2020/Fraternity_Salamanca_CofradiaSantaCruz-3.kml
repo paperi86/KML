@@ -12,7 +12,7 @@
         <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
         <Point>
           <coordinates>
-            -5.6677418,40.9661729,0
+            -5.6677418,50.9661729,0
           </coordinates>
         </Point>
       </Placemark>
