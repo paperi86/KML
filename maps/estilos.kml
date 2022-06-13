@@ -8,7 +8,7 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/b5270ba75b2f33eb9f133f04e6552bb0801ea7cc/Catedral.png</href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/Catedral.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
         <BalloonStyle>

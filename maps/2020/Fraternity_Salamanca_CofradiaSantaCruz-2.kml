@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <Style id="icono-marcador">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/b5270ba75b2f33eb9f133f04e6552bb0801ea7cc/Catedral.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-        <BalloonStyle>
-          <text><![CDATA[<h3>$[name]</h3><p>$[#PlacemarkFolder/indexPlacemark] $[description]</p>]]></text>
-        </BalloonStyle>
-      </IconStyle>
-    </Style>
-
     <name>Cristo de los Doctrinos</name>
     <description><![CDATA[LUNES SANTO. Día 15 DE ABRIL<br><br>ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN CRISTO DE LOS DOCTRINOS.<br><br>HORARIO: 21:00 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Iglesia de la Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Rúa Antigua, Francisco Vitoria, plaza de Anaya, (Entrada en Catedral por la Puerta de Ramos y Salida por la Puerta del Obispo), Calderón de la Barca, Libreros, Traviesa, Serranos, Cervantes, Cañizal, Compañía, Bordadores y Úrsulas. <br>PASOS: Santísimo Cristo de los Doctrinos (Anónimo, S. XVII). Virgen de la Amargura (Pedro Hernández, 1615).]]></description>
     <Folder>
