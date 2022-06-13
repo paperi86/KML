@@ -8,11 +8,11 @@
         <color>ffd18802</color>
         <scale>1</scale>
         <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/EventVersion_Parade_Salamanca_CristoDoctrinos_2020-<![CDATA[$[index].svg]]></href>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/icoMainOffice.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
         <BalloonStyle>
-          <text><![CDATA[<h3>$[name] - $[index]</h3><p>$[description]</p>]]></text>
+          <text><![CDATA[<h3>$[name] $[index]</h3><p>$[description]</p>]]></text>
         </BalloonStyle>
       </IconStyle>
     </Style>
