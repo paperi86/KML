@@ -6,13 +6,14 @@
     <Folder>
       <name>Cristo de los Doctrinos 1</name>
       <Placemark>
+        <index>1</index>
         <name>Iglesia de la Vera Cruz</name>
         <address>Iglesia de la Vera Cruz  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
         <Point>
           <coordinates>
-            -5.6677418,50.9661729,0
+            -5.6677418,40.9661729,0
           </coordinates>
         </Point>
       </Placemark>
