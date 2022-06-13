@@ -167,7 +167,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Calle Bordadores 2</name>
+        <name>Calle Bordadores</name>
         <address>Calle Bordadores  Salamanca</address>
         <description>Salamanca</description>
         <styleUrl>https://raw.githubusercontent.com/paperi86/KML/main/maps/estilos.kml#icono-marcador</styleUrl>
