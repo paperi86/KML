@@ -562,7 +562,7 @@
     <Placemark>
       <name>Indicaciones de Calle Cardenal Placita y Daniel, 20, 37008 Salamanca, España a Calle Úrsulas, 2, 37002 Salamanca, España</name>
       <description><![CDATA[descripción: <br>dirección: ]]></description>
-      <styleUrl>Parade_Salamanca_CristoDoctrinos_Line_Normal</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Line_Normal</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
