@@ -2,194 +2,178 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Fraternity_Salamanca_CofradiaSantaCruz-4.kml</name>
-    <Style id="icon-seq2-0-0-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_1">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-1.png</href>
+          <href>marker-1.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-1-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_2">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-2.png</href>
+          <href>marker-2.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-10-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_11">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-11.png</href>
+          <href>marker-11.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-11-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_12">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-12.png</href>
+          <href>marker-12.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-12-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_13">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-13.png</href>
+          <href>marker-13.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-13-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_14">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-14.png</href>
+          <href>marker-14.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-14-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_15">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-15.png</href>
+          <href>marker-15.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-15-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_16">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-16.png</href>
+          <href>marker-16.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-16-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_17">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-17.png</href>
+          <href>marker-17.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-17-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_18">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-18.png</href>
+          <href>marker-18.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-2-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_3">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-3.png</href>
+          <href>marker-3.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-3-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_4">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-4.png</href>
+          <href>marker-4.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-4-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_5">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-5.png</href>
+          <href>marker-5.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-5-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_6">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-6.png</href>
+          <href>marker-6.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-6-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_7">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-7.png</href>
+          <href>marker-7.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-7-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_8">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-8.png</href>
+          <href>marker-8.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-8-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_9">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-9.png</href>
+          <href>marker-9.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="icon-seq2-0-9-0288D1-labelson">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_10">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>80b0f000</color>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-10.png</href>
+          <href>marker-10.png</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="line-0288D1-3519-normal">
+    <Style id="Parade_Salamanca_CristoDoctrinos_Line_Normal">
       <LineStyle>
-        <color>ffd18802</color>
-        <width>3.519</width>
+        <color>80b0f000</color>
+        <width>3</width>
       </LineStyle>
     </Style>
-    <Style id="line-0288D1-3519-highlight">
-      <LineStyle>
-        <color>ffd18802</color>
-        <width>5.2785</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-0288D1-3519">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-0288D1-3519-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-0288D1-3519-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Placemark>
       <name>Iglesia de la Vera Cruz</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Iglesia de la Vera Cruz  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-0-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_1</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -207,7 +191,7 @@
     <Placemark>
       <name>Calle Domínguez Berrueta</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Domínguez Berrueta  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-1-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_2</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -225,7 +209,7 @@
     <Placemark>
       <name>Calle Ramón y Cajal</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Ramón y Cajal  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-2-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_3</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -243,7 +227,7 @@
     <Placemark>
       <name>Plaza de las Agustinas</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Plaza de las Agustinas  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-3-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_4</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -261,7 +245,7 @@
     <Placemark>
       <name>Calle Compañía</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Compañía  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-4-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_5</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -279,7 +263,7 @@
     <Placemark>
       <name>Rúa Antigua</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Rúa Antigua  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-5-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_6</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -297,7 +281,7 @@
     <Placemark>
       <name>Calle Francisco Vitoria</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Francisco Vitoria  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-6-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_7</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -315,7 +299,7 @@
     <Placemark>
       <name>Plaza de Anaya</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Plaza de Anaya  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-7-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_8</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -333,7 +317,7 @@
     <Placemark>
       <name>Catedral Nueva</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Catedral Nueva  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-8-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_9</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -352,7 +336,7 @@
       <name>Calle Calderón de la Barca</name>
       <address>Calle Calderón de la Barca  Salamanca</address>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Calderón de la Barca  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-9-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_10</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -365,7 +349,7 @@
     <Placemark>
       <name>Calle Libreros</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Libreros  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-10-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_11</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -383,7 +367,7 @@
     <Placemark>
       <name>Calle Traviesa</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Traviesa  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-11-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_12</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -401,7 +385,7 @@
     <Placemark>
       <name>Calle Serranos</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Serranos  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-12-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_13</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -420,7 +404,7 @@
       <name>Calle Cervantes</name>
       <address>Calle Cervantes  Salamanca</address>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Cervantes  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-13-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_14</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -433,7 +417,7 @@
     <Placemark>
       <name>Calle Cañizal</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Cañizal  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-14-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_15</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -451,7 +435,7 @@
     <Placemark>
       <name>Calle Compañía</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Compañía  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-15-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_16</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -469,7 +453,7 @@
     <Placemark>
       <name>Calle Bordadores</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Calle Bordadores  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-16-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_17</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -487,7 +471,7 @@
     <Placemark>
       <name>Convento de las Úrsulas</name>
       <description><![CDATA[descripción: Salamanca<br>dirección: Convento de las Úrsulas  Salamanca]]></description>
-      <styleUrl>#icon-seq2-0-17-0288D1-labelson</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_18</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value>Salamanca</value>
@@ -505,7 +489,7 @@
     <Placemark>
       <name>Indicaciones de Iglesia de la Vera Cruz a Plaza de Anaya, 15, 37008 Salamanca, España</name>
       <description><![CDATA[descripción: <br>dirección: ]]></description>
-      <styleUrl>#line-0288D1-3519</styleUrl>
+      <styleUrl>#Parade_Salamanca_CristoDoctrinos_Line_Normal</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
@@ -578,7 +562,7 @@
     <Placemark>
       <name>Indicaciones de Calle Cardenal Placita y Daniel, 20, 37008 Salamanca, España a Calle Úrsulas, 2, 37002 Salamanca, España</name>
       <description><![CDATA[descripción: <br>dirección: ]]></description>
-      <styleUrl>#line-0288D1-3519</styleUrl>
+      <styleUrl>Parade_Salamanca_CristoDoctrinos_Line_Normal</styleUrl>
       <ExtendedData>
         <Data name="descripción">
           <value/>
