@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Fraternity_Salamanca_CofradiaSantaCruz-4.kml</name>
+    <name>Doctrinos-2</name>
     <Style id="Parade_Salamanca_CristoDoctrinos_Marker_1">
       <IconStyle>
         <color>80b0f000</color>
@@ -17,78 +17,6 @@
         <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_11">
-      <IconStyle>
-        <color>80b0f000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_12">
-      <IconStyle>
-        <color>80b0f000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_13">
-      <IconStyle>
-        <color>80b0f000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_14">
-      <IconStyle>
-        <color>80b0f000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_15">
-      <IconStyle>
-        <color>80b0f000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_16">
-      <IconStyle>
-        <color>80b0f000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_17">
-      <IconStyle>
-        <color>80b0f000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_18">
-      <IconStyle>
-        <color>80b0f000</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-18.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -164,6 +92,78 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_11">
+      <IconStyle>
+        <color>80b0f000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_12">
+      <IconStyle>
+        <color>80b0f000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_13">
+      <IconStyle>
+        <color>80b0f000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_14">
+      <IconStyle>
+        <color>80b0f000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_15">
+      <IconStyle>
+        <color>80b0f000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_16">
+      <IconStyle>
+        <color>80b0f000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_17">
+      <IconStyle>
+        <color>80b0f000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Parade_Salamanca_CristoDoctrinos_Marker_18">
+      <IconStyle>
+        <color>80b0f000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-18.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="Parade_Salamanca_CristoDoctrinos_Line_Normal">
       <LineStyle>
         <color>80b0f000</color>
@@ -172,7 +172,7 @@
     </Style>
     <Placemark>
       <name>Iglesia de la Vera Cruz</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_1</styleUrl>
       <Point>
         <coordinates>
@@ -182,7 +182,7 @@
     </Placemark>
     <Placemark>
       <name>Calle Domínguez Berrueta</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_2</styleUrl>
       <Point>
         <coordinates>
@@ -192,7 +192,7 @@
     </Placemark>
     <Placemark>
       <name>Calle Ramón y Cajal</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_3</styleUrl>
       <Point>
         <coordinates>
@@ -202,7 +202,7 @@
     </Placemark>
     <Placemark>
       <name>Plaza de las Agustinas</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_4</styleUrl>
       <Point>
         <coordinates>
@@ -212,7 +212,7 @@
     </Placemark>
     <Placemark>
       <name>Calle Compañía</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_5</styleUrl>
       <Point>
         <coordinates>
@@ -222,7 +222,7 @@
     </Placemark>
     <Placemark>
       <name>Rúa Antigua</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_6</styleUrl>
       <Point>
         <coordinates>
@@ -232,7 +232,7 @@
     </Placemark>
     <Placemark>
       <name>Calle Francisco Vitoria</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_7</styleUrl>
       <Point>
         <coordinates>
@@ -242,7 +242,7 @@
     </Placemark>
     <Placemark>
       <name>Plaza de Anaya</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_8</styleUrl>
       <Point>
         <coordinates>
@@ -252,7 +252,7 @@
     </Placemark>
     <Placemark>
       <name>Catedral Nueva</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_9</styleUrl>
       <Point>
         <coordinates>
@@ -263,12 +263,12 @@
     <Placemark>
       <name>Calle Calderón de la Barca</name>
       <address>Calle Calderón de la Barca  Salamanca</address>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_10</styleUrl>
       </Placemark>
     <Placemark>
       <name>Calle Libreros</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_11</styleUrl>
       <Point>
         <coordinates>
@@ -278,7 +278,7 @@
     </Placemark>
     <Placemark>
       <name>Calle Traviesa</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_12</styleUrl>
       <Point>
         <coordinates>
@@ -288,7 +288,7 @@
     </Placemark>
     <Placemark>
       <name>Calle Serranos</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_13</styleUrl>
       <Point>
         <coordinates>
@@ -299,12 +299,12 @@
     <Placemark>
       <name>Calle Cervantes</name>
       <address>Calle Cervantes  Salamanca</address>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_14</styleUrl>
       </Placemark>
     <Placemark>
       <name>Calle Cañizal</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_15</styleUrl>
       <Point>
         <coordinates>
@@ -314,7 +314,7 @@
     </Placemark>
     <Placemark>
       <name>Calle Compañía</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_16</styleUrl>
       <Point>
         <coordinates>
@@ -324,7 +324,7 @@
     </Placemark>
     <Placemark>
       <name>Calle Bordadores</name>
-      <description>Descripción</description>
+      <description>Description</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_17</styleUrl>
       <Point>
         <coordinates>
