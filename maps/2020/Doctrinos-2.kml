@@ -172,16 +172,8 @@
     </Style>
     <Placemark>
       <name>Iglesia de la Vera Cruz</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Iglesia de la Vera Cruz  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_1</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Iglesia de la Vera Cruz  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.667742,40.966173,0
@@ -190,16 +182,8 @@
     </Placemark>
     <Placemark>
       <name>Calle Domínguez Berrueta</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Domínguez Berrueta  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_2</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Domínguez Berrueta  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.668044,40.965755,0
@@ -208,16 +192,8 @@
     </Placemark>
     <Placemark>
       <name>Calle Ramón y Cajal</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Ramón y Cajal  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_3</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Ramón y Cajal  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.668034,40.965431,0
@@ -226,16 +202,8 @@
     </Placemark>
     <Placemark>
       <name>Plaza de las Agustinas</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Plaza de las Agustinas  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_4</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Plaza de las Agustinas  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.666874,40.964962,0
@@ -244,16 +212,8 @@
     </Placemark>
     <Placemark>
       <name>Calle Compañía</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Compañía  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_5</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Compañía  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.666381,40.963868,0
@@ -262,16 +222,8 @@
     </Placemark>
     <Placemark>
       <name>Rúa Antigua</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Rúa Antigua  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_6</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Rúa Antigua  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.665957,40.962656,0
@@ -280,16 +232,8 @@
     </Placemark>
     <Placemark>
       <name>Calle Francisco Vitoria</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Francisco Vitoria  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_7</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Francisco Vitoria  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.66646,40.9621,0
@@ -298,16 +242,8 @@
     </Placemark>
     <Placemark>
       <name>Plaza de Anaya</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Plaza de Anaya  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_8</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Plaza de Anaya  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.665841,40.961075,0
@@ -316,16 +252,8 @@
     </Placemark>
     <Placemark>
       <name>Catedral Nueva</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Catedral Nueva  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_9</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Catedral Nueva  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.666904,40.960842,0
@@ -335,29 +263,13 @@
     <Placemark>
       <name>Calle Calderón de la Barca</name>
       <address>Calle Calderón de la Barca  Salamanca</address>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Calderón de la Barca  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_10</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Calderón de la Barca  Salamanca</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
+      </Placemark>
     <Placemark>
       <name>Calle Libreros</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Libreros  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_11</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Libreros  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.667551,40.96116,0
@@ -366,16 +278,8 @@
     </Placemark>
     <Placemark>
       <name>Calle Traviesa</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Traviesa  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_12</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Traviesa  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.667602,40.961983,0
@@ -384,16 +288,8 @@
     </Placemark>
     <Placemark>
       <name>Calle Serranos</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Serranos  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_13</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Serranos  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.667664,40.962332,0
@@ -403,29 +299,13 @@
     <Placemark>
       <name>Calle Cervantes</name>
       <address>Calle Cervantes  Salamanca</address>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Cervantes  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_14</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Cervantes  Salamanca</value>
-        </Data>
-      </ExtendedData>
-    </Placemark>
+      </Placemark>
     <Placemark>
       <name>Calle Cañizal</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Cañizal  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_15</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Cañizal  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.667699,40.963699,0
@@ -434,16 +314,8 @@
     </Placemark>
     <Placemark>
       <name>Calle Compañía</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Compañía  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_16</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Compañía  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.666381,40.963868,0
@@ -452,16 +324,8 @@
     </Placemark>
     <Placemark>
       <name>Calle Bordadores</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Calle Bordadores  Salamanca]]></description>
+      <description>Descripción</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_17</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Calle Bordadores  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.666577,40.965552,0
@@ -470,16 +334,8 @@
     </Placemark>
     <Placemark>
       <name>Convento de las Úrsulas</name>
-      <description><![CDATA[descripción: Salamanca<br>dirección: Convento de las Úrsulas  Salamanca]]></description>
+      <description></description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Marker_18</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value>Salamanca</value>
-        </Data>
-        <Data name="dirección">
-          <value>Convento de las Úrsulas  Salamanca</value>
-        </Data>
-      </ExtendedData>
       <Point>
         <coordinates>
           -5.667273,40.965885,0
@@ -487,17 +343,9 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Indicaciones de Iglesia de la Vera Cruz a Plaza de Anaya, 15, 37008 Salamanca, España</name>
-      <description><![CDATA[descripción: <br>dirección: ]]></description>
+      <name>Linea 1</name>
+      <description>Tramo 1</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Line_Normal</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value/>
-        </Data>
-        <Data name="dirección">
-          <value/>
-        </Data>
-      </ExtendedData>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
@@ -560,17 +408,9 @@
       </LineString>
     </Placemark>
     <Placemark>
-      <name>Indicaciones de Calle Cardenal Placita y Daniel, 20, 37008 Salamanca, España a Calle Úrsulas, 2, 37002 Salamanca, España</name>
-      <description><![CDATA[descripción: <br>dirección: ]]></description>
+      <name>Linea 2</name>
+      <description>Tramo 2</description>
       <styleUrl>#Parade_Salamanca_CristoDoctrinos_Line_Normal</styleUrl>
-      <ExtendedData>
-        <Data name="descripción">
-          <value/>
-        </Data>
-        <Data name="dirección">
-          <value/>
-        </Data>
-      </ExtendedData>
       <LineString>
         <tessellate>1</tessellate>
         <coordinates>
