@@ -1,0 +1,5 @@
+<Style[^\n]*\n[\s]*<IconStyle>\n[\s]*<color>[a-f0-9]*</color>\n[\s]*<scale>1</scale>\n[\s]*<Icon>\n[\s]*<href>[^\n]*\n[\s]*</Icon>\n[\s]*<hotSpot[^\n]*\n[\s]*</IconStyle>\n[\s]*(<LabelStyle>\n[\s]*<scale>[01]</scale>\n[\s]*</LabelStyle>\n[\s]*)(<BalloonStyle>\n[\s]*<text>[^\n]*\n[\s]*</BalloonStyle>\n[\s]*)?</Style>
+
+<StyleMap [^\n]*(\n[\s]*<Pair>\n[\s]*<key>[\w]*</key>\n[\s]*<styleUrl>[#\-\w]*</styleUrl>\n[\s]*</Pair>)+\n[\s]*</StyleMap>
+
+<Style[^\n]*\n[\s]*<LineStyle>\n[\s]*<color>[a-f0-9]*</color>\n[\s]*<width>[0-9.]*</width>\n[\s]*</LineStyle>\n[\s]*(<BalloonStyle>\n[\s]*<text>[^\n]*\n[\s]*</BalloonStyle>\n[\s]*)?</Style>

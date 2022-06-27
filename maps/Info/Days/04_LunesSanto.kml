@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lunes Santo (11 de Abril de 2022)</name>
+    <description><![CDATA[Recorridos Procesionales del Lunes Santo de la Semana Santa Salamanca 2022]]></description>
+    
+    <NetworkLink> 
+      <Link>
+        <href>https://raw.githubusercontent.com/paperi86/KML/main/maps/Info/Parade/Parade_Salamanca_CristoDoctrinos.kml</href>
+      </Link>
+    </NetworkLink>
+
+  </Document>
+</kml>

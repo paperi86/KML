@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jueves Santo (14 de Abril de 2022)</name>
+    <description><![CDATA[Recorridos Procesionales del Jueves Santo de la Semana Santa Salamanca 2022]]></description>
+    
+    <NetworkLink> 
+      <Link>
+        <href>https://raw.githubusercontent.com/paperi86/KML/main/maps/Info/Parade/Parade_Salamanca_ViaCrucis.kml</href>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink> 
+      <Link>
+        <href>https://raw.githubusercontent.com/paperi86/KML/main/maps/Info/Parade/Parade_Salamanca_CristoAgonia.kml</href>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink> 
+      <Link>
+        <href>https://raw.githubusercontent.com/paperi86/KML/main/maps/Info/Parade/Parade_Salamanca_CristoAmorYPaz.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

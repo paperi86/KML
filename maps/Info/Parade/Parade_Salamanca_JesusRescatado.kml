@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Parade_Salamanca_JesusRescatado">
+    <name>ILUSTRE Y VENERABLE CONGREGACIÓN DE JESÚS RESCATADO Y NUESTRA SEÑORA DE LAS ANGUSTIAS</name>
+    <description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br>HORARIO: 18:30 H. <br>SALIDA: Parroquia de San Pablo. <br>RECORRIDO: Parroquia de San Pablo, plaza de Colón, San Pablo, Tostado, Silencio, San Vicente Ferrer, plaza de los Leones, Arcediano, Patio Chico, Gibraltar, Veracruz, Libreros, Calderón de la Barca, S.I.B. Catedral (entrada y salida por puerta del Obispo), Benedicto XVI, Rúa Mayor, Quintana, San Pablo, Plaza de Colón, parroquia de San Pablo. <br>PASOS: Jesús Divino Redentor Rescatado (Anónimo, S. XVIII).<br>Nuestra Señora de las Angustias (Anónimo, S. XVIII).]]></description>
+
+    <Folder>
+      <name>Jesus Rescatado - Markers</name>
+      <Placemark>
+        <name>Parroquia de San Pablo</name>
+        <address>Parroquia de San Pablo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6636461,40.9617847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Colón</name>
+        <address>Plaza de Colón  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
+            -5.664036,40.961982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle San Pablo</name>
+        <address>Calle San Pablo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6643147,40.9616002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Tostado</name>
+        <address>Calle Tostado  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
+            -5.664762,40.960938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Silencio</name>
+        <address>Calle Silencio  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6649954,40.9607576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle San Vicente Ferrer</name>
+        <address>Calle San Vicente Ferrer  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665406,40.960436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de los Leones</name>
+        <address>Plaza de los Leones  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665658,40.960014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Arcediano</name>
+        <address>Calle Arcediano  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666005,40.960035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patio Chico</name>
+        <address>Patio Chico  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666203,40.960189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Gibraltar</name>
+        <address>Calle Gibraltar  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6667289,40.959714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Veracruz</name>
+        <address>Calle Veracruz  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6682101,40.9598987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <address>Calle Libreros  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667551,40.9611596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Calderón de la Barca</name>
+        <address>Calle Calderón de la Barca  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6672142,40.9608435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catedral Nueva</name>
+        <address>Catedral Nueva  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6665546,40.960868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6665576,40.9613035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665339,40.9630034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Quintana</name>
+        <address>Calle Quintana  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6645175,40.9641302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle San Pablo</name>
+        <address>Calle San Pablo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_18</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6643865,40.9623052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Colón</name>
+        <address>Plaza de Colón  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_19</styleUrl>
+        <Point>
+          <coordinates>
+            -5.664036,40.961982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parroquia de San Pablo</name>
+        <address>Parroquia de San Pablo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Marker_20</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6636461,40.9617847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Recorrido</name>
+      <Placemark>
+        <name>Recorrido</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusRescatado_Line_Normal</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66365,40.96178,0
+            -5.66369,40.96182,0
+            -5.66382,40.96195,0
+            -5.66402,40.96198,0
+            -5.66406,40.96198,0
+            -5.66426,40.96201,0
+            -5.66427,40.96193,0
+            -5.66426,40.96167,0
+            -5.66426,40.96166,0
+            -5.66425,40.96147,0
+            -5.66425,40.96139,0
+            -5.66423,40.96097,0
+            -5.66429,40.96097,0
+            -5.66434,40.96097,0
+            -5.66439,40.96097,0
+            -5.66444,40.96096,0
+            -5.66447,40.96094,0
+            -5.66449,40.96093,0
+            -5.66456,40.96091,0
+            -5.66463,40.9609,0
+            -5.66467,40.9609,0
+            -5.66472,40.96091,0
+            -5.66478,40.96094,0
+            -5.66484,40.96097,0
+            -5.66491,40.961,0
+            -5.66496,40.96086,0
+            -5.66497,40.96082,0
+            -5.665,40.96076,0
+            -5.66502,40.96065,0
+            -5.66502,40.96064,0
+            -5.66503,40.96057,0
+            -5.66507,40.96046,0
+            -5.66518,40.96049,0
+            -5.66539,40.96052,0
+            -5.66542,40.96037,0
+            -5.66545,40.96027,0
+            -5.66548,40.96021,0
+            -5.6655,40.96018,0
+            -5.66553,40.9601,0
+            -5.66558,40.96011,0
+            -5.66572,40.96015,0
+            -5.66616,40.96029,0
+            -5.66622,40.96016,0
+            -5.66632,40.95991,0
+            -5.66638,40.95982,0
+            -5.66642,40.95978,0
+            -5.66644,40.95977,0
+            -5.66646,40.95976,0
+            -5.6665,40.95974,0
+            -5.66657,40.95972,0
+            -5.66663,40.95972,0
+            -5.66673,40.95971,0
+            -5.6668,40.95972,0
+            -5.66728,40.95979,0
+            -5.66736,40.95976,0
+            -5.66742,40.95973,0
+            -5.66746,40.95971,0
+            -5.66752,40.95967,0
+            -5.66755,40.95969,0
+            -5.66767,40.95975,0
+            -5.6678,40.95979,0
+            -5.66789,40.95981,0
+            -5.66821,40.9599,0
+            -5.66835,40.95993,0
+            -5.66827,40.96006,0
+            -5.66823,40.96014,0
+            -5.66812,40.96031,0
+            -5.66805,40.9604,0
+            -5.66803,40.96044,0
+            -5.66791,40.96063,0
+            -5.66781,40.96077,0
+            -5.6677,40.96093,0
+            -5.66755,40.96116,0
+            -5.66747,40.96112,0
+            -5.66731,40.96103,0
+            -5.66722,40.96099,0
+            -5.6669,40.96084,0
+            -5.66671,40.96108,0
+            -5.66656,40.9613,0
+            -5.66645,40.96146,0
+            -5.66644,40.96147,0
+            -5.66642,40.96152,0
+            -5.66644,40.96176,0
+            -5.66622,40.96176,0
+            -5.66605,40.96199,0
+            -5.66569,40.96247,0
+            -5.66562,40.96261,0
+            -5.66549,40.9628,0
+            -5.66534,40.963,0
+            -5.66525,40.96312,0
+            -5.66504,40.96338,0
+            -5.66494,40.96352,0
+            -5.66471,40.96386,0
+            -5.66468,40.96394,0
+            -5.66466,40.96402,0
+            -5.66463,40.96411,0
+            -5.66452,40.96413,0
+            -5.66411,40.96419,0
+            -5.66402,40.9642,0
+            -5.66404,40.9639,0
+            -5.66405,40.96375,0
+            -5.66409,40.96332,0
+            -5.66415,40.96287,0
+            -5.66418,40.96267,0
+            -5.66421,40.9625,0
+            -5.66421,40.96246,0
+            -5.66424,40.96227,0
+            -5.66426,40.96209,0
+            -5.66426,40.96201,0
+            -5.66406,40.96198,0
+            -5.66402,40.96198,0
+            -5.66382,40.96195,0
+            -5.66369,40.96182,0
+            -5.66365,40.96178,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

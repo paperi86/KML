@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Parade_Salamanca_Perdon">
+    <name>Jesús del Perdón</name>
+    <description><![CDATA[DOMINGO DE RAMOS. Día 14 DE ABRIL<br><br>HERMANDAD DE NUESTRO PADRE JESÚS DEL PERDÓN<br><br>HORARIO: 19:00 H. <br>SALIDA: RR.MM. Bernardas. RECORRIDO: Convento de las RR. MM. Bernardas, camino de la Aguas, (Acto del Indulto en el Museo del Comercio), plaza de San Antonio, Príncipe de Vergara, Almansa, Lucio Marineo, Arias Pinel, Gonzalo de Vivero, parque de Nuestro Padre Jesús del Perdón, (Rezo del Vía Crucis), Martínez Silicio, Marineo, Arias Pinel, Convento de la RR. MM. Bernardas. <br>PASOS: Camino del Calvario (1988). <br>Nuestro Padre Jesús del Perdón (Bernardo Pérez de Robles, S.XVII).]]></description>
+
+    <Folder>
+      <name>Jesus del Perdón - Markers</name>
+      <Placemark>
+        <name>Convento de las RR. MM. Bernardas</name>
+        <address>Convento de las RR. MM. Bernardas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6468361,40.961001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camino de la Aguas</name>
+        <address>Camino de la Aguas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
+            -5.648773,40.962337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo del Comercio</name>
+        <address>Museo del Comercio  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
+            -5.654031,40.964959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Antonio</name>
+        <address>Plaza de San Antonio  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
+            -5.654203,40.964789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Príncipe de Vergara</name>
+        <address>Calle Príncipe de Vergara  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
+            -5.654292,40.964384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Almansa</name>
+        <address>Calle Almansa  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
+            -5.653204,40.962937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Lucio Marineo</name>
+        <address>Calle Lucio Marineo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
+            -5.649665,40.961234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Arias Pinel</name>
+        <address>Calle Arias Pinel  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
+            -5.649569,40.960493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Gonzalo de Vivero</name>
+        <address>Calle Gonzalo de Vivero  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6498826,40.9603683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parque de Nuestro Padre Jesús del Perdón</name>
+        <address>Parque de Nuestro Padre Jesús del Perdón  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6493693,40.9598951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Martínez Silicio</name>
+        <address>Martínez Silicio  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
+            -5.648942,40.960162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Lucio Marineo</name>
+        <address>Calle Lucio Marineo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
+            -5.648888,40.960604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Arias Pinel</name>
+        <address>Calle Arias Pinel  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
+            -5.648668,40.961274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Convento de la RR. MM. Bernardas</name>
+        <address>Convento de la RR. MM. Bernardas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6468361,40.961001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Recorrido</name>
+      <Placemark>
+        <name>Recorrido</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Perdon_Line_Normal</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.6472928,40.961704,0
+            -5.6493634,40.9625952,0
+            -5.6507904,40.9632919,0
+            -5.6538299,40.9647095,0
+            -5.6542591,40.9648715,0
+            -5.65442,40.9647581,0
+            -5.6540552,40.9635105,0
+            -5.6539587,40.9631702,0
+            -5.6504289,40.9619387,0
+            -5.6501929,40.9616309,0
+            -5.6491489,40.9608145,0
+            -5.6497681,40.9603539,0
+            -5.6489171,40.9596948,0
+            -5.6492321,40.9599407,0
+            -5.6486178,40.9604065,0
+            -5.6491033,40.9608055,0
+            -5.6480527,40.9619788,0
+            -5.647409,40.9616709,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

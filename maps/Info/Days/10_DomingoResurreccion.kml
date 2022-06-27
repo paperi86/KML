@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Domingo de Resurrección (17 de Abril de 2022)</name>
+    <description><![CDATA[Recorridos Procesionales del Domingo de Resurrección de la Semana Santa Salamanca 2022]]></description>
+    
+    <NetworkLink> 
+      <Link>
+        <href>https://raw.githubusercontent.com/paperi86/KML/main/maps/Info/Parade/Parade_Salamanca_VirgenAlegria.kml</href>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <Link>
+        <href>https://raw.githubusercontent.com/paperi86/KML/main/maps/Info/Parade/Parade_Salamanca_JesusResucitado.kml</href>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink> 
+      <Link>
+        <href>https://raw.githubusercontent.com/paperi86/KML/main/maps/Info/Parade/Parade_Salamanca_Encuentro.kml</href>
+      </Link>
+    </NetworkLink>
+
+  </Document>
+</kml>

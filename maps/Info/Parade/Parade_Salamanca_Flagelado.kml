@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Parade_Salamanca_Flagelado">
+    <name>Jesús Flagelado</name>
+    <description><![CDATA[MIÉRCOLES SANTO. Día 17 DE ABRIL<br><br>HERMANDAD DE NUESTRO PADRE JESÚS FLAGELADO Y NUESTRA SEÑORA DE LAS LÁGRIMAS<br><br>HORARIO: 21:30 H. <br>SALIDA: Iglesia del Espíritu Santo (Clerecía). <br>RECORRIDO: Iglesia del Espíritu Santo (Clerecía), plaza de San Isidro, Libreros, Calderón de la Barca, Benedicto XVI, Rúa Mayor, Quintana, Poeta Iglesias, Plaza Mayor, Prior, plaza de Monterrey, Compañía, plaza de San Isidro, Iglesia del Espíritu Santo (Clerecía). <br>PASOS: Nuestro Padre Jesús Flagelado (Luis Salvador Carmona, 1760). <br>Nuestra Señora de las Lágrimas (José Miguel Sánchez Peña, 1977)]]></description>
+
+    <Folder>
+      <name>Jesús-flagelado.csv</name>
+      <Placemark>
+        <name>Iglesia del Espíritu Santo (Clerecía)</name>
+        <address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6685477,40.9628287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Isidro</name>
+        <address>Plaza de San Isidro  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666547,40.962493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <address>Calle Libreros  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667551,40.9611596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Calderón de la Barca</name>
+        <address>Calle Calderón de la Barca  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6673681,40.96105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6665576,40.9613035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665339,40.9630034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Quintana</name>
+        <address>Calle Quintana  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6645175,40.9641302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Poeta Iglesias</name>
+        <address>Plaza Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
+            -5.664080,40.964382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6646401,40.9646439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <address>Calle Prior  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665441,40.964975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Monterrey</name>
+        <address>Plaza de Monterrey  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666554,40.965156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6661724,40.9625922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Isidro</name>
+        <address>Plaza de San Isidro  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666287,40.962576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia del Espíritu Santo (Clerecía)</name>
+        <address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6685477,40.9628287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Recorrido</name>
+      <Placemark>
+        <name>Flagelado - Recorrido</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Line_Normal</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66617,40.96259,0
+            -5.66618,40.96259,0
+            -5.66646,40.96251,0
+            -5.66668,40.96248,0
+            -5.66667,40.96244,0
+            -5.66668,40.9624,0
+            -5.6667,40.96238,0
+            -5.66685,40.96219,0
+            -5.66697,40.96203,0
+            -5.66707,40.9619,0
+            -5.66721,40.96171,0
+            -5.66732,40.96152,0
+            -5.66738,40.96143,0
+            -5.66748,40.96126,0
+            -5.66755,40.96116,0
+            -5.66747,40.96112,0
+            -5.66731,40.96103,0
+            -5.66722,40.96099,0
+            -5.6669,40.96084,0
+            -5.66671,40.96108,0
+            -5.66656,40.9613,0
+            -5.66645,40.96146,0
+            -5.66644,40.96147,0
+            -5.66642,40.96152,0
+            -5.66644,40.96176,0
+            -5.66622,40.96176,0
+            -5.66605,40.96199,0
+            -5.66569,40.96247,0
+            -5.66562,40.96261,0
+            -5.66549,40.9628,0
+            -5.66534,40.963,0
+            -5.66525,40.96312,0
+            -5.66504,40.96338,0
+            -5.66494,40.96352,0
+            -5.66471,40.96386,0
+            -5.66468,40.96394,0
+            -5.66466,40.96402,0
+            -5.66463,40.96411,0
+            -5.66452,40.96413,0
+            -5.66411,40.96419,0
+            -5.66403,40.96469,0
+            -5.6639,40.96467,0
+            -5.66384,40.9647,0
+            -5.66381,40.96474,0
+            -5.66374,40.9649,0
+            -5.66357,40.96524,0
+            -5.66395,40.96533,0
+            -5.66435,40.96541,0
+            -5.66438,40.96528,0
+            -5.6645,40.96484,0
+            -5.66452,40.9648,0
+            -5.66522,40.96492,0
+            -5.66544,40.96498,0
+            -5.66571,40.96503,0
+            -5.66587,40.96506,0
+            -5.66634,40.96514,0
+            -5.66655,40.96516,0
+            -5.66656,40.96505,0
+            -5.66654,40.96495,0
+            -5.66648,40.96475,0
+            -5.66642,40.9644,0
+            -5.6664,40.96404,0
+            -5.66639,40.96398,0
+            -5.66638,40.96387,0
+            -5.66633,40.96364,0
+            -5.6663,40.96353,0
+            -5.66626,40.96338,0
+            -5.6662,40.9632,0
+            -5.66619,40.96316,0
+            -5.66617,40.96309,0
+            -5.66614,40.96302,0
+            -5.66613,40.96299,0
+            -5.666,40.96273,0
+            -5.66596,40.96266,0
+            -5.66617,40.96259,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

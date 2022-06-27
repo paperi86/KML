@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Parade_Salamanca_Encuentro">
+    <name>PROCESIÓN CONJUNTA DE RESURRECCIÓN</name>
+    <description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN DEL ENCUENTRO<br><br>DOMINGO DE RESURRECCIÓN. 21 DE ABRIL<br>HORARIO: 13:15 H. <br>ITINERARIO: Atrio de la Catedral, Benedicto XVI, Rúa Mayor, Quintana, Plaza del Poeta Iglesias, Plaza Mayor, Prior, Plaza de Monterrey, Bordadores, Úrsulas, Iglesia de la Vera Cruz. PASOS: Lignum Crucis (Reliquia autenticada de la Cruz de Cristo traída de Roma en el S. XVII. Cruz-relicario, Pedro Benítez, 1675), Las tres marías ante el Sepulcro vacío (imágenes, Pedro Hernández 1617, Santo Sepulcro, anónimo 1678). Nuestra Señora de la Alegría (anónimo S. XVIII). Jesús Resucitado (Alejandro Carnicero, 1725)]]></description>
+      <Placemark>
+        <name>Catedral Nueva</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6660421,40.9611369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6665576,40.9613035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665339,40.9630034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Quintana</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6645175,40.9641302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
+            -5.664017,40.964313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6640255,40.9650549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665441,40.964975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Monterrey</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666554,40.965156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Bordadores</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666577,40.965552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Úrsulas</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6672599,40.96588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6677418,40.9661729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Indicaciones de Plaza de Anaya, 15, 37008 Salamanca, España a Iglesia de la Vera Cruz</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_Encuentro_Line_Normal</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66604,40.96114,0
+            -5.66627,40.96121,0
+            -5.66656,40.9613,0
+            -5.66645,40.96146,0
+            -5.66644,40.96147,0
+            -5.66642,40.96152,0
+            -5.66644,40.96176,0
+            -5.66622,40.96176,0
+            -5.66605,40.96199,0
+            -5.66569,40.96247,0
+            -5.66562,40.96261,0
+            -5.66549,40.9628,0
+            -5.66534,40.963,0
+            -5.66525,40.96312,0
+            -5.66504,40.96338,0
+            -5.66494,40.96352,0
+            -5.66471,40.96386,0
+            -5.66468,40.96394,0
+            -5.66466,40.96402,0
+            -5.66463,40.96411,0
+            -5.66452,40.96413,0
+            -5.66411,40.96419,0
+            -5.66403,40.96469,0
+            -5.6639,40.96467,0
+            -5.66384,40.9647,0
+            -5.66381,40.96474,0
+            -5.66374,40.9649,0
+            -5.66357,40.96524,0
+            -5.66395,40.96533,0
+            -5.66435,40.96541,0
+            -5.66438,40.96528,0
+            -5.6645,40.96484,0
+            -5.66452,40.9648,0
+            -5.66522,40.96492,0
+            -5.66544,40.96498,0
+            -5.66571,40.96503,0
+            -5.66587,40.96506,0
+            -5.66634,40.96514,0
+            -5.66655,40.96516,0
+            -5.66658,40.96541,0
+            -5.66662,40.96569,0
+            -5.66686,40.96574,0
+            -5.66704,40.9658,0
+            -5.66709,40.96582,0
+            -5.66726,40.96588,0
+            -5.66762,40.96602,0
+            -5.66772,40.96607,0
+            -5.66767,40.96608,0
+            -5.66765,40.96609,0
+            -5.66764,40.9661,0
+            -5.66762,40.96611,0
+            -5.66761,40.96612,0
+            -5.66774,40.96617,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+  </Document>
+</kml>

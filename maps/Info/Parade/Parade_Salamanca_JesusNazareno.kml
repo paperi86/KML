@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Parade_Salamanca_JesusNazareno">
+    <name>ILUSTRE Y VENERABLE CONGREGACIÓN DE NUESTRO PADRE JESÚS NAZARENO Y SANTO ENTIERRO</name>
+    <description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br>HORARIO: 18:30 H. <br>SALIDA: Iglesia de San Julián y Santa Basilisa. <br>RECORRIDO: Iglesia de San Julián, Obispo Jarrín, plaza del Mercado, plaza del Poeta Iglesias, Plaza Mayor, salida Plaza Mayor por el arco de Prior, Prior, plaza de Monterrey, Compañía, Rúa Antigua, Francisco Vitoria, plaza de Anaya, Rúa Mayor, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, plaza del Mercado, Obispo Jarrín, iglesia de San Julián. <br>PASOS: Jesús en la calle de la Amargura (la figura de Jesús, el Cirineo, el soldado y el sayón (José de Larra Churriguera, 1716) la Virgen María (Antonio Hernández, 1797). <br>Santo Entierro (Francisco González Macías, 1942).]]></description>
+
+    <Folder>
+      <name>Jesus Nazareno - Markers</name>
+      <Placemark>
+        <name>Iglesia de San Julián</name>
+        <address>Iglesia de San Julián  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6621239,40.9647592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Obispo Jarrín</name>
+        <address>Calle Obispo Jarrín  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6621139,40.9647573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Mercado</name>
+        <address>Plaza del Mercado  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6636059,40.9647744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
+            -5.664083,40.964373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6649738,40.9645959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <address>Calle Prior  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6650242,40.9648898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Monterrey</name>
+        <address>Plaza de Monterrey  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666554,40.965156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6663808,40.9638679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <address>Rúa Antigua  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6659574,40.962656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Francisco Vitoria</name>
+        <address>Calle Francisco Vitoria  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6664596,40.9621005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <address>Plaza de Anaya  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6657775,40.9610536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665339,40.9630034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <address>Plaza del Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6647971,40.9641168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6649738,40.9645959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6637381,40.9642867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Mercado</name>
+        <address>Plaza del Mercado  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6636059,40.9647744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Obispo Jarrín</name>
+        <address>Calle Obispo Jarrín  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6621139,40.9647573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de San Julián</name>
+        <address>Iglesia de San Julián  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Marker_18</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6621239,40.9647592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    
+    <Folder>
+      <name>Recorrido</name>
+      <Placemark>
+        <name>Recorrido</name>
+        <styleUrl>estilos.kml#Parade_Salamanca_JesusNazareno_Line_Normal</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -5.66212,40.96476,0
+            -5.66211,40.96476,0
+            -5.6622,40.96477,0
+            -5.66232,40.9648,0
+            -5.66245,40.96484,0
+            -5.6625,40.96486,0
+            -5.66255,40.96485,0
+            -5.66259,40.96484,0
+            -5.66263,40.96483,0
+            -5.66298,40.96492,0
+            -5.66308,40.96496,0
+            -5.66311,40.96496,0
+            -5.66319,40.96495,0
+            -5.66325,40.96494,0
+            -5.66331,40.96491,0
+            -5.66334,40.96481,0
+            -5.66337,40.96471,0
+            -5.6634,40.96466,0
+            -5.66342,40.96462,0
+            -5.66344,40.96459,0
+            -5.66347,40.96456,0
+            -5.6635,40.96453,0
+            -5.66354,40.9645,0
+            -5.6636,40.96446,0
+            -5.66365,40.96444,0
+            -5.66367,40.9644,0
+            -5.6637,40.96436,0
+            -5.66375,40.96426,0
+            -5.66393,40.96422,0
+            -5.66402,40.9642,0
+            -5.66411,40.96419,0
+            -5.66403,40.96469,0
+            -5.6639,40.96467,0
+            -5.66384,40.9647,0
+            -5.66381,40.96474,0
+            -5.66374,40.9649,0
+            -5.66357,40.96524,0
+            -5.66395,40.96533,0
+            -5.66435,40.96541,0
+            -5.66438,40.96528,0
+            -5.6645,40.96484,0
+            -5.66452,40.9648,0
+            -5.66502,40.96489,0
+            -5.66522,40.96492,0
+            -5.66544,40.96498,0
+            -5.66571,40.96503,0
+            -5.66587,40.96506,0
+            -5.66634,40.96514,0
+            -5.66655,40.96516,0
+            -5.66656,40.96505,0
+            -5.66654,40.96495,0
+            -5.66648,40.96475,0
+            -5.66642,40.9644,0
+            -5.6664,40.96404,0
+            -5.66639,40.96398,0
+            -5.66638,40.96387,0
+            -5.66633,40.96364,0
+            -5.6663,40.96353,0
+            -5.66626,40.96338,0
+            -5.6662,40.9632,0
+            -5.66619,40.96316,0
+            -5.66617,40.96309,0
+            -5.66614,40.96302,0
+            -5.66613,40.96299,0
+            -5.666,40.96273,0
+            -5.66596,40.96266,0
+            -5.66618,40.96259,0
+            -5.66646,40.96251,0
+            -5.66646,40.96244,0
+            -5.66646,40.96228,0
+            -5.66646,40.96219,0
+            -5.66646,40.9621,0
+            -5.66644,40.96176,0
+            -5.66622,40.96176,0
+            -5.66605,40.96199,0
+            -5.66569,40.96247,0
+            -5.66562,40.96261,0
+            -5.66549,40.9628,0
+            -5.66534,40.963,0
+            -5.66525,40.96312,0
+            -5.66504,40.96338,0
+            -5.66494,40.96352,0
+            -5.66471,40.96386,0
+            -5.66468,40.96394,0
+            -5.66466,40.96402,0
+            -5.66463,40.96411,0
+            -5.66452,40.96413,0
+            -5.66411,40.96419,0
+            -5.66402,40.9642,0
+            -5.66393,40.96422,0
+            -5.66375,40.96426,0
+            -5.66374,40.96429,0
+            -5.6637,40.96436,0
+            -5.66367,40.9644,0
+            -5.66365,40.96444,0
+            -5.6636,40.96446,0
+            -5.66354,40.9645,0
+            -5.6635,40.96453,0
+            -5.66347,40.96456,0
+            -5.66344,40.96459,0
+            -5.66342,40.96462,0
+            -5.6634,40.96466,0
+            -5.66337,40.96471,0
+            -5.66334,40.96481,0
+            -5.66331,40.96491,0
+            -5.66325,40.96494,0
+            -5.66319,40.96495,0
+            -5.66311,40.96496,0
+            -5.66308,40.96496,0
+            -5.66298,40.96492,0
+            -5.66263,40.96483,0
+            -5.66259,40.96484,0
+            -5.66253,40.96485,0
+            -5.66249,40.96485,0
+            -5.66245,40.96484,0
+            -5.66232,40.9648,0
+            -5.6622,40.96477,0
+            -5.66211,40.96476,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

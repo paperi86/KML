@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="64" viewBox="0 0 75 150">
+    <path
+      d="M 37.5 1
+        c 0 0 80 0 0 148 0 0 -80 -145 0 -148
+        Z"
+      fill="#804080" stroke="#FFFFFF" stroke-width="3"/>
+    <text
+      x="50%" y="30%" 
+      text-anchor="middle" 
+      fill="#FFFFFF" 
+      font-size="30" 
+      font-family="Playfair Display" 
+      font-weight="800">
+        11
+      </text>
+  </svg>
