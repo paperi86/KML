@@ -6,7 +6,7 @@
       <name>Cristo de los Doctrinos - Line Style</name>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Line_Normal">
         <LineStyle>
-          <color>80a0e000</color>
+          <color>80a0e0ff</color>
           <width>3</width>
           <gx:outerColor>ffffff00</gx:outerColor>
           <gx:outerWidth>0.25</gx:outerWidth>
@@ -17,6 +17,8 @@
       <name>CristoDoctrinos</name>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_1">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-1.png</href>
           </Icon>
@@ -24,6 +26,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_2">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-2.png</href>
           </Icon>
@@ -31,6 +35,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_3">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-3.png</href>
           </Icon>
@@ -38,6 +44,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_4">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-4.png</href>
           </Icon>
@@ -45,6 +53,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_5">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-5.png</href>
           </Icon>
@@ -52,6 +62,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_6">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-6.png</href>
           </Icon>
@@ -59,6 +71,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_7">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-7.png</href>
           </Icon>
@@ -66,6 +80,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_8">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-8.png</href>
           </Icon>
@@ -73,6 +89,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_9">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-9.png</href>
           </Icon>
@@ -80,6 +98,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_10">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-10.png</href>
           </Icon>
@@ -87,6 +107,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_11">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-11.png</href>
           </Icon>
@@ -94,6 +116,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_12">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-12.png</href>
           </Icon>
@@ -101,6 +125,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_13">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-13.png</href>
           </Icon>
@@ -108,6 +134,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_14">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-14.png</href>
           </Icon>
@@ -115,6 +143,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_15">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-15.png</href>
           </Icon>
@@ -122,6 +152,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_16">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-16.png</href>
           </Icon>
@@ -129,6 +161,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_17">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-17.png</href>
           </Icon>
@@ -136,6 +170,8 @@
       </Style>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_18">
         <IconStyle>
+          <color>80a0e0ff</color>
+          <scale>1</scale>
           <Icon>
             <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-18.png</href>
           </Icon>
