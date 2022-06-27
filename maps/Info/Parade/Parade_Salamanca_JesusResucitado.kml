@@ -6,7 +6,7 @@
 
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -15,7 +15,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Domínguez Berrueta</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6680438,40.965755,0
@@ -24,7 +24,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Ramón y Cajal</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_3</styleUrl>
          <Point>
           <coordinates>
             -5.668034,40.965431,0
@@ -33,7 +33,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de las Agustinas</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6668743,40.9649625,0
@@ -42,7 +42,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.666381,40.963868,0
@@ -51,7 +51,7 @@
       </Placemark>
       <Placemark>
         <name>Rúa Antigua</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -60,7 +60,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de San Isidro</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6664645,40.9625054,0
@@ -69,7 +69,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Libreros</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.96116,0
@@ -78,7 +78,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Calderón de la Barca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.667218,40.9609892,0
@@ -87,7 +87,7 @@
       </Placemark>
       <Placemark>
         <name>Catedral Nueva</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusResucitado_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.666066,40.9611442,0
@@ -98,7 +98,7 @@
       
       <Placemark>
         <name>Jesús Resucitado - Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_JesusResucitado_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_JesusResucitado_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

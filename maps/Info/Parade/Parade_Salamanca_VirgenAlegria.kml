@@ -6,7 +6,7 @@
 
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -15,7 +15,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Úrsulas</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6672599,40.96588,0
@@ -24,7 +24,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Bordadores</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_3</styleUrl>
         <Point>
         <coordinates>
           -5.666577,40.965552,0
@@ -33,7 +33,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de Monterrey</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.666554,40.965156,0
@@ -42,7 +42,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Prior</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.665441,40.964975,0
@@ -51,7 +51,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Prado</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6657593,40.9643957,0
@@ -60,7 +60,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Juan del Rey</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6655647,40.9642421,0
@@ -69,7 +69,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Quintana</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -78,7 +78,7 @@
       </Placemark>
       <Placemark>
         <name>Calle San Pablo</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.664253,40.961386,0
@@ -87,7 +87,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Tostado</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6648506,40.9609589,0
@@ -96,7 +96,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza Anaya</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6657845,40.9614516,0
@@ -105,7 +105,7 @@
       </Placemark>
       <Placemark>
         <name>Catedral Nueva</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_VirgenAlegria_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.666904,40.960842,0
@@ -115,7 +115,7 @@
 
       <Placemark>
         <name>Virgen de la Alegría - Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_VirgenAlegria_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_VirgenAlegria_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

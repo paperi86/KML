@@ -10,7 +10,7 @@
         <name>Parroquia de San Pablo</name>
         <address>Parroquia de San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6636461,40.9617847,0
@@ -21,7 +21,7 @@
         <name>Plaza de Colón</name>
         <address>Plaza de Colón  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.664036,40.961982,0
@@ -32,7 +32,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6643147,40.9616002,0
@@ -43,7 +43,7 @@
         <name>Calle Tostado</name>
         <address>Calle Tostado  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.664762,40.960938,0
@@ -54,7 +54,7 @@
         <name>Calle Silencio</name>
         <address>Calle Silencio  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6649954,40.9607576,0
@@ -65,7 +65,7 @@
         <name>Calle San Vicente Ferrer</name>
         <address>Calle San Vicente Ferrer  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.665406,40.960436,0
@@ -76,7 +76,7 @@
         <name>Plaza de los Leones</name>
         <address>Plaza de los Leones  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.665658,40.960014,0
@@ -87,7 +87,7 @@
         <name>Calle Arcediano</name>
         <address>Calle Arcediano  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.666005,40.960035,0
@@ -98,7 +98,7 @@
         <name>Patio Chico</name>
         <address>Patio Chico  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.666203,40.960189,0
@@ -109,7 +109,7 @@
         <name>Calle Gibraltar</name>
         <address>Calle Gibraltar  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6667289,40.959714,0
@@ -120,7 +120,7 @@
         <name>Calle Veracruz</name>
         <address>Calle Veracruz  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6682101,40.9598987,0
@@ -131,7 +131,7 @@
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -142,7 +142,7 @@
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6672142,40.9608435,0
@@ -153,7 +153,7 @@
         <name>Catedral Nueva</name>
         <address>Catedral Nueva  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6665546,40.960868,0
@@ -164,7 +164,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -175,7 +175,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_16</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -186,7 +186,7 @@
         <name>Calle Quintana</name>
         <address>Calle Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_17</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -197,7 +197,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_18</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.6643865,40.9623052,0
@@ -208,7 +208,7 @@
         <name>Plaza de Colón</name>
         <address>Plaza de Colón  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_19</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_19</styleUrl>
         <Point>
           <coordinates>
             -5.664036,40.961982,0
@@ -219,7 +219,7 @@
         <name>Parroquia de San Pablo</name>
         <address>Parroquia de San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_JesusRescatado_Marker_20</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusRescatado_Marker_20</styleUrl>
         <Point>
           <coordinates>
             -5.6636461,40.9617847,0
@@ -232,7 +232,7 @@
       <name>Recorrido</name>
       <Placemark>
         <name>Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_JesusRescatado_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_JesusRescatado_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

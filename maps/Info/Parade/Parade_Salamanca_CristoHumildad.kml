@@ -10,7 +10,7 @@
         <name>Quintana</name>
         <address>Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -21,7 +21,7 @@
         <name>Juan del Rey</name>
         <address>Juan del Rey  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6655647,40.9642421,0
@@ -32,7 +32,7 @@
         <name>Calle Prado</name>
         <address>Calle Prado Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.665738,40.964601,0
@@ -43,7 +43,7 @@
         <name>Plaza de San Benito</name>
         <address>Plaza de San Benito  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6660906,40.9636818,0
@@ -54,7 +54,7 @@
         <name>Cañizal</name>
         <address>Cañizal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6671506,40.9638957,0
@@ -65,7 +65,7 @@
         <name>Carniceros</name>
         <address>Carniceros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6679934,40.9634602,0
@@ -76,7 +76,7 @@
         <name>Rabanal</name>
         <address>Rabanal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.667742,40.963152,0
@@ -87,7 +87,7 @@
         <name>Cervantes</name>
         <address>Cervantes  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6674175,40.9630897,0
@@ -98,7 +98,7 @@
         <name>Traviesa</name>
         <address>Traviesa  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6676024,40.9619828,0
@@ -109,7 +109,7 @@
         <name>Libreros</name>
         <address>Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -120,7 +120,7 @@
         <name>Tavira</name>
         <address>Tavira  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6677363,40.9605733,0
@@ -131,7 +131,7 @@
         <name>Horno</name>
         <address>Horno  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.667772,40.960343,0
@@ -142,7 +142,7 @@
         <name>Tentenecio</name>
         <address>Tentenecio  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6672789,40.9597869,0
@@ -153,7 +153,7 @@
         <name>Gibraltar</name>
         <address>Gibraltar  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6667289,40.959714,0
@@ -164,7 +164,7 @@
         <name>Patio Chico</name>
         <address>Patio Chico  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.665712,40.959970,0
@@ -175,7 +175,7 @@
         <name>Calle Arcediano</name>
         <address>Calle Arcediano Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_16</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.6658703,40.9599248,0
@@ -186,7 +186,7 @@
         <name>Plaza de los Leones</name>
         <address>Plaza de los Leones  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_17</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.6656654,40.9600313,0
@@ -197,7 +197,7 @@
         <name>Doyagüe</name>
         <address>Doyagüe  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_18</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.6651646,40.9599948,0
@@ -208,7 +208,7 @@
         <name>Plaza de Carvajal</name>
         <address>Plaza de Carvajal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_19</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_19</styleUrl>
         <Point>
           <coordinates>
             -5.6649413,40.9599323,0
@@ -219,7 +219,7 @@
         <name>San Vicente Ferrer</name>
         <address>San Vicente Ferrer  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_20</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_20</styleUrl>
         <Point>
           <coordinates>
             -5.6655287,40.9603536,0
@@ -230,7 +230,7 @@
         <name>Calle Silencio</name>
         <address>Calle Silencio Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_21</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_21</styleUrl>
         <Point>
           <coordinates>
             -5.6649954,40.9607576,0
@@ -241,7 +241,7 @@
         <name>Calle Tostado</name>
         <address>Calle Tostado  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_22</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_22</styleUrl>
         <Point>
           <coordinates>
             -5.6651894,40.9609637,0
@@ -252,7 +252,7 @@
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_23</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_23</styleUrl>
         <Point>
           <coordinates>
             -5.6657845,40.9614516,0
@@ -263,7 +263,7 @@
         <name>Calle Francisco Vitoria</name>
         <address>Calle Francisco Vitoria Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_24</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_24</styleUrl>
         <Point>
           <coordinates>
             -5.6664596,40.9621005,0
@@ -274,7 +274,7 @@
         <name>Rúa Antigua</name>
         <address>Rúa Antigua  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_25</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_25</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -285,7 +285,7 @@
         <name>Compañía</name>
         <address>Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_26</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_26</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -296,7 +296,7 @@
         <name>Meléndez</name>
         <address>Meléndez  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_27</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_27</styleUrl>
         <Point>
           <coordinates>
             -5.6656443,40.9636939,0
@@ -307,7 +307,7 @@
         <name>Plaza del Corrillo</name>
         <address>Plaza del Corrillo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_28</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_28</styleUrl>
         <Point>
           <coordinates>
             -5.664815,40.964238,0
@@ -318,7 +318,7 @@
         <name>Quintana</name>
         <address>Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoHumildad_Marker_29</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoHumildad_Marker_29</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -330,7 +330,7 @@
       <name>Cristo de la Humildad - Recorrido</name>
       <Placemark>
         <name>Cristo de la Humildad - Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_CristoHumildad_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_CristoHumildad_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

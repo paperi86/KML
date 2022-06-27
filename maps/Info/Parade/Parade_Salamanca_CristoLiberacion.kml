@@ -10,7 +10,7 @@
         <name>Colegio Arzobispo Fonseca</name>
         <address>Colegio Arzobispo Fonseca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6700356,40.9651285,0
@@ -21,7 +21,7 @@
         <name>Cuesta de San Blas</name>
         <address>Cuesta de San Blas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6713344,40.9646235,0
@@ -32,7 +32,7 @@
         <name>Calle Fuentecilla de San Blas</name>
         <address>Calle Fuentecilla de San Blas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.668861,40.9644247,0
@@ -43,7 +43,7 @@
         <name>Calle Cervantes</name>
         <address>Calle Cervantes  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6676177,40.9634728,0
@@ -54,7 +54,7 @@
         <name>Calle Serranos</name>
         <address>Calle Serranos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6676641,40.9623322,0
@@ -65,7 +65,7 @@
         <name>Calle Traviesa</name>
         <address>Calle Traviesa  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6676024,40.9619828,0
@@ -76,7 +76,7 @@
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.667628,40.961039,0
@@ -87,7 +87,7 @@
         <name>Calle Tavira</name>
         <address>Calle Tavira  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6677363,40.9605733,0
@@ -98,7 +98,7 @@
         <name>Plaza Juan XXIII</name>
         <address>Plaza Juan XXIII  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.667087,40.960517,0
@@ -109,7 +109,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -120,7 +120,7 @@
         <name>Calle de Francisco Vitoria</name>
         <address>Calle de Francisco Vitoria  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6668535,40.962152,0
@@ -131,7 +131,7 @@
         <name>Rúa Antigua</name>
         <address>Rúa Antigua  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -142,7 +142,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -153,7 +153,7 @@
         <name>Calle Cañizal</name>
         <address>Calle Cañizal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6671506,40.9638957,0
@@ -164,7 +164,7 @@
         <name>Calle Tahonas Viejas</name>
         <address>Calle Tahonas Viejas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6680571,40.9641384,0
@@ -175,7 +175,7 @@
         <name>Calle Ancha</name>
         <address>Calle Ancha  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_16</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.6691374,40.964106,0
@@ -186,7 +186,7 @@
         <name>Calle Ramón y Cajal</name>
         <address>Calle Ramón y Cajal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_17</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.6687207,40.9657617,0
@@ -197,7 +197,7 @@
         <name>Calle Fonseca</name>
         <address>Calle Fonseca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_18</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.669993,40.965147,0
@@ -208,7 +208,7 @@
         <name>Colegio Arzobispo Fonseca</name>
         <address>Colegio Arzobispo Fonseca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoLiberacion_Marker_19</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoLiberacion_Marker_19</styleUrl>
         <Point>
           <coordinates>
             -5.6700356,40.9651285,0
@@ -220,7 +220,7 @@
       <name>Cristo Liberación - Recorrido</name>
       <Placemark>
         <name>Cristo Liberación - Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_CristoLiberacion_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_CristoLiberacion_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

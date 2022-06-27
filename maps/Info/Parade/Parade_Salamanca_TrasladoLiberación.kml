@@ -8,7 +8,7 @@
         <name>Cementerio San Carlos Borromeo</name>
         <address>Cementerio San Carlos Borromeo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_TrasladoLiberacion_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_TrasladoLiberacion_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6850592,40.975372,0
@@ -19,7 +19,7 @@
         <name>Avenida de los Maristas</name>
         <address>Avenida de los Maristas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_TrasladoLiberacion_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_TrasladoLiberacion_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6810658,40.9722542,0
@@ -30,7 +30,7 @@
         <name>Calle Espejo, Salamanca</name>
         <address>Calle Espejo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_TrasladoLiberacion_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_TrasladoLiberacion_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6707214,40.9652081,0
@@ -41,7 +41,7 @@
         <name>Calle Fonseca</name>
         <address>Calle Fonseca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_TrasladoLiberacion_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_TrasladoLiberacion_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6693965,40.9655993,0
@@ -52,7 +52,7 @@
         <name>Colegio Arzobispo Fonseca</name>
         <address>Calle Fonseca, 4</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_TrasladoLiberacion_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_TrasladoLiberacion_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6702705,40.9653309,0
@@ -64,7 +64,7 @@
       <name>Recorrido</name>
       <Placemark>
         <name>Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_TrasladoLiberacion_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_TrasladoLiberacion_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

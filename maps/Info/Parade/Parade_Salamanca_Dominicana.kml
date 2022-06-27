@@ -10,7 +10,7 @@
         <name>Iglesia del Convento de San Esteban</name>
         <address>Iglesia del Convento de San Esteban  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.667399,40.9609178,0
@@ -21,7 +21,7 @@
         <name>Plaza del Concilio de Trento</name>
         <address>Plaza del Concilio de Trento  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6637313,40.9607941,0
@@ -32,7 +32,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6648559,40.9611843,0
@@ -43,7 +43,7 @@
         <name>Calle Palominos</name>
         <address>Calle Palominos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6651174,40.9620005,0
@@ -54,7 +54,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -65,7 +65,7 @@
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6662216,40.9617646,0
@@ -76,7 +76,7 @@
         <name>Catedral Nueva</name>
         <address>Catedral Nueva  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6668568,40.9609012,0
@@ -87,7 +87,7 @@
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.667218,40.9609892,0
@@ -98,7 +98,7 @@
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -109,7 +109,7 @@
         <name>Plaza de San Isidro</name>
         <address>Plaza de San Isidro  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6664645,40.9625054,0
@@ -120,7 +120,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.666080,40.962863,0
@@ -131,7 +131,7 @@
         <name>Calle Meléndez</name>
         <address>Calle Meléndez  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6656443,40.9636939,0
@@ -142,13 +142,13 @@
         <name>Plaza del Corrillo</name>
         <address>Plaza del Corrillo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_13</styleUrl>
       </Placemark>
       <Placemark>
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6644507,40.9650278,0
@@ -159,7 +159,7 @@
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6640916,40.9642839,0
@@ -170,7 +170,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_16</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.664131,40.963111,0
@@ -181,7 +181,7 @@
         <name>Calle Juan de la Fuente</name>
         <address>Calle Juan de la Fuente  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_17</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.6633626,40.9615316,0
@@ -192,7 +192,7 @@
         <name>Calle Rosario</name>
         <address>Calle Rosario  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_18</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.662679,40.961019,0
@@ -203,7 +203,7 @@
         <name>Convento de San Esteban</name>
         <address>Convento de San Esteban  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Marker_19</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Marker_19</styleUrl>
         <Point>
           <coordinates>
             -5.667399,40.9609178,0
@@ -216,7 +216,7 @@
       <name>Dominicana - Recorrido</name>
       <Placemark>
         <name>Dominicana - Recorrido</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_Dominicana_Line_Normal</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_Dominicana_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

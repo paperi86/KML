@@ -10,7 +10,7 @@
         <name>Parroquia de Jesús Obrero</name>
         <address>Parroquia de Jesús Obrero  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6791897,40.975603,0
@@ -21,7 +21,7 @@
         <name>Carretera de Ledesma</name>
         <address>Carretera de Ledesma  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6741577,40.974291,0
@@ -32,7 +32,7 @@
         <name>Calle Valverdón</name>
         <address>Calle Valverdón  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6711397,40.973157,0
@@ -43,7 +43,7 @@
         <name>Avenida de Villamayor</name>
         <address>Avenida de Villamayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6700609,40.970447,0
@@ -54,7 +54,7 @@
         <name>Plaza de la Fuente</name>
         <address>Plaza de la Fuente  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.667435,40.967649,0
@@ -65,7 +65,7 @@
         <name>Plaza San Juan Bautista</name>
         <address>Plaza San Juan Bautista  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.666296,40.967695,0
@@ -76,7 +76,7 @@
         <name>Calle Santa Teresa</name>
         <address>Calle Santa Teresa  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6655198,40.967511,0
@@ -87,7 +87,7 @@
         <name>Plaza de los Bandos</name>
         <address>Plaza de los Bandos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.664627,40.967306,0
@@ -98,7 +98,7 @@
         <name>Calle Zamora</name>
         <address>Calle Zamora  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.664080,40.966897,0
@@ -109,7 +109,7 @@
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6645735,40.9655724,0
@@ -120,7 +120,7 @@
         <name>Calle Quintana</name>
         <address>Calle Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6646483,40.9642033,0
@@ -131,7 +131,7 @@
         <name>Calle Juan del Rey</name>
         <address>Calle Juan del Rey  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.665340,40.964189,0
@@ -142,7 +142,7 @@
         <name>Calle Prado</name>
         <address>Calle Prado  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6657593,40.9643957,0
@@ -153,7 +153,7 @@
         <name>Calle Prior</name>
         <address>Calle Prior  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.666091,40.965120,0
@@ -164,7 +164,7 @@
         <name>Calle Bordadores</name>
         <address>Calle Bordadores  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6667412,40.9654528,0
@@ -175,7 +175,7 @@
         <name>Calle Úrsulas</name>
         <address>Calle Úrsulas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_16</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.6672599,40.96588,0
@@ -186,7 +186,7 @@
         <name>Campo de San Francisco</name>
         <address>Campo de San Francisco  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_17</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.667858,40.966221,0
@@ -197,7 +197,7 @@
         <name>Calle Abajo</name>
         <address>Calle Abajo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_18</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.6677996,40.9668736,0
@@ -208,7 +208,7 @@
         <name>Calle Arriba</name>
         <address>Calle Arriba  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_19</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_19</styleUrl>
         <Point>
           <coordinates>
             -5.667679,40.967334,0
@@ -219,7 +219,7 @@
         <name>Plaza de la Fuente</name>
         <address>Plaza de la Fuente  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_20</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_20</styleUrl>
         <Point>
           <coordinates>
             -5.667435,40.967649,0
@@ -230,7 +230,7 @@
         <name>Avenida de Villamayor</name>
         <address>Avenida de Villamayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_21</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_21</styleUrl>
         <Point>
           <coordinates>
             -5.669115,40.969175,0
@@ -241,7 +241,7 @@
         <name>Calle Valverdón</name>
         <address>Calle Valverdón  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_22</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_22</styleUrl>
         <Point>
           <coordinates>
             -5.6711397,40.973157,0
@@ -252,7 +252,7 @@
         <name>Carretera de Ledesma</name>
         <address>Carretera de Ledesma  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_23</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_23</styleUrl>
         <Point>
           <coordinates>
             -5.6741577,40.974291,0
@@ -263,7 +263,7 @@
         <name>Iglesia de Jesús Obrero</name>
         <address>Iglesia de Jesús Obrero  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Parade_Salamanca_CristoVela_Marker_24</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_CristoVela_Marker_24</styleUrl>
         <Point>
           <coordinates>
             -5.6791897,40.975603,0
@@ -275,7 +275,7 @@
       <name>Cristo de la Vela - Recorrido</name>
       <Placemark>
         <name>Cristo de la Vela - Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_CristoVela_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_CristoVela_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

@@ -6,7 +6,7 @@
     
       <Placemark>
         <name>Capilla de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.66769309999995,40.966247,0
@@ -16,7 +16,7 @@
      
       <Placemark>
         <name>Calle Dominguez Berrueta</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6677293,40.9661682,0
@@ -25,7 +25,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Ramón y Cajal</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6682369,40.9655296,0
@@ -34,7 +34,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de las Agustinas, Salamanca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6668743,40.9649625,0
@@ -43,7 +43,7 @@
       </Placemark>
       <Placemark>
         <name>Calle de la Compañía, Salamanca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -52,7 +52,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza San Benito, Salamanca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6660906,40.9636818,0
@@ -61,7 +61,7 @@
       </Placemark>
       <Placemark>
         <name>Calle de la Compañía, Salamanca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -70,7 +70,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Meléndez, Salamanca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6656443,40.9636939,0
@@ -79,7 +79,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Juan del Rey, Salamanca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6655647,40.9642421,0
@@ -88,7 +88,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Prado, Salamanca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6657593,40.9643957,0
@@ -97,7 +97,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Doctrinos</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6660054,40.9647182,0
@@ -106,7 +106,7 @@
       </Placemark>
       <Placemark>
         <name>Capilla de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_ViaMatris_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_ViaMatris_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -115,7 +115,7 @@
       </Placemark>
       <Placemark>
         <name>Via Matris - Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_ViaMatris_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_ViaMatris_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

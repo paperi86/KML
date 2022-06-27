@@ -6,7 +6,7 @@
 
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -15,7 +15,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Domínguez Berrueta</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6680438,40.965755,0
@@ -24,7 +24,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Ramón y Cajal</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.668034,40.965431,0
@@ -33,7 +33,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de las Agustinas</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6668743,40.9649625,0
@@ -42,7 +42,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.666381,40.963868,0
@@ -51,7 +51,7 @@
       </Placemark>
       <Placemark>
         <name>Rúa Antigua</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -60,7 +60,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de San Isidro</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6664645,40.9625054,0
@@ -69,7 +69,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Libreros</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -78,7 +78,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Calderón de la Barca</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.667218,40.9609892,0
@@ -87,7 +87,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Benedicto XVI</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -96,7 +96,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de Anaya</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6657845,40.9614516,0
@@ -105,7 +105,7 @@
       </Placemark>
       <Placemark>
         <name>Rúa Mayor</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -114,7 +114,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Corrillo</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6647796,40.9644478,0
@@ -123,7 +123,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza Mayor</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6640255,40.9650549,0
@@ -132,7 +132,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Zamora</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.663992,40.965761,0
@@ -141,7 +141,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de Los Bandos</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_16</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.664074,40.966974,0
@@ -150,7 +150,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Espoz y Mina</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_17</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.6652097,40.9659524,0
@@ -159,7 +159,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Prior</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_18</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.665441,40.964975,0
@@ -168,7 +168,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Bordadores</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_19</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_19</styleUrl>
         <Point>
           <coordinates>
             -5.666577,40.965552,0
@@ -177,7 +177,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Úrsulas</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_20</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_20</styleUrl>
         <Point>
           <coordinates>
             -5.6672599,40.96588,0
@@ -186,7 +186,7 @@
       </Placemark>
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_21</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_21</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -196,7 +196,7 @@
 
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Parade_Salamanca_SantoEntierro_Marker_22</styleUrl>
+        <styleUrl>../markers.kml#Style_Parade_Salamanca_SantoEntierro_Marker_22</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -206,7 +206,7 @@
 
       <Placemark>
         <name>Santo Entierro - Recorrido</name>
-        <styleUrl>../lines.kml#Parade_Salamanca_SantoEntierro_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Style_Parade_Salamanca_SantoEntierro_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
