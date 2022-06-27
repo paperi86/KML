@@ -7,7 +7,7 @@
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.667742,40.966173,0
@@ -17,7 +17,7 @@
       <Placemark>
         <name>Calle Domínguez Berrueta</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.668044,40.965755,0
@@ -27,7 +27,7 @@
       <Placemark>
         <name>Calle Ramón y Cajal</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.668034,40.965431,0
@@ -37,7 +37,7 @@
       <Placemark>
         <name>Plaza de las Agustinas</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.666874,40.964962,0
@@ -47,7 +47,7 @@
       <Placemark>
         <name>Calle Compañía</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.666381,40.963868,0
@@ -57,7 +57,7 @@
       <Placemark>
         <name>Rúa Antigua</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.665957,40.962656,0
@@ -67,7 +67,7 @@
       <Placemark>
         <name>Calle Francisco Vitoria</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.66646,40.9621,0
@@ -77,7 +77,7 @@
       <Placemark>
         <name>Plaza de Anaya</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.665841,40.961075,0
@@ -87,7 +87,7 @@
       <Placemark>
         <name>Catedral Nueva</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.666904,40.960842,0
@@ -96,7 +96,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Calderón de la Barca</name>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.667218,40.9609892,0
@@ -106,7 +106,7 @@
       <Placemark>
         <name>Calle Libreros</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.96116,0
@@ -116,7 +116,7 @@
       <Placemark>
         <name>Calle Traviesa</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.667602,40.961983,0
@@ -126,7 +126,7 @@
       <Placemark>
         <name>Calle Serranos</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.667664,40.962332,0
@@ -135,7 +135,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Cervantes</name>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6698064,40.9634728,0
@@ -145,7 +145,7 @@
       <Placemark>
         <name>Calle Cañizal</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.667699,40.963699,0
@@ -155,7 +155,7 @@
       <Placemark>
         <name>Calle Compañía</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_16</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.666381,40.963868,0
@@ -165,7 +165,7 @@
       <Placemark>
         <name>Calle Bordadores</name>
         <description>Description</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_17</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.666577,40.965552,0
@@ -175,7 +175,7 @@
       <Placemark>
         <name>Convento de las Úrsulas</name>
         <description></description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Marker_18</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoDoctrinos_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.667273,40.965885,0
@@ -188,7 +188,7 @@
       <Placemark>
         <name>Cristo de los Doctrinos - Recorrido</name>
         <description>Tramo 1</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoDoctrinos_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Parade_Salamanca_CristoDoctrinos_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

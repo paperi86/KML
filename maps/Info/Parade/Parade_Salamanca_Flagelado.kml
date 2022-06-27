@@ -10,7 +10,7 @@
         <name>Iglesia del Espíritu Santo (Clerecía)</name>
         <address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6685477,40.9628287,0
@@ -21,7 +21,7 @@
         <name>Plaza de San Isidro</name>
         <address>Plaza de San Isidro  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.666547,40.962493,0
@@ -32,7 +32,7 @@
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -43,7 +43,7 @@
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6673681,40.96105,0
@@ -54,7 +54,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -65,7 +65,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -76,7 +76,7 @@
         <name>Calle Quintana</name>
         <address>Calle Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -87,7 +87,7 @@
         <name>Plaza Poeta Iglesias</name>
         <address>Plaza Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.664080,40.964382,0
@@ -98,7 +98,7 @@
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6646401,40.9646439,0
@@ -109,7 +109,7 @@
         <name>Calle Prior</name>
         <address>Calle Prior  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.665441,40.964975,0
@@ -120,7 +120,7 @@
         <name>Plaza de Monterrey</name>
         <address>Plaza de Monterrey  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.666554,40.965156,0
@@ -131,7 +131,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6661724,40.9625922,0
@@ -142,7 +142,7 @@
         <name>Plaza de San Isidro</name>
         <address>Plaza de San Isidro  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.666287,40.962576,0
@@ -153,7 +153,7 @@
         <name>Iglesia del Espíritu Santo (Clerecía)</name>
         <address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_Flagelado_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6685477,40.9628287,0
@@ -166,7 +166,7 @@
       <name>Recorrido</name>
       <Placemark>
         <name>Flagelado - Recorrido</name>
-        <styleUrl>estilos.kml#Parade_Salamanca_Flagelado_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Parade_Salamanca_Flagelado_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

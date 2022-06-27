@@ -10,7 +10,7 @@
         <name>Iglesia del Carmen de Abajo</name>
         <address>Iglesia del Carmen de Abajo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.663856,40.9589504,0
@@ -21,7 +21,7 @@
         <name>Calle Arroyo de Santo Domingo</name>
         <address>Calle Arroyo de Santo Domingo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6638097,40.9591712,0
@@ -32,7 +32,7 @@
         <name>Calle Rector Esperabé</name>
         <address>Calle Rector Esperabé  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6643497,40.9588008,0
@@ -43,7 +43,7 @@
         <name>Calle Tentenecio</name>
         <address>Calle Tentenecio  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6672789,40.9597869,0
@@ -54,7 +54,7 @@
         <name>Plaza Juan XXIII</name>
         <address>Plaza Juan XXIII  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.667044,40.9606794,0
@@ -65,7 +65,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -76,7 +76,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -87,7 +87,7 @@
         <name>Plaza del Corrillo</name>
         <address>Plaza del Corrillo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6647796,40.9644478,0
@@ -98,7 +98,7 @@
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6649738,40.9645959,0
@@ -109,7 +109,7 @@
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.664083,40.964373,0
@@ -120,7 +120,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6642567,40.9621066,0
@@ -131,7 +131,7 @@
         <name>Calle Juan de la Fuente</name>
         <address>Calle Juan de la Fuente  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6633626,40.9615316,0
@@ -142,7 +142,7 @@
         <name>Plaza Concilio de Trento</name>
         <address>Plaza Concilio de Trento  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6643725,40.9608399,0
@@ -153,7 +153,7 @@
         <name>Calle Arroyo de Santo Domingo</name>
         <address>Calle Arroyo de Santo Domingo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6638097,40.9591712,0
@@ -164,7 +164,7 @@
         <name>Iglesia del Carmen de Abajo</name>
         <address>Iglesia del Carmen de Abajo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_OracionEnHuerto_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.663856,40.9589504,0
@@ -177,7 +177,7 @@
       <name>Recorrido</name>
       <Placemark>
         <name>Recorrido</name>
-        <styleUrl>estilos.kml#Parade_Salamanca_OracionEnHuerto_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Parade_Salamanca_OracionEnHuerto_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

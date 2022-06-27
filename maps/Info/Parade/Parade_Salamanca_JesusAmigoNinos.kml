@@ -10,7 +10,7 @@
         <name>Catedral Nueva</name>
         <address>Catedral Nueva  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6665546,40.960868,0
@@ -21,7 +21,7 @@
         <name>Atrio de la Catedral</name>
         <address>Atrio de la Catedral  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.666313,40.961105,0
@@ -32,7 +32,7 @@
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6672142,40.9608435,0
@@ -43,7 +43,7 @@
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.667441,40.961346,0
@@ -54,7 +54,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.666070,40.962823,0
@@ -65,7 +65,7 @@
         <name>Calle Meléndez</name>
         <address>Calle Meléndez  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.665867,40.963569,0
@@ -76,7 +76,7 @@
         <name>Plaza del Corrillo</name>
         <address>Plaza del Corrillo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6647796,40.9644478,0
@@ -87,7 +87,7 @@
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6649738,40.9645959,0
@@ -98,7 +98,7 @@
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.664083,40.964373,0
@@ -109,7 +109,7 @@
         <name>Calle Quintana</name>
         <address>Calle Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.664271,40.964189,0
@@ -120,7 +120,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -131,7 +131,7 @@
         <name>Rúa Antigua</name>
         <address>Rúa Antigua  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -142,7 +142,7 @@
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6657775,40.9610536,0
@@ -152,7 +152,7 @@
       <Placemark>
         <name>Catedral Nueva</name>
         <address>Catedral Nueva. Salamanca</address>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusAmigoNinos_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6665546,40.960868,0
@@ -165,7 +165,7 @@
       <name>Recorrido</name>
       <Placemark>
         <name>Recorrido</name>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusAmigoNinos_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Parade_Salamanca_JesusAmigoNinos_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

@@ -10,7 +10,7 @@
         <name>Atrio de la Catedral</name>
         <address>Atrio de la Catedral  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6657869,40.9610568,0
@@ -21,13 +21,13 @@
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_2</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Tostado</name>
         <address>Calle Tostado  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6648406,40.9609664,0
@@ -38,7 +38,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.664253,40.961386,0
@@ -49,7 +49,7 @@
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.664079,40.964173,0
@@ -60,7 +60,7 @@
         <name>Calle Quintana</name>
         <address>Calle Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -71,7 +71,7 @@
         <name>Calle Juan del Rey</name>
         <address>Calle Juan del Rey  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6655647,40.9642421,0
@@ -82,7 +82,7 @@
         <name>Calle Prado</name>
         <address>Calle Prado  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.665742,40.964568,0
@@ -93,7 +93,7 @@
         <name>Calle Doctrinos</name>
         <address>Calle Doctrinos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6660047,40.9647181,0
@@ -104,7 +104,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -115,7 +115,7 @@
         <name>Rúa Antigua</name>
         <address>Rúa Antigua  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -126,7 +126,7 @@
         <name>Plaza San Isidro</name>
         <address>Plaza San Isidro  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6664645,40.9625054,0
@@ -137,7 +137,7 @@
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -148,7 +148,7 @@
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.667218,40.9609892,0
@@ -159,7 +159,7 @@
         <name>Catedral</name>
         <address>Catedral  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoYacente_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6657795,40.9610543,0
@@ -171,7 +171,7 @@
       <name>Cristo Yacente y de la Agonía - Recorrido</name>
       <Placemark>
         <name>Cristo Yacente y de la Agonía - Recorrido</name>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoYacente_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Parade_Salamanca_CristoYacente_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

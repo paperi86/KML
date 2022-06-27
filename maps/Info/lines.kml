@@ -1,0 +1,207 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder id="Fold_Parade_Map_Lines">
+    <name>Parade Map Lines</name>
+    <Style id="Style_Parade_Salamanca_ViaMatris_Line_Normal">
+      <LineStyle>
+        <color>80b0f000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoDoctrinos_Line_Normal">
+      <LineStyle>
+        <color>80a0e000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Line_Normal">
+      <LineStyle>
+        <color>60a0e000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Line_Normal">
+      <LineStyle>
+        <color>80c0f000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Line_Normal">
+      <LineStyle>
+        <color>70b0f000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Encuentro_Line_Normal">
+      <LineStyle>
+        <color>80d0f000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Line_Normal">
+      <LineStyle>
+        <color>10804000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Line_Normal">
+      <LineStyle>
+        <color>80408000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusRescatado_Line_Normal">
+      <LineStyle>
+        <color>80608000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Line_Normal">
+      <LineStyle>
+        <color>ffffff00</color>
+        <width>3</width>
+        <gx:outerColor>bf8f0000</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoVela_Line_Normal">
+      <LineStyle>
+        <color>20202000</color>
+        <width>3</width>
+        <gx:outerColor>f0201000</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Perdon_Line_Normal">
+      <LineStyle>
+        <color>f0201000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Line_Normal">
+      <LineStyle>
+        <color>ffffff00</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Flagelado_Line_Normal">
+      <LineStyle>
+        <color>e0408000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Line_Normal">
+      <LineStyle>
+        <color>20202000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Dominicana_Line_Normal">
+      <LineStyle>
+        <color>f0201000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoAgonia_Line_Normal">
+      <LineStyle>
+        <color>80408000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Line_Normal">
+      <LineStyle>
+        <color>20202000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Line_Normal">
+      <LineStyle>
+        <color>60606000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Line_Normal">
+      <LineStyle>
+        <color>20202000</color>
+        <width>3</width>
+        <gx:outerColor>d9d9d900</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoYacente_Line_Normal">
+      <LineStyle>
+        <color>ffffff00</color>
+        <width>3</width>
+        <gx:outerColor>f0201000</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Line_Normal">
+      <LineStyle>
+        <color>ffffff00</color>
+        <width>3</width>
+        <gx:outerColor>60606000</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Line_Normal">
+      <LineStyle>
+        <color>20202000</color>
+        <width>3</width>
+        <gx:outerColor>d9d9d900</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Line_Normal">
+      <LineStyle>
+        <color>ffffff00</color>
+        <width>3</width>
+        <gx:outerColor>8f8f0000</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoLiberacion_Line_Normal">
+      <LineStyle>
+        <color>20202000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+  </Folder>
+</kml>

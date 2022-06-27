@@ -10,7 +10,7 @@
         <name>Convento de RR.MM. Úrsulas</name>
         <address>Convento de RR.MM. Úrsulas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_CristoAgonia_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6672679,40.9658832,0
@@ -21,7 +21,7 @@
         <name>Calle Domínguez Berrueta</name>
         <address>Calle Domínguez Berrueta  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_2</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6680438,40.965755,0
@@ -32,7 +32,7 @@
         <name>Calle Ramón y Cajal</name>
         <address>Calle Ramón y Cajal  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_3</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.668034,40.965431,0
@@ -43,13 +43,13 @@
         <name>Plaza de las Agustinas</name>
         <address>Plaza de las Agustinas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_4</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_4</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_5</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -60,7 +60,7 @@
         <name>Calle Serranos</name>
         <address>Calle Serranos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_6</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.667664,40.962332,0
@@ -71,7 +71,7 @@
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_7</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -82,7 +82,7 @@
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_8</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.667218,40.9609892,0
@@ -93,7 +93,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_9</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -104,7 +104,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_10</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -115,7 +115,7 @@
         <name>Calle Quintana</name>
         <address>Calle Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_11</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -126,7 +126,7 @@
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_12</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.664017,40.964313,0
@@ -137,7 +137,7 @@
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_13</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6640255,40.9650549,0
@@ -148,7 +148,7 @@
         <name>Plaza del Corrillo</name>
         <address>Plaza del Corrillo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_14</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6647796,40.9644478,0
@@ -159,7 +159,7 @@
         <name>Calle Meléndez</name>
         <address>Calle Meléndez  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_15</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6656443,40.9636939,0
@@ -170,7 +170,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_16</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.666381,40.963868,0
@@ -181,7 +181,7 @@
         <name>Plaza de Monterrey</name>
         <address>Plaza de Monterrey  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_17</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.666554,40.965156,0
@@ -192,7 +192,7 @@
         <name>Calle Bordadores</name>
         <address>Calle Bordadores  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_18</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.666577,40.965552,0
@@ -203,7 +203,7 @@
         <name>Calle Úrsulas</name>
         <address>Calle Úrsulas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_19</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_19</styleUrl>
         <Point>
           <coordinates>
             -5.6672599,40.96588,0
@@ -214,7 +214,7 @@
         <name>Convento RR.MM. Úrsulas</name>
         <address>Convento RR.MM. Úrsulas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Marker_20</styleUrl>
+        <styleUrl>../markers.kmlParade_Salamanca_CristoAgonia_Marker_20</styleUrl>
         <Point>
           <coordinates>
             -5.6672679,40.9658832,0
@@ -226,7 +226,7 @@
       <name>Recorrido</name>
       <Placemark>
         <name>Cristo de la Agonía - Recorrido</name>
-        <styleUrl>estilos.kml#Parade_Salamanca_CristoAgonia_Line_Normal</styleUrl>
+        <styleUrl>../lines.kmlParade_Salamanca_CristoAgonia_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>

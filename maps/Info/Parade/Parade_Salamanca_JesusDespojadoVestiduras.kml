@@ -10,7 +10,7 @@
         <name>Iglesia de La Purísima</name>
         <address>Iglesia de La Purísima  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_1</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6670257,40.9650041,0
@@ -21,7 +21,7 @@
         <name>Plaza de las Agustinas</name>
         <address>Plaza de las Agustinas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_2</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.667026,40.9650007,0
@@ -32,7 +32,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_3</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -43,7 +43,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_4</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -54,7 +54,7 @@
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_5</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6657775,40.9610536,0
@@ -65,7 +65,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_6</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -76,7 +76,7 @@
         <name>Catedral Nueva</name>
         <address>Catedral Nueva  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_7</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6665546,40.960868,0
@@ -87,7 +87,7 @@
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_8</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6672142,40.9608435,0
@@ -98,7 +98,7 @@
         <name>Calle Libreros</name>
         <address>Calle Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_9</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -109,7 +109,7 @@
         <name>Plaza de San Isidro</name>
         <address>Plaza de San Isidro  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_10</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6664645,40.9625054,0
@@ -120,7 +120,7 @@
         <name>Rúa Antigua</name>
         <address>Rúa Antigua  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_11</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -131,7 +131,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_12</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -142,7 +142,7 @@
         <name>Calle Quintana</name>
         <address>Calle Quintana  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_13</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -153,7 +153,7 @@
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_14</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.664083,40.964373,0
@@ -164,7 +164,7 @@
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_15</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6649738,40.9645959,0
@@ -175,7 +175,7 @@
         <name>Plaza del Corrillo</name>
         <address>Plaza del Corrillo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_16</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.6647971,40.9641168,0
@@ -186,7 +186,7 @@
         <name>Calle Juan del Rey</name>
         <address>Calle Juan del Rey  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_17</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.6655647,40.9642421,0
@@ -197,7 +197,7 @@
         <name>Calle Prado</name>
         <address>Calle Prado  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_18</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.665760,40.964556,0
@@ -208,7 +208,7 @@
         <name>Calle Doctrinos</name>
         <address>Calle Doctrinos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_19</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_19</styleUrl>
         <Point>
           <coordinates>
             -5.6660047,40.9647181,0
@@ -219,7 +219,7 @@
         <name>Calle Compañía</name>
         <address>Calle Compañía  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_20</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_20</styleUrl>
         <Point>
           <coordinates>
             -5.666070,40.962823,0
@@ -230,7 +230,7 @@
         <name>Plaza de las Agustinas</name>
         <address>Plaza de las Agustinas  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_21</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_21</styleUrl>
         <Point>
           <coordinates>
             -5.667026,40.9650007,0
@@ -241,7 +241,7 @@
         <name>Iglesia de la Purísima</name>
         <address>Iglesia de la Purísima  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_22</styleUrl>
+        <styleUrl>../markers.kml#Parade_Salamanca_JesusDespojadoVestiduras_Marker_22</styleUrl>
         <Point>
           <coordinates>
             -5.6670257,40.9650041,0
@@ -254,7 +254,7 @@
       <name>Recorrido</name>
       <Placemark>
         <name>Recorrido</name>
-        <styleUrl>estilos.kml#Parade_Salamanca_JesusDespojadoVestiduras_Line_Normal</styleUrl>
+        <styleUrl>../lines.kml#Parade_Salamanca_JesusDespojadoVestiduras_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
