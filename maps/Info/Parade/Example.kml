@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Placemark</name>
+  <Style id="randomColorIcon">
+    <IconStyle>
+        <color>ff00ff00</color>
+        <colorMode>random</colorMode>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
+        </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Folder object 1 (Placemark)</name>
+    <styleUrl>#randomColorIcon</styleUrl>
+    <Point>
+      <coordinates>-122.377588,37.830266,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
 <Folder>
   <name>Folder.kml</name>
   <open>1</open>
   <description>
     A folder is a container that can hold multiple other objects
   </description>
-  <Document>
-    <name>Placemark</name>
-    <Style id="randomColorIcon">
-      <IconStyle>
-          <color>ff00ff00</color>
-          <colorMode>random</colorMode>
-          <scale>1.1</scale>
-          <Icon>
-            <href>https://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
-          </Icon>
-      </IconStyle>
-    </Style>
-    <Placemark>
-      <name>Folder object 1 (Placemark)</name>
-      <styleUrl>#randomColorIcon</styleUrl>
-      <Point>
-        <coordinates>-122.377588,37.830266,0</coordinates>
-      </Point>
-    </Placemark>
-  </Document>
+  
   
   <Placemark>
     <name>Folder object 2 (Polygon)</name>
