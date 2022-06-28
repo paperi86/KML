@@ -172,6 +172,8 @@
       <open>1</open>
       <name>Cristo de la Humildad</name>
       <Placemark>
+        <visibility>1</visibility>
+        <open>1</open>
         <name>Quintana</name>
         <address>Quintana  Salamanca</address>
         <description>Salamanca</description>
