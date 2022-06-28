@@ -9,7 +9,7 @@
   <Style>
     <IconStyle>
         <color>ff00ff00</color>
-        <colorMode>normal</colorMode>
+        <colorMode>random</colorMode>
         <scale>1.1</scale>
         <Icon>
         <href>http://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
