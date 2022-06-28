@@ -6,7 +6,7 @@
   <description>
     A folder is a container that can hold multiple other objects
   </description>
-  <Style>
+  <Style id="randomColorIcon">
     <IconStyle>
         <color>ff00ff00</color>
         <colorMode>random</colorMode>
