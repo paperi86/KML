@@ -169,9 +169,9 @@
     </Style>
     <Style id="Style_Parade_Salamanca_CristoHumildad_Line_Normal">
       <LineStyle>
-        <color>202020ff</color>
-        <width>10</width>
-        <gx:outerColor>d9d9d9ff</gx:outerColor>
+        <color>ff202020</color>
+        <width>8</width>
+        <gx:outerColor>ffd9d9d9</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>

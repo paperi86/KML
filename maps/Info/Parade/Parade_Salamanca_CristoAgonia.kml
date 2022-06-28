@@ -148,6 +148,22 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="Style_Parade_Salamanca_CristoAgonia_Line_Normal">
       <LineStyle>
         <color>ff804080</color>
@@ -346,7 +362,7 @@
         <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_6</styleUrl>
         <Point>
           <coordinates>
-            -5.667664,40.962332,0
+            -5.666700,40.962498,0
           </coordinates>
         </Point>
       </Placemark>

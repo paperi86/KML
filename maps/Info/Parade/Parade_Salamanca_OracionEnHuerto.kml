@@ -152,9 +152,9 @@
     <Style id="Style_Parade_Salamanca_OracionEnHuerto_Line_Normal">
       <LineStyle>
         <color>ff108040</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
-        <gx:outerWidth>0.25</gx:outerWidth>
+        <gx:outerWidth>0.5</gx:outerWidth>
       </LineStyle>
     </Style>
     <Placemark>
@@ -441,7 +441,7 @@
         <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_9</styleUrl>
         <Point>
           <coordinates>
-            -5.6649738,40.9645959,0
+            -5.6649763,40.9650233,0
           </coordinates>
         </Point>
       </Placemark>
@@ -485,7 +485,7 @@
         <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_13</styleUrl>
         <Point>
           <coordinates>
-            -5.6643725,40.9608399,0
+            -5.663413,40.960696,0
           </coordinates>
         </Point>
       </Placemark>

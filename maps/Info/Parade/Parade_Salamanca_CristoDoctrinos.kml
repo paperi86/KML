@@ -151,7 +151,7 @@
     <Style id="Style_Parade_Salamanca_CristoDoctrinos_Line_Normal">
       <LineStyle>
         <color>ff80a0e0</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
