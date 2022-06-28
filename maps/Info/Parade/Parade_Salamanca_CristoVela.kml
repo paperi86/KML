@@ -151,9 +151,9 @@
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Line_Normal">
       <LineStyle>
-        <color>20202000</color>
+        <color>202020ff</color>
         <width>3</width>
-        <gx:outerColor>f0201000</gx:outerColor>
+        <gx:outerColor>f02010ff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
