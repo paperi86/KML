@@ -169,6 +169,7 @@
     </Style>
     
     <Folder>
+      <open>1</open>
       <name>Cristo de la Humildad</name>
       <Placemark>
         <name>Quintana</name>
@@ -497,7 +498,7 @@
     <Style id="Style_Parade_Salamanca_CristoHumildad_Line_Normal">
       <LineStyle>
         <color>202020ff</color>
-        <width>10</width>
+        <width>3</width>
         <gx:outerColor>d9d9d9ff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
