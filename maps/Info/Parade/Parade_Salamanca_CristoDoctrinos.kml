@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document id="Parade_Salamanca_CristoDoctrinos">
     <name>ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ) PROCESIÓN CRISTO DE LOS DOCTRINOS</name>
     <Folder>
-      <name>Cristo de los Doctrinos - Line Style</name>
+      <name>Styles</name>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Line_Normal">
         <LineStyle>
           <color>80a0e0ff</color>
@@ -12,9 +12,6 @@
           <gx:outerWidth>0.25</gx:outerWidth>
         </LineStyle>
       </Style>
-    </Folder>
-    <Folder>
-      <name>CristoDoctrinos</name>
       <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_1">
         <IconStyle>
           <color>80a0e0ff</color>
@@ -350,7 +347,7 @@
       </Placemark>
       <Placemark>
         <name>Convento de las Úrsulas</name>
-        <description></description>
+        <description>Convento</description>
         <styleUrl>#Style_Parade_Salamanca_CristoDoctrinos_Marker_18</styleUrl>
         <Point>
           <coordinates>
