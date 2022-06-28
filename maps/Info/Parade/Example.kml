@@ -6,8 +6,19 @@
   <description>
     A folder is a container that can hold multiple other objects
   </description>
+  <Style>
+    <IconStyle>
+        <color>ff00ff00</color>
+        <colorMode>normal</colorMode>
+        <scale>1.1</scale>
+        <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
+        </Icon>
+    </IconStyle>
+  </Style>
   <Placemark>
     <name>Folder object 1 (Placemark)</name>
+    <styleUrl>#randomColorIcon</styleUrl>
     <Point>
       <coordinates>-122.377588,37.830266,0</coordinates>
     </Point>
