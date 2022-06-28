@@ -7,148 +7,359 @@
 
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_1">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-1.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_2">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-2.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_3">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-3.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_4">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-4.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_5">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-5.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_6">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-6.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_7">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-7.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_8">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-8.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_9">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-9.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_10">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-10.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_11">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-11.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_12">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-12.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_13">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-13.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_14">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-14.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_15">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-15.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_16">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-16.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_17">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-17.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_18">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-18.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Style_Parade_Salamanca_CristoVela_Line_Normal">
+      <LineStyle>
+        <color>20202000</color>
+        <width>3</width>
+        <gx:outerColor>f0201000</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Cristo de la Vela - Recorrido</name>
+      <styleUrl>#Style_Parade_Salamanca_CristoVela_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -5.67436,40.97548,0
+          -5.67435,40.97549,0
+          -5.67433,40.97552,0
+          -5.6742,40.97563,0
+          -5.67401,40.9755,0
+          -5.67374,40.97533,0
+          -5.67368,40.97529,0
+          -5.67363,40.97525,0
+          -5.67353,40.97518,0
+          -5.6731,40.97489,0
+          -5.67297,40.97481,0
+          -5.6728,40.97472,0
+          -5.67264,40.97464,0
+          -5.67246,40.97455,0
+          -5.67239,40.97449,0
+          -5.67224,40.9744,0
+          -5.67214,40.97435,0
+          -5.67148,40.97402,0
+          -5.67142,40.97399,0
+          -5.67137,40.97396,0
+          -5.67127,40.9739,0
+          -5.67119,40.97387,0
+          -5.67117,40.97385,0
+          -5.67102,40.97377,0
+          -5.67066,40.97358,0
+          -5.67084,40.97342,0
+          -5.67114,40.97316,0
+          -5.67129,40.97299,0
+          -5.67132,40.97291,0
+          -5.67139,40.97272,0
+          -5.67144,40.97256,0
+          -5.67146,40.97247,0
+          -5.67142,40.97236,0
+          -5.67137,40.97228,0
+          -5.67112,40.97191,0
+          -5.67092,40.97163,0
+          -5.67072,40.97136,0
+          -5.67054,40.97111,0
+          -5.67025,40.97069,0
+          -5.67023,40.97066,0
+          -5.67006,40.97045,0
+          -5.66981,40.97011,0
+          -5.66967,40.9699,0
+          -5.66957,40.96978,0
+          -5.66935,40.96948,0
+          -5.66933,40.96945,0
+          -5.66907,40.96912,0
+          -5.66897,40.969,0
+          -5.66872,40.9687,0
+          -5.66857,40.9685,0
+          -5.66849,40.9684,0
+          -5.66815,40.96802,0
+          -5.66804,40.96789,0
+          -5.66795,40.96786,0
+          -5.66786,40.96782,0
+          -5.66779,40.96778,0
+          -5.66747,40.96765,0
+          -5.66716,40.96762,0
+          -5.66701,40.96762,0
+          -5.66693,40.96763,0
+          -5.66689,40.96765,0
+          -5.66681,40.96766,0
+          -5.66673,40.96767,0
+          -5.66656,40.96767,0
+          -5.66647,40.96767,0
+          -5.66596,40.96768,0
+          -5.66552,40.96751,0
+          -5.66525,40.96743,0
+          -5.66504,40.96738,0
+          -5.66479,40.96733,0
+          -5.66452,40.96728,0
+          -5.66403,40.96721,0
+          -5.66409,40.96686,0
+          -5.6641,40.96683,0
+          -5.66416,40.96685,0
+          -5.66419,40.96686,0
+          -5.66435,40.96688,0
+          -5.66438,40.96688,0
+          -5.66481,40.96697,0
+          -5.66488,40.96681,0
+          -5.6649,40.96677,0
+          -5.66494,40.96672,0
+          -5.66497,40.96663,0
+          -5.66512,40.9663,0
+          -5.66515,40.96619,0
+          -5.66521,40.96595,0
+          -5.66528,40.96565,0
+          -5.66529,40.96558,0
+          -5.66534,40.96541,0
+          -5.66534,40.96539,0
+          -5.66538,40.96524,0
+          -5.66544,40.965,0
+          -5.66544,40.96498,0
+          -5.66571,40.96503,0
+          -5.66574,40.96469,0
+          -5.66575,40.96449,0
+          -5.66576,40.9644,0
+          -5.66575,40.96449,0
+          -5.66574,40.96469,0
+          -5.66571,40.96503,0
+          -5.66587,40.96506,0
+          -5.66634,40.96514,0
+          -5.66655,40.96516,0
+          -5.66658,40.96541,0
+          -5.66662,40.96569,0
+          -5.66686,40.96574,0
+          -5.66704,40.9658,0
+          -5.66709,40.96582,0
+          -5.66726,40.96588,0
+          -5.66762,40.96602,0
+          -5.66772,40.96607,0
+          -5.66767,40.96608,0
+          -5.66765,40.96609,0
+          -5.66764,40.9661,0
+          -5.66762,40.96611,0
+          -5.66761,40.96612,0
+          -5.66785,40.96621,0
+          -5.66792,40.96624,0
+          -5.66793,40.96625,0
+          -5.66793,40.96626,0
+          -5.66793,40.96629,0
+          -5.66793,40.96631,0
+          -5.66793,40.96639,0
+          -5.6679,40.9664,0
+          -5.66788,40.96642,0
+          -5.66786,40.96644,0
+          -5.66785,40.96647,0
+          -5.66784,40.96654,0
+          -5.66784,40.96659,0
+          -5.6678,40.96687,0
+          -5.66777,40.96705,0
+          -5.66776,40.96709,0
+          -5.66776,40.96711,0
+          -5.66777,40.96712,0
+          -5.66778,40.96713,0
+          -5.6678,40.96716,0
+          -5.66765,40.9674,0
+          -5.66756,40.96752,0
+          -5.66747,40.96765,0
+          -5.66779,40.96778,0
+          -5.66786,40.96782,0
+          -5.66795,40.96786,0
+          -5.66804,40.96789,0
+          -5.66815,40.96802,0
+          -5.66849,40.9684,0
+          -5.66857,40.9685,0
+          -5.66872,40.9687,0
+          -5.66897,40.969,0
+          -5.66907,40.96912,0
+          -5.66933,40.96945,0
+          -5.66935,40.96948,0
+          -5.66957,40.96978,0
+          -5.66967,40.9699,0
+          -5.66981,40.97011,0
+          -5.67006,40.97045,0
+          -5.67023,40.97066,0
+          -5.67025,40.97069,0
+          -5.67054,40.97111,0
+          -5.67072,40.97136,0
+          -5.67092,40.97163,0
+          -5.67112,40.97191,0
+          -5.67137,40.97228,0
+          -5.67142,40.97236,0
+          -5.67146,40.97247,0
+          -5.67144,40.97256,0
+          -5.67139,40.97272,0
+          -5.67132,40.97291,0
+          -5.67129,40.97299,0
+          -5.67114,40.97316,0
+          -5.67084,40.97342,0
+          -5.67066,40.97358,0
+          -5.67102,40.97377,0
+          -5.67117,40.97385,0
+          -5.67119,40.97387,0
+          -5.67127,40.9739,0
+          -5.67137,40.97396,0
+          -5.67142,40.97399,0
+          -5.67148,40.97402,0
+          -5.67214,40.97435,0
+          -5.67224,40.9744,0
+          -5.67239,40.97449,0
+          -5.67246,40.97455,0
+          -5.67264,40.97464,0
+          -5.6728,40.97472,0
+          -5.67297,40.97481,0
+          -5.6731,40.97489,0
+          -5.67353,40.97518,0
+          -5.67363,40.97525,0
+          -5.67368,40.97529,0
+          -5.67374,40.97533,0
+          -5.6742,40.97563,0
+          -5.67433,40.97552,0
+          -5.67435,40.97549,0
+          -5.67436,40.97548,0
+        </coordinates>
+      </LineString>
+    </Placemark>
     <Folder>
       <name>Cristo de la Vela - Markers</name>
       <Placemark>
@@ -417,220 +628,6 @@
       </Placemark>
     </Folder>
   </Document>
-  <Document>
-    <open>1</open>
-    <name>Cristo de la Vela - Recorrido</name>
-    <Style id="Style_Parade_Salamanca_CristoVela_Line_Normal">
-      <LineStyle>
-        <color>20202000</color>
-        <width>3</width>
-        <gx:outerColor>f0201000</gx:outerColor>
-        <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
-    <Placemark>
-      <name>Cristo de la Vela - Recorrido</name>
-      <styleUrl>#Style_Parade_Salamanca_CristoVela_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -5.67436,40.97548,0
-          -5.67435,40.97549,0
-          -5.67433,40.97552,0
-          -5.6742,40.97563,0
-          -5.67401,40.9755,0
-          -5.67374,40.97533,0
-          -5.67368,40.97529,0
-          -5.67363,40.97525,0
-          -5.67353,40.97518,0
-          -5.6731,40.97489,0
-          -5.67297,40.97481,0
-          -5.6728,40.97472,0
-          -5.67264,40.97464,0
-          -5.67246,40.97455,0
-          -5.67239,40.97449,0
-          -5.67224,40.9744,0
-          -5.67214,40.97435,0
-          -5.67148,40.97402,0
-          -5.67142,40.97399,0
-          -5.67137,40.97396,0
-          -5.67127,40.9739,0
-          -5.67119,40.97387,0
-          -5.67117,40.97385,0
-          -5.67102,40.97377,0
-          -5.67066,40.97358,0
-          -5.67084,40.97342,0
-          -5.67114,40.97316,0
-          -5.67129,40.97299,0
-          -5.67132,40.97291,0
-          -5.67139,40.97272,0
-          -5.67144,40.97256,0
-          -5.67146,40.97247,0
-          -5.67142,40.97236,0
-          -5.67137,40.97228,0
-          -5.67112,40.97191,0
-          -5.67092,40.97163,0
-          -5.67072,40.97136,0
-          -5.67054,40.97111,0
-          -5.67025,40.97069,0
-          -5.67023,40.97066,0
-          -5.67006,40.97045,0
-          -5.66981,40.97011,0
-          -5.66967,40.9699,0
-          -5.66957,40.96978,0
-          -5.66935,40.96948,0
-          -5.66933,40.96945,0
-          -5.66907,40.96912,0
-          -5.66897,40.969,0
-          -5.66872,40.9687,0
-          -5.66857,40.9685,0
-          -5.66849,40.9684,0
-          -5.66815,40.96802,0
-          -5.66804,40.96789,0
-          -5.66795,40.96786,0
-          -5.66786,40.96782,0
-          -5.66779,40.96778,0
-          -5.66747,40.96765,0
-          -5.66716,40.96762,0
-          -5.66701,40.96762,0
-          -5.66693,40.96763,0
-          -5.66689,40.96765,0
-          -5.66681,40.96766,0
-          -5.66673,40.96767,0
-          -5.66656,40.96767,0
-          -5.66647,40.96767,0
-          -5.66596,40.96768,0
-          -5.66552,40.96751,0
-          -5.66525,40.96743,0
-          -5.66504,40.96738,0
-          -5.66479,40.96733,0
-          -5.66452,40.96728,0
-          -5.66403,40.96721,0
-          -5.66409,40.96686,0
-          -5.6641,40.96683,0
-          -5.66416,40.96685,0
-          -5.66419,40.96686,0
-          -5.66435,40.96688,0
-          -5.66438,40.96688,0
-          -5.66481,40.96697,0
-          -5.66488,40.96681,0
-          -5.6649,40.96677,0
-          -5.66494,40.96672,0
-          -5.66497,40.96663,0
-          -5.66512,40.9663,0
-          -5.66515,40.96619,0
-          -5.66521,40.96595,0
-          -5.66528,40.96565,0
-          -5.66529,40.96558,0
-          -5.66534,40.96541,0
-          -5.66534,40.96539,0
-          -5.66538,40.96524,0
-          -5.66544,40.965,0
-          -5.66544,40.96498,0
-          -5.66571,40.96503,0
-          -5.66574,40.96469,0
-          -5.66575,40.96449,0
-          -5.66576,40.9644,0
-          -5.66575,40.96449,0
-          -5.66574,40.96469,0
-          -5.66571,40.96503,0
-          -5.66587,40.96506,0
-          -5.66634,40.96514,0
-          -5.66655,40.96516,0
-          -5.66658,40.96541,0
-          -5.66662,40.96569,0
-          -5.66686,40.96574,0
-          -5.66704,40.9658,0
-          -5.66709,40.96582,0
-          -5.66726,40.96588,0
-          -5.66762,40.96602,0
-          -5.66772,40.96607,0
-          -5.66767,40.96608,0
-          -5.66765,40.96609,0
-          -5.66764,40.9661,0
-          -5.66762,40.96611,0
-          -5.66761,40.96612,0
-          -5.66785,40.96621,0
-          -5.66792,40.96624,0
-          -5.66793,40.96625,0
-          -5.66793,40.96626,0
-          -5.66793,40.96629,0
-          -5.66793,40.96631,0
-          -5.66793,40.96639,0
-          -5.6679,40.9664,0
-          -5.66788,40.96642,0
-          -5.66786,40.96644,0
-          -5.66785,40.96647,0
-          -5.66784,40.96654,0
-          -5.66784,40.96659,0
-          -5.6678,40.96687,0
-          -5.66777,40.96705,0
-          -5.66776,40.96709,0
-          -5.66776,40.96711,0
-          -5.66777,40.96712,0
-          -5.66778,40.96713,0
-          -5.6678,40.96716,0
-          -5.66765,40.9674,0
-          -5.66756,40.96752,0
-          -5.66747,40.96765,0
-          -5.66779,40.96778,0
-          -5.66786,40.96782,0
-          -5.66795,40.96786,0
-          -5.66804,40.96789,0
-          -5.66815,40.96802,0
-          -5.66849,40.9684,0
-          -5.66857,40.9685,0
-          -5.66872,40.9687,0
-          -5.66897,40.969,0
-          -5.66907,40.96912,0
-          -5.66933,40.96945,0
-          -5.66935,40.96948,0
-          -5.66957,40.96978,0
-          -5.66967,40.9699,0
-          -5.66981,40.97011,0
-          -5.67006,40.97045,0
-          -5.67023,40.97066,0
-          -5.67025,40.97069,0
-          -5.67054,40.97111,0
-          -5.67072,40.97136,0
-          -5.67092,40.97163,0
-          -5.67112,40.97191,0
-          -5.67137,40.97228,0
-          -5.67142,40.97236,0
-          -5.67146,40.97247,0
-          -5.67144,40.97256,0
-          -5.67139,40.97272,0
-          -5.67132,40.97291,0
-          -5.67129,40.97299,0
-          -5.67114,40.97316,0
-          -5.67084,40.97342,0
-          -5.67066,40.97358,0
-          -5.67102,40.97377,0
-          -5.67117,40.97385,0
-          -5.67119,40.97387,0
-          -5.67127,40.9739,0
-          -5.67137,40.97396,0
-          -5.67142,40.97399,0
-          -5.67148,40.97402,0
-          -5.67214,40.97435,0
-          -5.67224,40.9744,0
-          -5.67239,40.97449,0
-          -5.67246,40.97455,0
-          -5.67264,40.97464,0
-          -5.6728,40.97472,0
-          -5.67297,40.97481,0
-          -5.6731,40.97489,0
-          -5.67353,40.97518,0
-          -5.67363,40.97525,0
-          -5.67368,40.97529,0
-          -5.67374,40.97533,0
-          -5.6742,40.97563,0
-          -5.67433,40.97552,0
-          -5.67435,40.97549,0
-          -5.67436,40.97548,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-  </Document>
+
   
 </kml>
