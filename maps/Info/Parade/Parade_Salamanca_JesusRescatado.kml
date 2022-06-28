@@ -148,14 +148,32 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Style_Parade_Salamanca_JesusRescatado_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusRescatado_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
     <Style id="Style_Parade_Salamanca_JesusRescatado_Line_Normal">
         <LineStyle>
           <color>ff806080</color>
-          <width>10</width>
+          <width>8</width>
           <gx:outerColor>ffffffff</gx:outerColor>
           <gx:outerWidth>0.25</gx:outerWidth>
         </LineStyle>
       </Style>
+
       <Placemark>
         <name>Recorrido</name>
         <styleUrl>#Style_Parade_Salamanca_JesusRescatado_Line_Normal</styleUrl>
@@ -279,6 +297,7 @@
           </coordinates>
         </LineString>
       </Placemark>
+
     <Folder>
       <name>Jesus Rescatado - Markers</name>
       <Placemark>

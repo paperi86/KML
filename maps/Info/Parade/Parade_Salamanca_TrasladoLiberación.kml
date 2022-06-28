@@ -44,115 +44,11 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
 
     <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Line_Normal">
       <LineStyle>
         <color>ff202020</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>ffd9d9d9</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>

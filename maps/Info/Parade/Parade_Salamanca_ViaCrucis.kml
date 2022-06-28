@@ -149,6 +149,31 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_21">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
     <Style id="Style_Parade_Salamanca_ViaCrucis_Line_Normal">
         <LineStyle>
           <color>ffffff00</color>
@@ -157,6 +182,7 @@
           <gx:outerWidth>0.25</gx:outerWidth>
         </LineStyle>
       </Style>
+
       <Placemark>
         <name>Via Crucis - Recorrido</name>
         <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Line_Normal</styleUrl>

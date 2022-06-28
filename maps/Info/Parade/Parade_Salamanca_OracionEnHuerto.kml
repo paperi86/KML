@@ -125,30 +125,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    
     <Style id="Style_Parade_Salamanca_OracionEnHuerto_Line_Normal">
       <LineStyle>
         <color>ff108040</color>
@@ -157,6 +134,7 @@
         <gx:outerWidth>0.5</gx:outerWidth>
       </LineStyle>
     </Style>
+
     <Placemark>
       <name>Recorrido</name>
       <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Line_Normal</styleUrl>
@@ -344,6 +322,7 @@
         </coordinates>
       </LineString>
     </Placemark>
+
     <Folder>
       <name>Huerto de los Olivos - Markers</name>
       <Placemark>

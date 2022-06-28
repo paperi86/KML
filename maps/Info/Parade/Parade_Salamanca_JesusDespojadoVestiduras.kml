@@ -149,10 +149,43 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_21">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_22">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-22.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
     <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Line_Normal">
       <LineStyle>
         <color>ff606060</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
@@ -276,6 +309,7 @@
           </coordinates>
         </LineString>
       </Placemark>
+
     <Folder>
       <name>Jesús Despojado de sus Vestiduras - Markers</name>
       <Placemark>

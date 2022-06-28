@@ -101,54 +101,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    
     <Style id="Style_Parade_Salamanca_ViaMatris_Line_Normal">
       <LineStyle>
         <color>80b0f000</color>

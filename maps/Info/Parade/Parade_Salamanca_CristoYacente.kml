@@ -125,38 +125,16 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+
     <Style id="Style_Parade_Salamanca_CristoYacente_Line_Normal">
       <LineStyle>
         <color>ffffffff</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>fff02010</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
+    
     <Placemark>
       <name>Cristo Yacente y de la Agonía - Recorrido</name>
       <styleUrl>#Style_Parade_Salamanca_CristoYacente_Line_Normal</styleUrl>

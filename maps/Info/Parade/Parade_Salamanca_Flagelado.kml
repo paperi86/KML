@@ -117,46 +117,16 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="Style_Parade_Salamanca_Flagelado_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Flagelado_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Flagelado_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Flagelado_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+
     <Style id="Style_Parade_Salamanca_Flagelado_Line_Normal">
       <LineStyle>
         <color>ffe04080</color>
-        <width>3</width>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
+
     <Placemark>
       <name>Flagelado - Recorrido</name>
       <styleUrl>#Style_Parade_Salamanca_Flagelado_Line_Normal</styleUrl>
@@ -241,8 +211,9 @@
         </coordinates>
       </LineString>
     </Placemark>
+
     <Folder>
-      <name>Jesús-flagelado.csv</name>
+      <name>Jesús Flagelado - Placemarks</name>
       <Placemark>
         <name>Iglesia del Espíritu Santo (Clerecía)</name>
         <address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</address>

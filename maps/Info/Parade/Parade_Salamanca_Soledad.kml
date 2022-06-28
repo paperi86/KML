@@ -149,14 +149,16 @@
         </Icon>
       </IconStyle>
     </Style>
+
     <Style id="Style_Parade_Salamanca_Soledad_Line_Normal">
       <LineStyle>
         <color>ff202020</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
+
     <Placemark>
       <name>Soledad - Recorrido</name>
       <styleUrl>#Style_Parade_Salamanca_Soledad_Line_Normal</styleUrl>
@@ -300,6 +302,7 @@
         </coordinates>
       </LineString>
     </Placemark>
+
     <Folder>
       <name>Soledad - Markers</name>
       <Placemark>

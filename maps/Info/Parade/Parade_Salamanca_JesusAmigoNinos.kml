@@ -117,46 +117,16 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+
     <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Line_Normal">
         <LineStyle>
           <color>ffffffff</color>
-          <width>10</width>
+          <width>8</width>
           <gx:outerColor>ffbf8f00</gx:outerColor>
           <gx:outerWidth>0.25</gx:outerWidth>
         </LineStyle>
       </Style>
+      
       <Placemark>
         <name>Recorrido</name>
         <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Line_Normal</styleUrl>
@@ -247,6 +217,7 @@
           </coordinates>
         </LineString>
       </Placemark>
+
     <Folder>
       <name>Jesus Amigo de los Niños - Markers</name>
       <Placemark>

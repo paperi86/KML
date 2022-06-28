@@ -152,7 +152,7 @@
     <Style id="Style_Parade_Salamanca_JesusNazareno_Line_Normal">
         <LineStyle>
           <color>ff804080</color>
-          <width>10</width>
+          <width>8</width>
           <gx:outerColor>ffffffff</gx:outerColor>
           <gx:outerWidth>0.25</gx:outerWidth>
         </LineStyle>

@@ -124,30 +124,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="Style_Parade_Salamanca_Rosario_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Rosario_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Rosario_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+
     <Style id="Style_Parade_Salamanca_Rosario_Line_Normal">
         <LineStyle>
           <color>ffffffff</color>
@@ -156,6 +133,7 @@
           <gx:outerWidth>0.25</gx:outerWidth>
         </LineStyle>
       </Style>
+
       <Placemark>
         <name>Rosario - Recorrido</name>
         <styleUrl>#Style_Parade_Salamanca_Rosario_Line_Normal</styleUrl>
@@ -266,6 +244,7 @@
           </coordinates>
         </LineString>
       </Placemark>
+
     <Folder>
       <name>Rosario - Markers</name>
       <Placemark>

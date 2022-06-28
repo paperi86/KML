@@ -133,31 +133,16 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
 
     <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Line_Normal">
       <LineStyle>
         <color>ff202020</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
+
     <Placemark>
       <name>Directions from Iglesia del Espíritu Santo (Clerecía) to Calle del Prior, 14, 37002 Salamanca, Spain</name>
       <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Line_Normal</styleUrl>

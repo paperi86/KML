@@ -149,14 +149,64 @@
         </Icon>
       </IconStyle>
     </Style>
+     <Style id="Style_Parade_Salamanca_CristoVela_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoVela_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoVela_Marker_21">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoVela_Marker_22">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-22.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoVela_Marker_23">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-23.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoVela_Marker_24">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-24.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
     <Style id="Style_Parade_Salamanca_CristoVela_Line_Normal">
       <LineStyle>
         <color>ff202020</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>fff02010</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
+
     <Placemark>
       <name>Cristo de la Vela - Recorrido</name>
       <styleUrl>#Style_Parade_Salamanca_CristoVela_Line_Normal</styleUrl>
@@ -360,6 +410,7 @@
         </coordinates>
       </LineString>
     </Placemark>
+
     <Folder>
       <name>Cristo de la Vela - Markers</name>
       <Placemark>

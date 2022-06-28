@@ -149,6 +149,38 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_21">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_22">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-22.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
 
     <Style id="Style_Parade_Salamanca_SantoEntierro_Line_Normal">
         <LineStyle>
@@ -158,6 +190,7 @@
           <gx:outerWidth>0.25</gx:outerWidth>
         </LineStyle>
       </Style>
+
       <Placemark>
         <name>Santo Entierro - Recorrido</name>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Line_Normal</styleUrl>
