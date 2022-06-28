@@ -152,8 +152,8 @@
 
     <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Line_Normal">
       <LineStyle>
-        <color>202020ff</color>
-        <width>3</width>
+        <color>ff202020</color>
+        <width>10</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>

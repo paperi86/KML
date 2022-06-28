@@ -149,227 +149,11 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Folder>
-      <name>Cristo del Amor y de la Paz - Markers</name>
-      <Placemark>
-        <name>Iglesia Nueva del Arrabal</name>
-        <address>Iglesia Nueva del Arrabal  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
-            -5.668972,40.9555076,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Paseo del Progreso</name>
-        <address>Paseo del Progreso  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
-            -5.670895,40.956005,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Puente Romano</name>
-        <address>Puente Romano  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6701733,40.9577818,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Paseo San Gregorio</name>
-        <address>Paseo San Gregorio  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
-            -5.668925,40.959360,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Tentenecio</name>
-        <address>Calle Tentenecio  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
-            -5.667406,40.959744,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza Juan XXIII</name>
-        <address>Plaza Juan XXIII  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
-            -5.667093,40.960600,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Catedral Nueva</name>
-        <address>Catedral Nueva  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
-            -5.666747,40.960857,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de Anaya</name>
-        <address>Plaza de Anaya  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6662654,40.9612055,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Mayor</name>
-        <address>Rúa Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
-            -5.665339,40.9630034,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Corrillo</name>
-        <address>Plaza del Corrillo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
-            -5.664815,40.964238,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Meléndez</name>
-        <address>Calle Meléndez  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6656443,40.9636939,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Compañía</name>
-        <address>Calle Compañía  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
-            -5.666381,40.963868,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Antigua</name>
-        <address>Rúa Antigua  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_13</styleUrl>
-        <Point>
-          <coordinates>
-            -5.665957,40.962656,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de San Isidro</name>
-        <address>Plaza de San Isidro  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6664645,40.9625054,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Libreros</name>
-        <address>Calle Libreros  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_15</styleUrl>
-        <Point>
-          <coordinates>
-            -5.667551,40.9611596,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Vera Cruz</name>
-        <address>Calle Vera Cruz  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_16</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6682101,40.9598987,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Tentenecio</name>
-        <address>Calle Tentenecio  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_17</styleUrl>
-        <Point>
-          <coordinates>
-            -5.667406,40.959744,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Puente Romano</name>
-        <address>Puente Romano  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_18</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6701733,40.9577818,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Iglesia Nueva del Arrabal</name>
-        <address>Iglesia Nueva del Arrabal  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_19</styleUrl>
-        <Point>
-          <coordinates>
-            -5.668972,40.9555076,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>
-  <Document>
-    <open>1</open>
-    <name>Recorrido</name>
     <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Line_Normal">
       <LineStyle>
-        <color>ffffff00</color>
-        <width>3</width>
-        <gx:outerColor>8f8f0000</gx:outerColor>
+        <color>ffffffff</color>
+        <width>10</width>
+        <gx:outerColor>ffff8f8f</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
@@ -618,7 +402,217 @@
         </coordinates>
       </LineString>
     </Placemark>
-  </Document>
-
-  
+    <Folder>
+      <name>Cristo del Amor y de la Paz - Markers</name>
+      <Placemark>
+        <name>Iglesia Nueva del Arrabal</name>
+        <address>Iglesia Nueva del Arrabal  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
+            -5.668972,40.9555076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paseo del Progreso</name>
+        <address>Paseo del Progreso  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
+            -5.670895,40.956005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Romano</name>
+        <address>Puente Romano  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6701733,40.9577818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paseo San Gregorio</name>
+        <address>Paseo San Gregorio  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
+            -5.668925,40.959360,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Tentenecio</name>
+        <address>Calle Tentenecio  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667406,40.959744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Juan XXIII</name>
+        <address>Plaza Juan XXIII  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667093,40.960600,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catedral Nueva</name>
+        <address>Catedral Nueva  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666747,40.960857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <address>Plaza de Anaya  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6662654,40.9612055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665339,40.9630034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <address>Plaza del Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
+            -5.664815,40.964238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Meléndez</name>
+        <address>Calle Meléndez  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6656443,40.9636939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
+            -5.666381,40.963868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <address>Rúa Antigua  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665957,40.962656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Isidro</name>
+        <address>Plaza de San Isidro  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6664645,40.9625054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <address>Calle Libreros  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667551,40.9611596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Vera Cruz</name>
+        <address>Calle Vera Cruz  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6682101,40.9598987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Tentenecio</name>
+        <address>Calle Tentenecio  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667406,40.959744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puente Romano</name>
+        <address>Puente Romano  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_18</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6701733,40.9577818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia Nueva del Arrabal</name>
+        <address>Iglesia Nueva del Arrabal  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_19</styleUrl>
+        <Point>
+          <coordinates>
+            -5.668972,40.9555076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>  
 </kml>

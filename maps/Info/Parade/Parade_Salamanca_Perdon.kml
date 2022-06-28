@@ -6,148 +6,183 @@
     <description><![CDATA[DOMINGO DE RAMOS. Día 14 DE ABRIL<br><br>HERMANDAD DE NUESTRO PADRE JESÚS DEL PERDÓN<br><br>HORARIO: 19:00 H. <br>SALIDA: RR.MM. Bernardas. RECORRIDO: Convento de las RR. MM. Bernardas, camino de la Aguas, (Acto del Indulto en el Museo del Comercio), plaza de San Antonio, Príncipe de Vergara, Almansa, Lucio Marineo, Arias Pinel, Gonzalo de Vivero, parque de Nuestro Padre Jesús del Perdón, (Rezo del Vía Crucis), Martínez Silicio, Marineo, Arias Pinel, Convento de la RR. MM. Bernardas. <br>PASOS: Camino del Calvario (1988). <br>Nuestro Padre Jesús del Perdón (Bernardo Pérez de Robles, S.XVII).]]></description>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_1">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-1.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_2">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-2.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_3">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-3.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_4">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-4.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_5">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-5.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_6">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-6.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_7">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-7.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_8">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-8.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_9">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-9.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_10">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-10.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_11">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-11.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_12">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-12.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_13">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-13.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_14">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-14.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_15">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-15.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_16">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-16.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_17">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-17.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_18">
       <IconStyle>
+        <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-18.png</href>
-          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Style_Parade_Salamanca_Perdon_Line_Normal">
+      <LineStyle>
+        <color>fff02010</color>
+        <width>10</width>
+        <gx:outerColor>ffffffff</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Recorrido</name>
+      <styleUrl>#Style_Parade_Salamanca_Perdon_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -5.6472928,40.961704,0
+          -5.6493634,40.9625952,0
+          -5.6507904,40.9632919,0
+          -5.6538299,40.9647095,0
+          -5.6542591,40.9648715,0
+          -5.65442,40.9647581,0
+          -5.6540552,40.9635105,0
+          -5.6539587,40.9631702,0
+          -5.6504289,40.9619387,0
+          -5.6501929,40.9616309,0
+          -5.6491489,40.9608145,0
+          -5.6497681,40.9603539,0
+          -5.6489171,40.9596948,0
+          -5.6492321,40.9599407,0
+          -5.6486178,40.9604065,0
+          -5.6491033,40.9608055,0
+          -5.6480527,40.9619788,0
+          -5.647409,40.9616709,0
+        </coordinates>
+      </LineString>
+    </Placemark>
     <Folder>
       <name>Jesus del Perdón - Markers</name>
       <Placemark>
@@ -305,44 +340,5 @@
         </Point>
       </Placemark>
     </Folder>
-  </Document>
-  <Document>
-    <open>1</open>
-    <name>Recorrido</name>
-    <Style id="Style_Parade_Salamanca_Perdon_Line_Normal">
-      <LineStyle>
-        <color>f0201000</color>
-        <width>3</width>
-        <gx:outerColor>ffffff00</gx:outerColor>
-        <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
-    <Placemark>
-      <name>Recorrido</name>
-      <styleUrl>#Style_Parade_Salamanca_Perdon_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          -5.6472928,40.961704,0
-          -5.6493634,40.9625952,0
-          -5.6507904,40.9632919,0
-          -5.6538299,40.9647095,0
-          -5.6542591,40.9648715,0
-          -5.65442,40.9647581,0
-          -5.6540552,40.9635105,0
-          -5.6539587,40.9631702,0
-          -5.6504289,40.9619387,0
-          -5.6501929,40.9616309,0
-          -5.6491489,40.9608145,0
-          -5.6497681,40.9603539,0
-          -5.6489171,40.9596948,0
-          -5.6492321,40.9599407,0
-          -5.6486178,40.9604065,0
-          -5.6491033,40.9608055,0
-          -5.6480527,40.9619788,0
-          -5.647409,40.9616709,0
-        </coordinates>
-      </LineString>
-    </Placemark>
   </Document>
 </kml>
