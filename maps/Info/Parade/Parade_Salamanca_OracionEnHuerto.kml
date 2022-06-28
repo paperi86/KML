@@ -1,16 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document id="Parade_Salamanca_OracionEnHuerto">
+    <open>1</open>
     <name>COFRADÍA DE LA ORACIÓN EN EL HUERTO DE LOS OLIVOS</name>
     <description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br>HORARIO: 18:00 H. <br>SALIDA: Iglesia del Carmen del Abajo. <br>RECORRIDO: Iglesia del Carmen de Abajo, Arroyo de Santo Domingo, Rector Esperabé, Ribera del Puente, Tentenecio, plaza Juan XXIII, Benedicto XVI, Rúa Mayor, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, San Pablo, Juan de la Fuente, plaza Concilio de Trento, Arroyo de Santo Domingo, Iglesia del Carmen de Abajo. <br>PASO: Oración de Jesús en el Huerto de los Olivos (Siglos, XVII y XVIII).]]></description>
 
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_1">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-1.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_2">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-2.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_3">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-3.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_4">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-4.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_5">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-5.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_6">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-6.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_7">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-7.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_8">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-8.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_9">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-9.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_10">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-10.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_11">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-11.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_12">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-12.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_13">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-13.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_14">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-14.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_15">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-15.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_16">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-16.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_17">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-17.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_18">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-18.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Folder>
       <name>Huerto de los Olivos - Markers</name>
       <Placemark>
         <name>Iglesia del Carmen de Abajo</name>
         <address>Iglesia del Carmen de Abajo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_1</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.663856,40.9589504,0
@@ -21,7 +166,7 @@
         <name>Calle Arroyo de Santo Domingo</name>
         <address>Calle Arroyo de Santo Domingo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_2</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6638097,40.9591712,0
@@ -32,7 +177,7 @@
         <name>Calle Rector Esperabé</name>
         <address>Calle Rector Esperabé  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_3</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6643497,40.9588008,0
@@ -43,7 +188,7 @@
         <name>Calle Tentenecio</name>
         <address>Calle Tentenecio  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_4</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6672789,40.9597869,0
@@ -54,7 +199,7 @@
         <name>Plaza Juan XXIII</name>
         <address>Plaza Juan XXIII  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_5</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.667044,40.9606794,0
@@ -65,7 +210,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_6</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -76,7 +221,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_7</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -87,7 +232,7 @@
         <name>Plaza del Corrillo</name>
         <address>Plaza del Corrillo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_8</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6647796,40.9644478,0
@@ -98,7 +243,7 @@
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_9</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6649738,40.9645959,0
@@ -109,7 +254,7 @@
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_10</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.664083,40.964373,0
@@ -120,7 +265,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_11</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6642567,40.9621066,0
@@ -131,7 +276,7 @@
         <name>Calle Juan de la Fuente</name>
         <address>Calle Juan de la Fuente  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_12</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6633626,40.9615316,0
@@ -142,7 +287,7 @@
         <name>Plaza Concilio de Trento</name>
         <address>Plaza Concilio de Trento  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_13</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.6643725,40.9608399,0
@@ -153,7 +298,7 @@
         <name>Calle Arroyo de Santo Domingo</name>
         <address>Calle Arroyo de Santo Domingo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_14</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6638097,40.9591712,0
@@ -164,7 +309,7 @@
         <name>Iglesia del Carmen de Abajo</name>
         <address>Iglesia del Carmen de Abajo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_OracionEnHuerto_Marker_15</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.663856,40.9589504,0
@@ -172,196 +317,204 @@
         </Point>
       </Placemark>
     </Folder>
-
-    <Folder>
+  </Document>
+  <Document>
+    <open>1</open>
+    <name>Recorrido</name>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Line_Normal">
+      <LineStyle>
+        <color>10804000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Placemark>
       <name>Recorrido</name>
-      <Placemark>
-        <name>Recorrido</name>
-        <styleUrl>../lines.kml#Style_Parade_Salamanca_OracionEnHuerto_Line_Normal</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -5.66386,40.95895,0
-            -5.66386,40.95891,0
-            -5.66387,40.95888,0
-            -5.66388,40.95883,0
-            -5.66389,40.95877,0
-            -5.66397,40.9588,0
-            -5.66399,40.95878,0
-            -5.66401,40.95878,0
-            -5.66402,40.95878,0
-            -5.66403,40.95878,0
-            -5.66405,40.95878,0
-            -5.66409,40.95878,0
-            -5.66416,40.9588,0
-            -5.66418,40.9588,0
-            -5.66419,40.9588,0
-            -5.66424,40.95877,0
-            -5.66435,40.9588,0
-            -5.66477,40.95892,0
-            -5.66487,40.95895,0
-            -5.665,40.95899,0
-            -5.66514,40.95903,0
-            -5.66527,40.95904,0
-            -5.66544,40.95904,0
-            -5.66552,40.95906,0
-            -5.66576,40.95906,0
-            -5.66597,40.95906,0
-            -5.66608,40.95906,0
-            -5.66633,40.95906,0
-            -5.6665,40.95907,0
-            -5.66671,40.95909,0
-            -5.66692,40.95911,0
-            -5.66699,40.95912,0
-            -5.66742,40.95918,0
-            -5.66761,40.95921,0
-            -5.66792,40.95926,0
-            -5.668,40.95927,0
-            -5.66825,40.9593,0
-            -5.66848,40.95932,0
-            -5.66857,40.95933,0
-            -5.66872,40.95934,0
-            -5.6688,40.95935,0
-            -5.66874,40.95939,0
-            -5.6687,40.9594,0
-            -5.66866,40.95941,0
-            -5.66863,40.95941,0
-            -5.6686,40.95941,0
-            -5.66854,40.95942,0
-            -5.66839,40.95941,0
-            -5.66834,40.95941,0
-            -5.66823,40.9594,0
-            -5.66816,40.9594,0
-            -5.66811,40.95941,0
-            -5.66793,40.95943,0
-            -5.66781,40.95945,0
-            -5.66769,40.95947,0
-            -5.66769,40.9595,0
-            -5.66768,40.95952,0
-            -5.66767,40.95954,0
-            -5.66762,40.95957,0
-            -5.66757,40.95961,0
-            -5.66753,40.95965,0
-            -5.66752,40.95967,0
-            -5.66746,40.95971,0
-            -5.66742,40.95973,0
-            -5.66736,40.95976,0
-            -5.66728,40.95979,0
-            -5.66715,40.95986,0
-            -5.66711,40.9599,0
-            -5.6671,40.95991,0
-            -5.66707,40.95994,0
-            -5.66701,40.96,0
-            -5.66698,40.96006,0
-            -5.66694,40.9601,0
-            -5.6669,40.96018,0
-            -5.66687,40.96025,0
-            -5.66704,40.96031,0
-            -5.66725,40.9604,0
-            -5.66704,40.96068,0
-            -5.6669,40.96084,0
-            -5.66671,40.96108,0
-            -5.66656,40.9613,0
-            -5.66644,40.96147,0
-            -5.66642,40.96152,0
-            -5.66644,40.96176,0
-            -5.66622,40.96176,0
-            -5.66605,40.96199,0
-            -5.66569,40.96247,0
-            -5.66562,40.96261,0
-            -5.66549,40.9628,0
-            -5.66534,40.963,0
-            -5.66525,40.96312,0
-            -5.66504,40.96338,0
-            -5.66494,40.96352,0
-            -5.66471,40.96386,0
-            -5.66468,40.96394,0
-            -5.66466,40.96402,0
-            -5.66463,40.96411,0
-            -5.6648,40.9641,0
-            -5.6648,40.96423,0
-            -5.6648,40.96438,0
-            -5.66478,40.96445,0
-            -5.66476,40.96448,0
-            -5.66474,40.96451,0
-            -5.66472,40.96453,0
-            -5.66465,40.96458,0
-            -5.6646,40.96466,0
-            -5.66457,40.96469,0
-            -5.66452,40.9648,0
-            -5.6645,40.96484,0
-            -5.66438,40.96528,0
-            -5.66435,40.96541,0
-            -5.66395,40.96533,0
-            -5.66357,40.96524,0
-            -5.66374,40.9649,0
-            -5.66381,40.96474,0
-            -5.66384,40.9647,0
-            -5.6639,40.96467,0
-            -5.66403,40.96469,0
-            -5.66411,40.96419,0
-            -5.66402,40.9642,0
-            -5.66404,40.9639,0
-            -5.66405,40.96375,0
-            -5.66409,40.96332,0
-            -5.66415,40.96287,0
-            -5.66418,40.96267,0
-            -5.66421,40.9625,0
-            -5.66421,40.96246,0
-            -5.66424,40.96227,0
-            -5.66426,40.96211,0
-            -5.66426,40.96209,0
-            -5.66426,40.96201,0
-            -5.66406,40.96198,0
-            -5.66402,40.96198,0
-            -5.66382,40.96195,0
-            -5.66369,40.96182,0
-            -5.66346,40.96163,0
-            -5.66336,40.96153,0
-            -5.66305,40.96123,0
-            -5.66297,40.96115,0
-            -5.66297,40.96114,0
-            -5.66298,40.96114,0
-            -5.66298,40.96113,0
-            -5.66299,40.96113,0
-            -5.66299,40.96112,0
-            -5.663,40.96112,0
-            -5.663,40.96111,0
-            -5.663,40.9611,0
-            -5.66301,40.96109,0
-            -5.66301,40.96108,0
-            -5.66301,40.96107,0
-            -5.663,40.96106,0
-            -5.663,40.96105,0
-            -5.66299,40.96104,0
-            -5.66299,40.96103,0
-            -5.66298,40.96103,0
-            -5.66298,40.96102,0
-            -5.66297,40.96102,0
-            -5.66296,40.96101,0
-            -5.66295,40.96101,0
-            -5.66294,40.961,0
-            -5.66293,40.961,0
-            -5.66292,40.961,0
-            -5.66304,40.96094,0
-            -5.6632,40.96086,0
-            -5.66332,40.9608,0
-            -5.66338,40.96075,0
-            -5.66341,40.96071,0
-            -5.66344,40.96068,0
-            -5.66351,40.96057,0
-            -5.66357,40.96038,0
-            -5.66363,40.96006,0
-            -5.66371,40.95964,0
-            -5.66372,40.95959,0
-            -5.66375,40.95948,0
-            -5.66378,40.95931,0
-            -5.66381,40.95917,0
-            -5.66384,40.95904,0
-            -5.66386,40.95895,0
-          </coordinates>
-        </LineString>
-      </Placemark>
-    </Folder>
+      <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -5.66386,40.95895,0
+          -5.66386,40.95891,0
+          -5.66387,40.95888,0
+          -5.66388,40.95883,0
+          -5.66389,40.95877,0
+          -5.66397,40.9588,0
+          -5.66399,40.95878,0
+          -5.66401,40.95878,0
+          -5.66402,40.95878,0
+          -5.66403,40.95878,0
+          -5.66405,40.95878,0
+          -5.66409,40.95878,0
+          -5.66416,40.9588,0
+          -5.66418,40.9588,0
+          -5.66419,40.9588,0
+          -5.66424,40.95877,0
+          -5.66435,40.9588,0
+          -5.66477,40.95892,0
+          -5.66487,40.95895,0
+          -5.665,40.95899,0
+          -5.66514,40.95903,0
+          -5.66527,40.95904,0
+          -5.66544,40.95904,0
+          -5.66552,40.95906,0
+          -5.66576,40.95906,0
+          -5.66597,40.95906,0
+          -5.66608,40.95906,0
+          -5.66633,40.95906,0
+          -5.6665,40.95907,0
+          -5.66671,40.95909,0
+          -5.66692,40.95911,0
+          -5.66699,40.95912,0
+          -5.66742,40.95918,0
+          -5.66761,40.95921,0
+          -5.66792,40.95926,0
+          -5.668,40.95927,0
+          -5.66825,40.9593,0
+          -5.66848,40.95932,0
+          -5.66857,40.95933,0
+          -5.66872,40.95934,0
+          -5.6688,40.95935,0
+          -5.66874,40.95939,0
+          -5.6687,40.9594,0
+          -5.66866,40.95941,0
+          -5.66863,40.95941,0
+          -5.6686,40.95941,0
+          -5.66854,40.95942,0
+          -5.66839,40.95941,0
+          -5.66834,40.95941,0
+          -5.66823,40.9594,0
+          -5.66816,40.9594,0
+          -5.66811,40.95941,0
+          -5.66793,40.95943,0
+          -5.66781,40.95945,0
+          -5.66769,40.95947,0
+          -5.66769,40.9595,0
+          -5.66768,40.95952,0
+          -5.66767,40.95954,0
+          -5.66762,40.95957,0
+          -5.66757,40.95961,0
+          -5.66753,40.95965,0
+          -5.66752,40.95967,0
+          -5.66746,40.95971,0
+          -5.66742,40.95973,0
+          -5.66736,40.95976,0
+          -5.66728,40.95979,0
+          -5.66715,40.95986,0
+          -5.66711,40.9599,0
+          -5.6671,40.95991,0
+          -5.66707,40.95994,0
+          -5.66701,40.96,0
+          -5.66698,40.96006,0
+          -5.66694,40.9601,0
+          -5.6669,40.96018,0
+          -5.66687,40.96025,0
+          -5.66704,40.96031,0
+          -5.66725,40.9604,0
+          -5.66704,40.96068,0
+          -5.6669,40.96084,0
+          -5.66671,40.96108,0
+          -5.66656,40.9613,0
+          -5.66644,40.96147,0
+          -5.66642,40.96152,0
+          -5.66644,40.96176,0
+          -5.66622,40.96176,0
+          -5.66605,40.96199,0
+          -5.66569,40.96247,0
+          -5.66562,40.96261,0
+          -5.66549,40.9628,0
+          -5.66534,40.963,0
+          -5.66525,40.96312,0
+          -5.66504,40.96338,0
+          -5.66494,40.96352,0
+          -5.66471,40.96386,0
+          -5.66468,40.96394,0
+          -5.66466,40.96402,0
+          -5.66463,40.96411,0
+          -5.6648,40.9641,0
+          -5.6648,40.96423,0
+          -5.6648,40.96438,0
+          -5.66478,40.96445,0
+          -5.66476,40.96448,0
+          -5.66474,40.96451,0
+          -5.66472,40.96453,0
+          -5.66465,40.96458,0
+          -5.6646,40.96466,0
+          -5.66457,40.96469,0
+          -5.66452,40.9648,0
+          -5.6645,40.96484,0
+          -5.66438,40.96528,0
+          -5.66435,40.96541,0
+          -5.66395,40.96533,0
+          -5.66357,40.96524,0
+          -5.66374,40.9649,0
+          -5.66381,40.96474,0
+          -5.66384,40.9647,0
+          -5.6639,40.96467,0
+          -5.66403,40.96469,0
+          -5.66411,40.96419,0
+          -5.66402,40.9642,0
+          -5.66404,40.9639,0
+          -5.66405,40.96375,0
+          -5.66409,40.96332,0
+          -5.66415,40.96287,0
+          -5.66418,40.96267,0
+          -5.66421,40.9625,0
+          -5.66421,40.96246,0
+          -5.66424,40.96227,0
+          -5.66426,40.96211,0
+          -5.66426,40.96209,0
+          -5.66426,40.96201,0
+          -5.66406,40.96198,0
+          -5.66402,40.96198,0
+          -5.66382,40.96195,0
+          -5.66369,40.96182,0
+          -5.66346,40.96163,0
+          -5.66336,40.96153,0
+          -5.66305,40.96123,0
+          -5.66297,40.96115,0
+          -5.66297,40.96114,0
+          -5.66298,40.96114,0
+          -5.66298,40.96113,0
+          -5.66299,40.96113,0
+          -5.66299,40.96112,0
+          -5.663,40.96112,0
+          -5.663,40.96111,0
+          -5.663,40.9611,0
+          -5.66301,40.96109,0
+          -5.66301,40.96108,0
+          -5.66301,40.96107,0
+          -5.663,40.96106,0
+          -5.663,40.96105,0
+          -5.66299,40.96104,0
+          -5.66299,40.96103,0
+          -5.66298,40.96103,0
+          -5.66298,40.96102,0
+          -5.66297,40.96102,0
+          -5.66296,40.96101,0
+          -5.66295,40.96101,0
+          -5.66294,40.961,0
+          -5.66293,40.961,0
+          -5.66292,40.961,0
+          -5.66304,40.96094,0
+          -5.6632,40.96086,0
+          -5.66332,40.9608,0
+          -5.66338,40.96075,0
+          -5.66341,40.96071,0
+          -5.66344,40.96068,0
+          -5.66351,40.96057,0
+          -5.66357,40.96038,0
+          -5.66363,40.96006,0
+          -5.66371,40.95964,0
+          -5.66372,40.95959,0
+          -5.66375,40.95948,0
+          -5.66378,40.95931,0
+          -5.66381,40.95917,0
+          -5.66384,40.95904,0
+          -5.66386,40.95895,0
+        </coordinates>
+      </LineString>
+    </Placemark>
   </Document>
 </kml>

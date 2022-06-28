@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document id="Parade_Salamanca_Soledad">
+    <open>1</open>
     <name>HERMANDAD DE NUESTRA SEÑORA DE LA SOLEDAD</name>
     <description><![CDATA[SÁBADO SANTO. Día 20 DE ABRIL<br>HORARIO: 00:00 H. <br><br>SALIDA: S.I.B. Catedral Nueva. <br>RECORRIDO: Salida Puerta del Obispo de la S.I.B. Catedral Nueva, Benedicto XVI, Rúa Mayor, Palominos, San Pablo, plaza del Concilio de Trento, atrio de San Esteban, Rosario, Juan de la Fuente, plaza del Colón, San Pablo, plaza del Poeta Iglesias, Plaza Mayor (Acto a Nuestra Señora), plaza del Corrillo, Rúa Mayor, plaza de Anaya, Benedicto XVI, Atrio de la S.I.B. Catedral, entrada por la puerta del Obispo. <br>PASOS: La Soledad de la Cruz (Vicente Cid y Tomás Monzón, 1997).<br>Nuestra Señora de la Soledad (Mariano Benlliure, 1941).]]></description>
+
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_1">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-1.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_2">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-2.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_3">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-3.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_4">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-4.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_5">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-5.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_6">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-6.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_7">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-7.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_8">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-8.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_9">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-9.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_10">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-10.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_11">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-11.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_12">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-12.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_13">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-13.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_14">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-14.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_15">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-15.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_16">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-16.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_17">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-17.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_18">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-18.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
 
     <Folder>
       <name>Soledad - Markers</name>
@@ -10,7 +156,7 @@
         <name>Catedral Nueva</name>
         <address>Catedral Nueva  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_1</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6668568,40.9609012,0
@@ -21,7 +167,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_2</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -32,7 +178,7 @@
         <name>Rúa Mayor</name>
         <address>Rúa Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_3</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.6656947,40.9624657,0
@@ -43,7 +189,7 @@
         <name>Calle Palominos</name>
         <address>Calle Palominos  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_4</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6657436,40.9620668,0
@@ -54,7 +200,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_5</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6648559,40.9611843,0
@@ -65,7 +211,7 @@
         <name>Plaza del Concilio de Trento</name>
         <address>Plaza del Concilio de Trento  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_6</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6637313,40.9607941,0
@@ -76,7 +222,7 @@
         <name>Atrio de San Esteban</name>
         <address>Atrio de San Esteban  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_7</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.663265,40.960615,0
@@ -87,7 +233,7 @@
         <name>Calle Rosario</name>
         <address>Calle Rosario  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_8</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.662679,40.961019,0
@@ -98,7 +244,7 @@
         <name>Calle Juan de la Fuente</name>
         <address>Calle Juan de la Fuente  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_9</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6633626,40.9615316,0
@@ -109,7 +255,7 @@
         <name>Plaza de Colón</name>
         <address>Plaza de Colón  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_10</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.664040,40.961997,0
@@ -120,7 +266,7 @@
         <name>Calle San Pablo</name>
         <address>Calle San Pablo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_11</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.664131,40.963111,0
@@ -131,7 +277,7 @@
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_12</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6640916,40.9642839,0
@@ -142,7 +288,7 @@
         <name>Plaza Mayor</name>
         <address>Plaza Mayor  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_13</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.664426,40.9645936,0
@@ -153,7 +299,7 @@
         <name>Plaza del Corrillo</name>
         <address>Plaza del Corrillo  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_14</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6647796,40.9644478,0
@@ -163,7 +309,7 @@
       <Placemark>
         <name>Rúa Mayor</name>
         <address>Rúa Mayor</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_15</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.665339,40.9630034,0
@@ -174,7 +320,7 @@
         <name>Plaza de Anaya</name>
         <address>Plaza de Anaya  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_16</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.6668432,40.961655,0
@@ -185,7 +331,7 @@
         <name>Calle Benedicto XVI</name>
         <address>Calle Benedicto XVI  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_17</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.6665576,40.9613035,0
@@ -196,7 +342,7 @@
         <name>Catedral Nueva</name>
         <address>Catedral Nueva  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Soledad_Marker_18</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_18</styleUrl>
         <Point>
           <coordinates>
             -5.6668568,40.9609012,0
@@ -204,151 +350,160 @@
         </Point>
       </Placemark>
     </Folder>
-    <Folder>
+  </Document>
+  <Document>
+    <open>1</open>
+    <name>Soledad - Recorrido</name>
+    <Style id="Style_Parade_Salamanca_Soledad_Line_Normal">
+      <LineStyle>
+        <color>20202000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Placemark>
       <name>Soledad - Recorrido</name>
-      <Placemark>
-        <name>Soledad - Recorrido</name>
-        <styleUrl>../lines.kml#Style_Parade_Salamanca_Soledad_Line_Normal</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -5.66686,40.9609,0
-            -5.66671,40.96108,0
-            -5.66656,40.9613,0
-            -5.66645,40.96146,0
-            -5.66644,40.96147,0
-            -5.66642,40.96152,0
-            -5.66644,40.96176,0
-            -5.66622,40.96176,0
-            -5.66605,40.96199,0
-            -5.66569,40.96247,0
-            -5.66552,40.96232,0
-            -5.66512,40.962,0
-            -5.66475,40.9617,0
-            -5.66456,40.96156,0
-            -5.66445,40.96147,0
-            -5.66438,40.96142,0
-            -5.66436,40.9614,0
-            -5.66432,40.96139,0
-            -5.66425,40.96139,0
-            -5.66423,40.96097,0
-            -5.66423,40.96088,0
-            -5.66402,40.96086,0
-            -5.66373,40.96079,0
-            -5.66348,40.96073,0
-            -5.66342,40.96071,0
-            -5.66341,40.96071,0
-            -5.66336,40.9607,0
-            -5.66325,40.96067,0
-            -5.66322,40.96067,0
-            -5.66319,40.96068,0
-            -5.66316,40.96071,0
-            -5.66314,40.96074,0
-            -5.66311,40.96076,0
-            -5.6631,40.96077,0
-            -5.66306,40.96078,0
-            -5.66296,40.96079,0
-            -5.66285,40.96079,0
-            -5.66271,40.9608,0
-            -5.66262,40.96081,0
-            -5.66258,40.96082,0
-            -5.66255,40.96084,0
-            -5.6625,40.96088,0
-            -5.66246,40.96092,0
-            -5.66274,40.96104,0
-            -5.66279,40.96105,0
-            -5.66279,40.96106,0
-            -5.66278,40.96107,0
-            -5.66278,40.96108,0
-            -5.66278,40.96109,0
-            -5.66279,40.9611,0
-            -5.66279,40.96111,0
-            -5.66279,40.96112,0
-            -5.6628,40.96112,0
-            -5.6628,40.96113,0
-            -5.66281,40.96113,0
-            -5.66281,40.96114,0
-            -5.66282,40.96114,0
-            -5.66283,40.96115,0
-            -5.66284,40.96115,0
-            -5.66284,40.96116,0
-            -5.66285,40.96116,0
-            -5.66286,40.96116,0
-            -5.66287,40.96116,0
-            -5.66288,40.96116,0
-            -5.66289,40.96117,0
-            -5.6629,40.96117,0
-            -5.66291,40.96116,0
-            -5.66292,40.96116,0
-            -5.66293,40.96116,0
-            -5.66294,40.96116,0
-            -5.66295,40.96116,0
-            -5.66295,40.96115,0
-            -5.66296,40.96115,0
-            -5.66297,40.96115,0
-            -5.66305,40.96123,0
-            -5.66336,40.96153,0
-            -5.66346,40.96163,0
-            -5.66369,40.96182,0
-            -5.66382,40.96195,0
-            -5.66402,40.96198,0
-            -5.66406,40.96198,0
-            -5.66426,40.96201,0
-            -5.66426,40.96209,0
-            -5.66424,40.96227,0
-            -5.66421,40.96246,0
-            -5.66421,40.9625,0
-            -5.66418,40.96267,0
-            -5.66415,40.96287,0
-            -5.66409,40.96332,0
-            -5.66405,40.96375,0
-            -5.66404,40.9639,0
-            -5.66402,40.9642,0
-            -5.66411,40.96419,0
-            -5.66409,40.96428,0
-            -5.66403,40.96469,0
-            -5.6639,40.96467,0
-            -5.66384,40.9647,0
-            -5.66381,40.96474,0
-            -5.66374,40.9649,0
-            -5.66357,40.96524,0
-            -5.66395,40.96533,0
-            -5.66435,40.96541,0
-            -5.66438,40.96528,0
-            -5.6645,40.96484,0
-            -5.66452,40.9648,0
-            -5.66457,40.96469,0
-            -5.6646,40.96466,0
-            -5.66465,40.96458,0
-            -5.66472,40.96453,0
-            -5.66474,40.96451,0
-            -5.66476,40.96448,0
-            -5.66478,40.96445,0
-            -5.6648,40.96438,0
-            -5.6648,40.96423,0
-            -5.6648,40.9641,0
-            -5.66463,40.96411,0
-            -5.66466,40.96402,0
-            -5.66468,40.96394,0
-            -5.66471,40.96386,0
-            -5.66494,40.96352,0
-            -5.66504,40.96338,0
-            -5.66525,40.96312,0
-            -5.66534,40.963,0
-            -5.66549,40.9628,0
-            -5.66562,40.96261,0
-            -5.66569,40.96247,0
-            -5.66605,40.96199,0
-            -5.66622,40.96176,0
-            -5.66644,40.96176,0
-            -5.66642,40.96152,0
-            -5.66644,40.96147,0
-            -5.66656,40.9613,0
-            -5.66671,40.96108,0
-            -5.66686,40.9609,0
-          </coordinates>
-        </LineString>
-      </Placemark>
-    </Folder>
+      <styleUrl>#Style_Parade_Salamanca_Soledad_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -5.66686,40.9609,0
+          -5.66671,40.96108,0
+          -5.66656,40.9613,0
+          -5.66645,40.96146,0
+          -5.66644,40.96147,0
+          -5.66642,40.96152,0
+          -5.66644,40.96176,0
+          -5.66622,40.96176,0
+          -5.66605,40.96199,0
+          -5.66569,40.96247,0
+          -5.66552,40.96232,0
+          -5.66512,40.962,0
+          -5.66475,40.9617,0
+          -5.66456,40.96156,0
+          -5.66445,40.96147,0
+          -5.66438,40.96142,0
+          -5.66436,40.9614,0
+          -5.66432,40.96139,0
+          -5.66425,40.96139,0
+          -5.66423,40.96097,0
+          -5.66423,40.96088,0
+          -5.66402,40.96086,0
+          -5.66373,40.96079,0
+          -5.66348,40.96073,0
+          -5.66342,40.96071,0
+          -5.66341,40.96071,0
+          -5.66336,40.9607,0
+          -5.66325,40.96067,0
+          -5.66322,40.96067,0
+          -5.66319,40.96068,0
+          -5.66316,40.96071,0
+          -5.66314,40.96074,0
+          -5.66311,40.96076,0
+          -5.6631,40.96077,0
+          -5.66306,40.96078,0
+          -5.66296,40.96079,0
+          -5.66285,40.96079,0
+          -5.66271,40.9608,0
+          -5.66262,40.96081,0
+          -5.66258,40.96082,0
+          -5.66255,40.96084,0
+          -5.6625,40.96088,0
+          -5.66246,40.96092,0
+          -5.66274,40.96104,0
+          -5.66279,40.96105,0
+          -5.66279,40.96106,0
+          -5.66278,40.96107,0
+          -5.66278,40.96108,0
+          -5.66278,40.96109,0
+          -5.66279,40.9611,0
+          -5.66279,40.96111,0
+          -5.66279,40.96112,0
+          -5.6628,40.96112,0
+          -5.6628,40.96113,0
+          -5.66281,40.96113,0
+          -5.66281,40.96114,0
+          -5.66282,40.96114,0
+          -5.66283,40.96115,0
+          -5.66284,40.96115,0
+          -5.66284,40.96116,0
+          -5.66285,40.96116,0
+          -5.66286,40.96116,0
+          -5.66287,40.96116,0
+          -5.66288,40.96116,0
+          -5.66289,40.96117,0
+          -5.6629,40.96117,0
+          -5.66291,40.96116,0
+          -5.66292,40.96116,0
+          -5.66293,40.96116,0
+          -5.66294,40.96116,0
+          -5.66295,40.96116,0
+          -5.66295,40.96115,0
+          -5.66296,40.96115,0
+          -5.66297,40.96115,0
+          -5.66305,40.96123,0
+          -5.66336,40.96153,0
+          -5.66346,40.96163,0
+          -5.66369,40.96182,0
+          -5.66382,40.96195,0
+          -5.66402,40.96198,0
+          -5.66406,40.96198,0
+          -5.66426,40.96201,0
+          -5.66426,40.96209,0
+          -5.66424,40.96227,0
+          -5.66421,40.96246,0
+          -5.66421,40.9625,0
+          -5.66418,40.96267,0
+          -5.66415,40.96287,0
+          -5.66409,40.96332,0
+          -5.66405,40.96375,0
+          -5.66404,40.9639,0
+          -5.66402,40.9642,0
+          -5.66411,40.96419,0
+          -5.66409,40.96428,0
+          -5.66403,40.96469,0
+          -5.6639,40.96467,0
+          -5.66384,40.9647,0
+          -5.66381,40.96474,0
+          -5.66374,40.9649,0
+          -5.66357,40.96524,0
+          -5.66395,40.96533,0
+          -5.66435,40.96541,0
+          -5.66438,40.96528,0
+          -5.6645,40.96484,0
+          -5.66452,40.9648,0
+          -5.66457,40.96469,0
+          -5.6646,40.96466,0
+          -5.66465,40.96458,0
+          -5.66472,40.96453,0
+          -5.66474,40.96451,0
+          -5.66476,40.96448,0
+          -5.66478,40.96445,0
+          -5.6648,40.96438,0
+          -5.6648,40.96423,0
+          -5.6648,40.9641,0
+          -5.66463,40.96411,0
+          -5.66466,40.96402,0
+          -5.66468,40.96394,0
+          -5.66471,40.96386,0
+          -5.66494,40.96352,0
+          -5.66504,40.96338,0
+          -5.66525,40.96312,0
+          -5.66534,40.963,0
+          -5.66549,40.9628,0
+          -5.66562,40.96261,0
+          -5.66569,40.96247,0
+          -5.66605,40.96199,0
+          -5.66622,40.96176,0
+          -5.66644,40.96176,0
+          -5.66642,40.96152,0
+          -5.66644,40.96147,0
+          -5.66656,40.9613,0
+          -5.66671,40.96108,0
+          -5.66686,40.9609,0
+        </coordinates>
+      </LineString>
+    </Placemark>
   </Document>
 </kml>

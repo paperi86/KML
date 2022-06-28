@@ -1,12 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document id="Parade_Salamanca_JesusResucitado">
+    <open>1</open>
     <name>PROCESIÓN DE JESÚS RESUCITADO</name>
     <description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN DEL ENCUENTRO<br><br>HORARIO: Salida 11:00 H. <br>ITINERARIO: Iglesia de la Vera Cruz, Domínguez Berrueta, Ramón y Cajal, Plaza de las Agustinas, Compañía, Rúa Antigua, Plaza de San Isidro, Libreros, Calderón de la Barca, Atrio de la Catedral.]]></description>
 
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_1">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-1.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_2">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-2.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_3">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-3.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_4">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-4.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_5">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-5.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_6">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-6.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_7">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-7.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_8">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-8.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_9">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-9.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_10">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-10.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_11">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-11.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_12">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-12.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_13">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-13.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_14">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-14.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_15">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-15.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_16">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-16.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_17">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-17.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_18">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-18.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_1</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -15,7 +161,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Domínguez Berrueta</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_2</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6680438,40.965755,0
@@ -24,7 +170,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Ramón y Cajal</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_3</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_3</styleUrl>
          <Point>
           <coordinates>
             -5.668034,40.965431,0
@@ -33,7 +179,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de las Agustinas</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_4</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6668743,40.9649625,0
@@ -42,7 +188,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_5</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.666381,40.963868,0
@@ -51,7 +197,7 @@
       </Placemark>
       <Placemark>
         <name>Rúa Antigua</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_6</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6659574,40.962656,0
@@ -60,7 +206,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de San Isidro</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_7</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6664645,40.9625054,0
@@ -69,7 +215,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Libreros</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_8</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.96116,0
@@ -78,7 +224,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Calderón de la Barca</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_9</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.667218,40.9609892,0
@@ -87,86 +233,97 @@
       </Placemark>
       <Placemark>
         <name>Catedral Nueva</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_JesusResucitado_Marker_10</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.666066,40.9611442,0
           </coordinates>
         </Point>
       </Placemark>
-
-      
-      <Placemark>
-        <name>Jesús Resucitado - Recorrido</name>
-        <styleUrl>../lines.kml#Style_Parade_Salamanca_JesusResucitado_Line_Normal</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            -5.66774,40.96617,0
-            -5.66761,40.96612,0
-            -5.66762,40.96611,0
-            -5.66764,40.9661,0
-            -5.66765,40.96609,0
-            -5.66767,40.96608,0
-            -5.66772,40.96607,0
-            -5.66781,40.96604,0
-            -5.66786,40.966,0
-            -5.66787,40.96598,0
-            -5.66804,40.96576,0
-            -5.66824,40.96553,0
-            -5.6681,40.96546,0
-            -5.66776,40.96529,0
-            -5.66745,40.96511,0
-            -5.66726,40.96509,0
-            -5.66702,40.96507,0
-            -5.66703,40.96498,0
-            -5.66702,40.96498,0
-            -5.66702,40.96497,0
-            -5.66701,40.96497,0
-            -5.66699,40.96497,0
-            -5.66698,40.96497,0
-            -5.66687,40.96496,0
-            -5.66665,40.96495,0
-            -5.66654,40.96495,0
-            -5.66648,40.96475,0
-            -5.66642,40.9644,0
-            -5.6664,40.96404,0
-            -5.66639,40.96398,0
-            -5.66638,40.96387,0
-            -5.66633,40.96364,0
-            -5.6663,40.96353,0
-            -5.66626,40.96338,0
-            -5.6662,40.9632,0
-            -5.66619,40.96316,0
-            -5.66617,40.96309,0
-            -5.66614,40.96302,0
-            -5.66613,40.96299,0
-            -5.666,40.96273,0
-            -5.66596,40.96266,0
-            -5.66618,40.96259,0
-            -5.66646,40.96251,0
-            -5.66668,40.96248,0
-            -5.66667,40.96244,0
-            -5.66668,40.9624,0
-            -5.6667,40.96238,0
-            -5.66685,40.96219,0
-            -5.66697,40.96203,0
-            -5.66707,40.9619,0
-            -5.66721,40.96171,0
-            -5.66732,40.96152,0
-            -5.66738,40.96143,0
-            -5.66748,40.96126,0
-            -5.66755,40.96116,0
-            -5.66747,40.96112,0
-            -5.66731,40.96103,0
-            -5.66722,40.96099,0
-            -5.6669,40.96084,0
-            -5.66671,40.96108,0
-            -5.66656,40.9613,0
-            -5.66627,40.96121,0
-            -5.66607,40.96114,0
-          </coordinates>
-        </LineString>
-      </Placemark>
+    </Folder>
+  </Document>
+  <Document>
+    <open>1</open>
+    <name>Recorrido</name>
+    <Style id="Style_Parade_Salamanca_JesusResucitado_Line_Normal">
+      <LineStyle>
+        <color>70b0f000</color>
+        <width>3</width>
+        <gx:outerColor>ffffff00</gx:outerColor>
+        <gx:outerWidth>0.25</gx:outerWidth>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Jesús Resucitado - Recorrido</name>
+      <styleUrl>#Style_Parade_Salamanca_JesusResucitado_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -5.66774,40.96617,0
+          -5.66761,40.96612,0
+          -5.66762,40.96611,0
+          -5.66764,40.9661,0
+          -5.66765,40.96609,0
+          -5.66767,40.96608,0
+          -5.66772,40.96607,0
+          -5.66781,40.96604,0
+          -5.66786,40.966,0
+          -5.66787,40.96598,0
+          -5.66804,40.96576,0
+          -5.66824,40.96553,0
+          -5.6681,40.96546,0
+          -5.66776,40.96529,0
+          -5.66745,40.96511,0
+          -5.66726,40.96509,0
+          -5.66702,40.96507,0
+          -5.66703,40.96498,0
+          -5.66702,40.96498,0
+          -5.66702,40.96497,0
+          -5.66701,40.96497,0
+          -5.66699,40.96497,0
+          -5.66698,40.96497,0
+          -5.66687,40.96496,0
+          -5.66665,40.96495,0
+          -5.66654,40.96495,0
+          -5.66648,40.96475,0
+          -5.66642,40.9644,0
+          -5.6664,40.96404,0
+          -5.66639,40.96398,0
+          -5.66638,40.96387,0
+          -5.66633,40.96364,0
+          -5.6663,40.96353,0
+          -5.66626,40.96338,0
+          -5.6662,40.9632,0
+          -5.66619,40.96316,0
+          -5.66617,40.96309,0
+          -5.66614,40.96302,0
+          -5.66613,40.96299,0
+          -5.666,40.96273,0
+          -5.66596,40.96266,0
+          -5.66618,40.96259,0
+          -5.66646,40.96251,0
+          -5.66668,40.96248,0
+          -5.66667,40.96244,0
+          -5.66668,40.9624,0
+          -5.6667,40.96238,0
+          -5.66685,40.96219,0
+          -5.66697,40.96203,0
+          -5.66707,40.9619,0
+          -5.66721,40.96171,0
+          -5.66732,40.96152,0
+          -5.66738,40.96143,0
+          -5.66748,40.96126,0
+          -5.66755,40.96116,0
+          -5.66747,40.96112,0
+          -5.66731,40.96103,0
+          -5.66722,40.96099,0
+          -5.6669,40.96084,0
+          -5.66671,40.96108,0
+          -5.66656,40.9613,0
+          -5.66627,40.96121,0
+          -5.66607,40.96114,0
+        </coordinates>
+      </LineString>
+    </Placemark>
   </Document>
 </kml>

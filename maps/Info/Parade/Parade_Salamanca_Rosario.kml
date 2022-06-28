@@ -1,14 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document id="Parade_Salamanca_Rosario">
+    <open>1</open>
     <name>Procesión de la Archicofradía del Rosario</name>
 
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_1">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-1.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_2">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-2.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_3">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-3.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_4">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-4.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_5">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-5.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_6">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-6.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_7">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-7.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_8">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-8.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_9">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-9.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_10">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-10.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_11">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-11.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_12">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-12.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_13">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-13.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_14">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-14.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_15">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-15.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_16">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-16.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_17">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-17.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Rosario_Marker_18">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-18.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    
     <Folder>
       <name>Rosario - Markers</name>
       <Placemark>
         <name>Catedral Nueva</name>
         <address>Catedral Nueva Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_1</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6668274,40.9609383,0
@@ -18,7 +164,7 @@
       <Placemark>
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_2</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.667218,40.9609892,0
@@ -28,7 +174,7 @@
       <Placemark>
         <name>Calle Libreros</name>
         <address>Calle Libreros Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_3</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_3</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -38,7 +184,7 @@
       <Placemark>
         <name>Calle Serranos</name>
         <address>Calle Serranos Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_4</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.6676641,40.9623322,0
@@ -48,7 +194,7 @@
       <Placemark>
         <name>Calle Cervantes</name>
         <address>Calle Cervantes Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_5</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.6676177,40.9634728,0
@@ -58,7 +204,7 @@
       <Placemark>
         <name>Calle Ancha</name>
         <address>Calle Ancha Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_6</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6680055,40.9645413,0
@@ -68,7 +214,7 @@
       <Placemark>
         <name>Calle Ramón y Cajal</name>
         <address>Calle Ramón y Cajal Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_7</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.667922,40.965367,0
@@ -78,7 +224,7 @@
       <Placemark>
         <name>Calle Domínguez Berrueta</name>
         <address>Calle Domínguez Berrueta Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_8</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6680438,40.965755,0
@@ -88,7 +234,7 @@
       <Placemark>
         <name>Calle Úrsulas</name>
         <address>Calle Úrsulas Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_9</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.6672599,40.96588,0
@@ -98,12 +244,12 @@
       <Placemark>
         <name>Calle Bordadores</name>
         <address>Calle Bordadores Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_10</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_10</styleUrl>
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
         <address>Calle Compañía Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_11</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6663808,40.9638679,0
@@ -113,7 +259,7 @@
       <Placemark>
         <name>Plaza San Isidro</name>
         <address>Plaza San Isidro Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_12</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.6664645,40.9625054,0
@@ -123,7 +269,7 @@
       <Placemark>
         <name>Calle Libreros</name>
         <address>Calle Libreros Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_13</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_13</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
@@ -133,7 +279,7 @@
       <Placemark>
         <name>Calle Calderón de la Barca</name>
         <address>Calle Calderón de la Barca Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_14</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.667399,40.9609178,0
@@ -143,7 +289,7 @@
       <Placemark>
         <name>Catedral Nueva</name>
         <address>Catedral Nueva Salamanca</address>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_Rosario_Marker_15</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6668274,40.9609383,0
@@ -151,11 +297,21 @@
         </Point>
       </Placemark>
     </Folder>
-    <Folder>
+  </Document>
+    <Document>
+      <open>1</open>
       <name>Rosario - Recorrido</name>
+      <Style id="Style_Parade_Salamanca_Rosario_Line_Normal">
+        <LineStyle>
+          <color>ffffff00</color>
+          <width>3</width>
+          <gx:outerColor>60606000</gx:outerColor>
+          <gx:outerWidth>0.25</gx:outerWidth>
+        </LineStyle>
+      </Style>
       <Placemark>
         <name>Rosario - Recorrido</name>
-        <styleUrl>../lines.kml#Style_Parade_Salamanca_Rosario_Line_Normal</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_Rosario_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -264,6 +420,5 @@
         </LineString>
       </Placemark>
       
-    </Folder>
-  </Document>
+    </Document>
 </kml>

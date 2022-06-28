@@ -1,12 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document id="Parade_Salamanca_VirgenAlegria">
+  <Document id="Parade_Salamanca_VirgenAlegria"  xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <open>1</open>
     <name>PROCESIÓN VIRGEN DE LA ALEGRÍA</name>
     <description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN DEL ENCUENTRO<br><br>DOMINGO DE RESURRECCIÓN. 21 DE ABRIL<br>HORARIO: Salida 10:45 H. <br>RECORRIDO: Iglesia de la Vera Cruz, Úrsulas, Bordadores, plaza de Monterrey, Prior, Prado, Juan del Rey, Quintana, San Pablo, Tostado, Anaya, Atrio de la Catedral.]]></description>
 
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_1">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-1.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_2">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-2.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_3">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-3.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_4">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-4.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_5">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-5.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_6">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-6.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_7">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-7.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_8">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-8.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_9">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-9.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_10">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-10.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_11">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-11.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_12">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-12.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_13">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-13.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_14">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-14.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_15">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-15.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_16">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-16.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_17">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-17.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_18">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-18.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <Folder>
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_1</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_1</styleUrl>
         <Point>
           <coordinates>
             -5.6677418,40.9661729,0
@@ -15,7 +162,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Úrsulas</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_2</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_2</styleUrl>
         <Point>
           <coordinates>
             -5.6672599,40.96588,0
@@ -24,7 +171,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Bordadores</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_3</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_3</styleUrl>
         <Point>
         <coordinates>
           -5.666577,40.965552,0
@@ -33,7 +180,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de Monterrey</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_4</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_4</styleUrl>
         <Point>
           <coordinates>
             -5.666554,40.965156,0
@@ -42,7 +189,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Prior</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_5</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_5</styleUrl>
         <Point>
           <coordinates>
             -5.665441,40.964975,0
@@ -51,7 +198,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Prado</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_6</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_6</styleUrl>
         <Point>
           <coordinates>
             -5.6657593,40.9643957,0
@@ -60,7 +207,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Juan del Rey</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_7</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_7</styleUrl>
         <Point>
           <coordinates>
             -5.6655647,40.9642421,0
@@ -69,7 +216,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Quintana</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_8</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_8</styleUrl>
         <Point>
           <coordinates>
             -5.6645175,40.9641302,0
@@ -78,7 +225,7 @@
       </Placemark>
       <Placemark>
         <name>Calle San Pablo</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_9</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_9</styleUrl>
         <Point>
           <coordinates>
             -5.664253,40.961386,0
@@ -87,7 +234,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Tostado</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_10</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.6648506,40.9609589,0
@@ -96,7 +243,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza Anaya</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_11</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_11</styleUrl>
         <Point>
           <coordinates>
             -5.6657845,40.9614516,0
@@ -105,17 +252,29 @@
       </Placemark>
       <Placemark>
         <name>Catedral Nueva</name>
-        <styleUrl>../markers.kml#Style_Parade_Salamanca_VirgenAlegria_Marker_12</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Marker_12</styleUrl>
         <Point>
           <coordinates>
             -5.666904,40.960842,0
           </coordinates>
         </Point>
       </Placemark>
-
+    </Folder>
+  </Document>
+    <Document>
+      <name>Recorrido</name>
+      <open>1</open>
+      <Style id="Style_Parade_Salamanca_VirgenAlegria_Line_Normal">
+        <LineStyle>
+          <color>80c0f000</color>
+          <width>3</width>
+          <gx:outerColor>ffffff00</gx:outerColor>
+          <gx:outerWidth>0.25</gx:outerWidth>
+        </LineStyle>
+      </Style>
       <Placemark>
         <name>Virgen de la Alegría - Recorrido</name>
-        <styleUrl>../lines.kml#Style_Parade_Salamanca_VirgenAlegria_Line_Normal</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_VirgenAlegria_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
