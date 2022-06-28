@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Folder id="Fold_Markers_CristoDoctrinos">
+  <Document>
+    <open>1</open>
     <name>CristoDoctrinos</name>
     <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -13,6 +15,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -20,6 +23,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -27,6 +31,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -34,6 +39,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -41,6 +47,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -48,6 +55,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -55,6 +63,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -62,6 +71,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -69,6 +79,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -76,6 +87,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -83,6 +95,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -90,6 +103,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -97,6 +111,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -104,6 +119,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -111,6 +127,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -118,6 +135,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -125,16 +143,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoDoctrinos/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_CristoAgonia">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>CristoAgonia</name>
     <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -142,6 +163,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -149,6 +171,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -156,6 +179,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -163,6 +187,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -170,6 +195,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -177,6 +203,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -184,6 +211,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -191,6 +219,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -198,6 +227,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -205,6 +235,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -212,6 +243,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -219,6 +251,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -226,6 +259,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -233,6 +267,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -240,6 +275,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -247,6 +283,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -254,16 +291,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_CristoAmorYPaz">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>CristoAmorYPaz</name>
     <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -271,6 +311,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -278,6 +319,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -285,6 +327,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -292,6 +335,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -299,6 +343,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -306,6 +351,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -313,6 +359,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -320,6 +367,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -327,6 +375,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -334,6 +383,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -341,6 +391,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -348,6 +399,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -355,6 +407,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -362,6 +415,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -369,6 +423,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -376,6 +431,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -383,16 +439,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_CristoHumildad">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>CristoHumildad</name>
     <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -400,6 +459,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -407,6 +467,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -414,6 +475,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -421,6 +483,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -428,6 +491,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -435,6 +499,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -442,6 +507,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -449,6 +515,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -456,6 +523,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -463,6 +531,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -470,6 +539,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -477,6 +547,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -484,6 +555,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -491,6 +563,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -498,6 +571,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -505,6 +579,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -512,16 +587,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_CristoLiberacion">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>CristoLiberacion</name>
     <Style id="Style_Parade_Salamanca_CristoLiberacion_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -529,6 +607,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -536,6 +615,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -543,6 +623,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -550,6 +631,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -557,6 +639,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -564,6 +647,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -571,6 +655,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -578,6 +663,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -585,6 +671,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -592,6 +679,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -599,6 +687,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -606,6 +695,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -613,6 +703,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -620,6 +711,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -627,6 +719,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -634,6 +727,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -641,16 +735,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLiberacion/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_CristoLuzSraSabiduria">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>CristoLuzSraSabiduria</name>
     <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -658,6 +755,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -665,6 +763,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -672,6 +771,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -679,6 +779,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -686,6 +787,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -693,6 +795,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -700,6 +803,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -707,6 +811,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -714,6 +819,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -721,6 +827,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -728,6 +835,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -735,6 +843,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -742,6 +851,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -749,6 +859,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -756,6 +867,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -763,6 +875,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -770,16 +883,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_CristoVela">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>CristoVela</name>
     <Style id="Style_Parade_Salamanca_CristoVela_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -787,6 +903,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -794,6 +911,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -801,6 +919,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -808,6 +927,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -815,6 +935,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -822,6 +943,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -829,6 +951,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -836,6 +959,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -843,6 +967,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -850,6 +975,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -857,6 +983,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -864,6 +991,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -871,6 +999,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -878,6 +1007,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -885,6 +1015,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -892,6 +1023,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -899,16 +1031,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoVela/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_CristoYacente">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>CristoYacente</name>
     <Style id="Style_Parade_Salamanca_CristoYacente_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -916,6 +1051,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -923,6 +1059,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -930,6 +1067,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -937,6 +1075,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -944,6 +1083,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -951,6 +1091,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -958,6 +1099,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -965,6 +1107,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -972,6 +1115,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -979,6 +1123,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -986,6 +1131,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -993,6 +1139,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1000,6 +1147,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1007,6 +1155,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1014,6 +1163,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1021,6 +1171,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1028,16 +1179,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_Dominicana">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>Dominicana</name>
     <Style id="Style_Parade_Salamanca_Dominicana_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1045,6 +1199,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1052,6 +1207,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1059,6 +1215,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1066,6 +1223,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1073,6 +1231,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1080,6 +1239,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1087,6 +1247,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1094,6 +1255,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1101,6 +1263,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1108,6 +1271,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1115,6 +1279,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1122,6 +1287,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1129,6 +1295,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1136,6 +1303,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1143,6 +1311,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1150,6 +1319,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1157,16 +1327,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_Encuentro">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>Encuentro</name>
     <Style id="Style_Parade_Salamanca_Encuentro_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1174,6 +1347,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1181,6 +1355,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1188,6 +1363,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1195,6 +1371,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1202,6 +1379,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1209,6 +1387,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1216,6 +1395,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1223,6 +1403,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1230,6 +1411,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1237,6 +1419,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1244,6 +1427,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1251,6 +1435,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1258,6 +1443,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1265,6 +1451,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1272,6 +1459,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1279,6 +1467,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1286,16 +1475,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_Flagelado">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>Flagelado</name>
     <Style id="Style_Parade_Salamanca_Flagelado_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1303,6 +1495,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1310,6 +1503,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1317,6 +1511,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1324,6 +1519,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1331,6 +1527,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1338,6 +1535,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1345,6 +1543,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1352,6 +1551,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1359,6 +1559,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1366,6 +1567,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1373,6 +1575,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1380,6 +1583,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1387,6 +1591,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1394,6 +1599,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1401,6 +1607,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1408,6 +1615,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1415,16 +1623,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Flagelado/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_JesusAmigoNinos">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>JesusAmigoNinos</name>
     <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1432,6 +1643,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1439,6 +1651,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1446,6 +1659,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1453,6 +1667,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1460,6 +1675,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1467,6 +1683,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1474,6 +1691,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1481,6 +1699,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1488,6 +1707,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1495,6 +1715,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1502,6 +1723,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1509,6 +1731,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1516,6 +1739,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1523,6 +1747,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1530,6 +1755,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1537,6 +1763,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1544,16 +1771,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_JesusDespojadoVestiduras">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>JesusDespojadoVestiduras</name>
     <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1561,6 +1791,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1568,6 +1799,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1575,6 +1807,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1582,6 +1815,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1589,6 +1823,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1596,6 +1831,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1603,6 +1839,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1610,6 +1847,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1617,6 +1855,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1624,6 +1863,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1631,6 +1871,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1638,6 +1879,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1645,6 +1887,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1652,6 +1895,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1659,6 +1903,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1666,6 +1911,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1673,16 +1919,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_JesusNazareno">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>JesusNazareno</name>
     <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1690,6 +1939,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1697,6 +1947,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1704,6 +1955,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1711,6 +1963,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1718,6 +1971,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1725,6 +1979,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1732,6 +1987,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1739,6 +1995,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1746,6 +2003,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1753,6 +2011,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1760,6 +2019,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1767,6 +2027,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1774,6 +2035,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1781,6 +2043,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1788,6 +2051,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1795,6 +2059,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1802,16 +2067,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_JesusRescatado">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>JesusRescatado</name>
     <Style id="Style_Parade_Salamanca_JesusRescatado_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1819,6 +2087,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1826,6 +2095,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1833,6 +2103,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1840,6 +2111,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1847,6 +2119,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1854,6 +2127,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1861,6 +2135,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1868,6 +2143,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1875,6 +2151,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1882,6 +2159,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1889,6 +2167,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1896,6 +2175,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1903,6 +2183,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1910,6 +2191,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1917,6 +2199,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1924,6 +2207,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1931,16 +2215,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusRescatado/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_JesusResucitado">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>JesusResucitado</name>
     <Style id="Style_Parade_Salamanca_JesusResucitado_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1948,6 +2235,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1955,6 +2243,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1962,6 +2251,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1969,6 +2259,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1976,6 +2267,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1983,6 +2275,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1990,6 +2283,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -1997,6 +2291,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2004,6 +2299,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2011,6 +2307,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2018,6 +2315,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2025,6 +2323,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2032,6 +2331,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2039,6 +2339,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2046,6 +2347,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2053,6 +2355,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2060,16 +2363,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusResucitado/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_OracionEnHuerto">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>OracionEnHuerto</name>
     <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2077,6 +2383,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2084,6 +2391,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2091,6 +2399,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2098,6 +2407,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2105,6 +2415,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2112,6 +2423,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2119,6 +2431,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2126,6 +2439,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2133,6 +2447,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2140,6 +2455,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2147,6 +2463,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2154,6 +2471,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2161,6 +2479,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2168,6 +2487,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2175,6 +2495,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2182,6 +2503,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2189,16 +2511,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_Perdon">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>Perdon</name>
     <Style id="Style_Parade_Salamanca_Perdon_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2206,6 +2531,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2213,6 +2539,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2220,6 +2547,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2227,6 +2555,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2234,6 +2563,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2241,6 +2571,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2248,6 +2579,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2255,6 +2587,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2262,6 +2595,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2269,6 +2603,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2276,6 +2611,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2283,6 +2619,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2290,6 +2627,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2297,6 +2635,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2304,6 +2643,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2311,6 +2651,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2318,16 +2659,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Perdon/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_Rosario">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>Rosario</name>
     <Style id="Style_Parade_Salamanca_Rosario_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2335,6 +2679,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2342,6 +2687,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2349,6 +2695,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2356,6 +2703,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2363,6 +2711,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2370,6 +2719,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2377,6 +2727,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2384,6 +2735,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2391,6 +2743,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2398,6 +2751,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2405,6 +2759,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2412,6 +2767,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2419,6 +2775,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2426,6 +2783,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2433,6 +2791,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2440,6 +2799,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2447,16 +2807,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Rosario/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_SantoEntierro">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>SantoEntierro</name>
     <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2464,6 +2827,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2471,6 +2835,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2478,6 +2843,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2485,6 +2851,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2492,6 +2859,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2499,6 +2867,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2506,6 +2875,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2513,6 +2883,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2520,6 +2891,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2527,6 +2899,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2534,6 +2907,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2541,6 +2915,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2548,6 +2923,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2555,6 +2931,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2562,6 +2939,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2569,6 +2947,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2576,16 +2955,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_Soledad">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>Soledad</name>
     <Style id="Style_Parade_Salamanca_Soledad_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2593,6 +2975,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2600,6 +2983,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2607,6 +2991,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2614,6 +2999,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2621,6 +3007,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2628,6 +3015,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2635,6 +3023,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2642,6 +3031,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2649,6 +3039,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2656,6 +3047,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2663,6 +3055,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2670,6 +3063,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2677,6 +3071,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2684,6 +3079,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2691,6 +3087,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2698,6 +3095,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2705,16 +3103,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_TrasladoLiberacion">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>TrasladoLiberacion</name>
     <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2722,6 +3123,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2729,6 +3131,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2736,6 +3139,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2743,6 +3147,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2750,6 +3155,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2757,6 +3163,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2764,6 +3171,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2771,6 +3179,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2778,6 +3187,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2785,6 +3195,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2792,6 +3203,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2799,6 +3211,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2806,6 +3219,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2813,6 +3227,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2820,6 +3235,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2827,6 +3243,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2834,16 +3251,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_ViaCrucis">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>ViaCrucis</name>
     <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2851,6 +3271,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2858,6 +3279,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2865,6 +3287,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2872,6 +3295,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2879,6 +3303,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2886,6 +3311,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2893,6 +3319,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2900,6 +3327,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2907,6 +3335,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2914,6 +3343,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2921,6 +3351,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2928,6 +3359,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2935,6 +3367,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2942,6 +3375,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2949,6 +3383,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2956,6 +3391,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2963,16 +3399,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_ViaMatris">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>ViaMatris</name>
     <Style id="Style_Parade_Salamanca_ViaMatris_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2980,6 +3419,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2987,6 +3427,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -2994,6 +3435,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3001,6 +3443,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3008,6 +3451,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3015,6 +3459,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3022,6 +3467,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3029,6 +3475,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3036,6 +3483,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3043,6 +3491,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3050,6 +3499,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3057,6 +3507,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3064,6 +3515,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3071,6 +3523,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3078,6 +3531,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3085,6 +3539,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3092,16 +3547,19 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
-  <Folder id="Fold_Markers_VirgenAlegria">
+  </Document>
+  <Document>
+    <open>1</open>
     <name>VirgenAlegria</name>
     <Style id="Style_Parade_Salamanca_VirgenAlegria_Marker_1">
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-1.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3109,6 +3567,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-2.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3116,6 +3575,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-3.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3123,6 +3583,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-4.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3130,6 +3591,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-5.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3137,6 +3599,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-6.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3144,6 +3607,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-7.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3151,6 +3615,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-8.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3158,6 +3623,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-9.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3165,6 +3631,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-10.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3172,6 +3639,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-11.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3179,6 +3647,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-12.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3186,6 +3655,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-13.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3193,6 +3663,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-14.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3200,6 +3671,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-15.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3207,6 +3679,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-16.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3214,6 +3687,7 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-17.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
@@ -3221,8 +3695,9 @@
       <IconStyle>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_VirgenAlegria/marker-18.png</href>
+          <scale>1</scale>
         </Icon>
       </IconStyle>
     </Style>
-  </Folder>
+  </Document>
 </kml>

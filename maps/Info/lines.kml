@@ -1,6 +1,7 @@
  <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Folder id="Fold_Parade_Map_Lines">
+  <Document>
+    <open>1</open>
     <name>Parade Map Lines</name>
     <Style id="Style_Parade_Salamanca_ViaMatris_Line_Normal">
       <LineStyle>
@@ -15,7 +16,7 @@
         <color>80a0e000</color>
         <width>3</width>
         <gx:outerColor>ffffff00</gx:outerColor>
-        <gx:outerWidth>0.25</gx:outerWidth>
+        <gx:outerWidth>0.5</gx:outerWidth>
       </LineStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_SantoEntierro_Line_Normal">
@@ -203,5 +204,5 @@
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
-  </Folder>
+  </Document>
 </kml>
