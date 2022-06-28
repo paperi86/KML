@@ -6,10 +6,13 @@
 
     <Style id="Style_Parade_Salamanca_CristoDoctrinos_Line_Normal">
       <LineStyle>
-        <color>80a0e0ff</color>
-        <width>3</width>
-        <gx:outerColor>ffffff00</gx:outerColor>
-        <gx:outerWidth>0.25</gx:outerWidth>
+        <color>000000ff</color>
+        <colorMode>Normal</colorMode>
+        <width>10</width>
+        <gx:outerColor>ffffffff</gx:outerColor>
+        <gx:outerWidth>1</gx:outerWidth>
+        <gx:physicalWidth>10</gx:physicalWidth>
+        <gx:labelVisibility>1</gx:labelVisibility>
       </LineStyle>
     </Style>
     <Style id="Style_Parade_Salamanca_CristoDoctrinos_Marker_1">
@@ -292,7 +295,7 @@
         <styleUrl>#Style_Parade_Salamanca_CristoDoctrinos_Marker_14</styleUrl>
         <Point>
           <coordinates>
-            -5.6698064,40.9634728,0
+            -5.667613,40.963501,0
           </coordinates>
         </Point>
       </Placemark>
@@ -445,24 +448,28 @@
             -5.66711,40.96391,0
             -5.66708,40.96392,0
             -5.66704,40.96394,0
-            -5.667,40.96395,0
-            -5.66696,40.96396,0
-            -5.66691,40.96397,0
-            -5.66671,40.964,0
-            -5.6664,40.96404,0
-            -5.66642,40.9644,0
-            -5.66648,40.96475,0
-            -5.66654,40.96495,0
-            -5.66656,40.96505,0
-            -5.66655,40.96516,0
-            -5.66658,40.96541,0
-            -5.66662,40.96569,0
-            -5.66686,40.96574,0
-            -5.66704,40.9658,0
-            -5.66709,40.96582,0
-            -5.66726,40.96588,0
-            -5.66727,40.96589,0
           </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <LineString>
+          -5.667,40.96395,0
+          -5.66696,40.96396,0
+          -5.66691,40.96397,0
+          -5.66671,40.964,0
+          -5.6664,40.96404,0
+          -5.66642,40.9644,0
+          -5.66648,40.96475,0
+          -5.66654,40.96495,0
+          -5.66656,40.96505,0
+          -5.66655,40.96516,0
+          -5.66658,40.96541,0
+          -5.66662,40.96569,0
+          -5.66686,40.96574,0
+          -5.66704,40.9658,0
+          -5.66709,40.96582,0
+          -5.66726,40.96588,0
+          -5.66727,40.96589,0
         </LineString>
       </Placemark>
     </Folder>
