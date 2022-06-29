@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document>
+  <Document id="Parade_Salamanca_CristoHumildad">
     <open>1</open>
     <name>HERMANDAD FRANCISCANA DEL SANTÍSIMO CRISTO DE LA HUMILDAD</name>
     <description><![CDATA[SÁBADO DE PASIÓN<br>HORARIO: 22:00 H. <br>SALIDA: Iglesia de San Martín. <br>RECORRIDO: Quintana, Juan del Rey, Prado, plaza de San Benito, Cañizal, Carniceros, Rabanal, Cervantes, Traviesa, Libreros, Tavira, Horno, Tentenecio, Gibraltar, Patio Chico (acto central, con oración y música coral), Arcediano, plaza de los Leones, Doyagüe, plaza de Carvajal, San Vicente Ferrer, Silencio, Tostado, plaza de Anaya, Francisco Vitoria, Rúa Antigua, Compañía, Meléndez, Corrillo y Quintana. <br>PASO: Santísimo Cristo de la Humildad (Fernando Mayoral, 2017)]]></description>
@@ -531,9 +531,9 @@
       </Placemark>
       <Placemark>
         <name>Libreros</name>
-        <address>Libreros Salamanca</address>
+        <address>Libreros  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_9</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_10</styleUrl>
         <Point>
           <coordinates>
             -5.667551,40.9611596,0
