@@ -193,6 +193,7 @@
 
       <Placemark>
         <name>Santo Entierro - Recorrido</name>
+        <description>Santo Entierro - Recorrido, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Line_Normal</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -340,8 +341,10 @@
       </Placemark>
     
     <Folder>
+      <name>Placemarks</name>
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
+        <description>Iglesia de la Vera Cruz, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_1</styleUrl>
         <Point>
           <coordinates>
@@ -351,6 +354,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Domínguez Berrueta</name>
+        <description>Calle Domínguez Berrueta, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_2</styleUrl>
         <Point>
           <coordinates>
@@ -360,6 +364,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Ramón y Cajal</name>
+        <description>Calle Ramón y Cajal, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_3</styleUrl>
         <Point>
           <coordinates>
@@ -369,6 +374,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de las Agustinas</name>
+        <description>Plaza de las Agustinas, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_4</styleUrl>
         <Point>
           <coordinates>
@@ -378,6 +384,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Compañía</name>
+        <description>Calle Compañía, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_5</styleUrl>
         <Point>
           <coordinates>
@@ -387,6 +394,7 @@
       </Placemark>
       <Placemark>
         <name>Rúa Antigua</name>
+        <description>Rúa Antigua, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_6</styleUrl>
         <Point>
           <coordinates>
@@ -396,6 +404,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de San Isidro</name>
+        <description>Plaza de San Isidro, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_7</styleUrl>
         <Point>
           <coordinates>
@@ -405,6 +414,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Libreros</name>
+        <description>Calle Libreros, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_8</styleUrl>
         <Point>
           <coordinates>
@@ -414,6 +424,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Calderón de la Barca</name>
+        <description>Calle Calderón de la Barca, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_9</styleUrl>
         <Point>
           <coordinates>
@@ -423,6 +434,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Benedicto XVI</name>
+        <description>Calle Benedicto XVI, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_10</styleUrl>
         <Point>
           <coordinates>
@@ -432,6 +444,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de Anaya</name>
+        <description>Plaza de Anaya, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_11</styleUrl>
         <Point>
           <coordinates>
@@ -441,6 +454,7 @@
       </Placemark>
       <Placemark>
         <name>Rúa Mayor</name>
+        <description>Rúa Mayor, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_12</styleUrl>
         <Point>
           <coordinates>
@@ -450,6 +464,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Corrillo</name>
+        <description>Calle Corrillo, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_13</styleUrl>
         <Point>
           <coordinates>
@@ -459,6 +474,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza Mayor</name>
+        <description>Plaza Mayor, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_14</styleUrl>
         <Point>
           <coordinates>
@@ -468,6 +484,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Zamora</name>
+        <description>Calle Zamora, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_15</styleUrl>
         <Point>
           <coordinates>
@@ -477,6 +494,7 @@
       </Placemark>
       <Placemark>
         <name>Plaza de Los Bandos</name>
+        <description>Plaza de Los Bandos, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_16</styleUrl>
         <Point>
           <coordinates>
@@ -486,6 +504,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Espoz y Mina</name>
+        <description>Calle Espoz y Mina, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_17</styleUrl>
         <Point>
           <coordinates>
@@ -495,6 +514,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Prior</name>
+        <description>Calle Prior, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_18</styleUrl>
         <Point>
           <coordinates>
@@ -504,6 +524,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Bordadores</name>
+        <description>Calle Bordadores, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_19</styleUrl>
         <Point>
           <coordinates>
@@ -513,6 +534,7 @@
       </Placemark>
       <Placemark>
         <name>Calle Úrsulas</name>
+        <description>Calle Úrsulas, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_20</styleUrl>
         <Point>
           <coordinates>
@@ -522,6 +544,7 @@
       </Placemark>
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
+        <description>Iglesia de la Vera Cruz, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_21</styleUrl>
         <Point>
           <coordinates>
@@ -532,6 +555,7 @@
 
       <Placemark>
         <name>Iglesia de la Vera Cruz</name>
+        <description>Iglesia de la Vera Cruz, Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_22</styleUrl>
         <Point>
           <coordinates>

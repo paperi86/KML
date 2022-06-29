@@ -430,21 +430,10 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Plaza Mayor</name>
-        <address>Plaza Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6649738,40.9645959,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Plaza del Poeta Iglesias</name>
         <address>Plaza del Poeta Iglesias  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_15</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_14</styleUrl>
         <Point>
           <coordinates>
             -5.6637381,40.9642867,0
@@ -455,7 +444,7 @@
         <name>Plaza del Mercado</name>
         <address>Plaza del Mercado  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_16</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_15</styleUrl>
         <Point>
           <coordinates>
             -5.6636059,40.9647744,0
@@ -466,7 +455,7 @@
         <name>Calle Obispo Jarrín</name>
         <address>Calle Obispo Jarrín  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_17</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_16</styleUrl>
         <Point>
           <coordinates>
             -5.6621139,40.9647573,0
@@ -477,7 +466,7 @@
         <name>Iglesia de San Julián</name>
         <address>Iglesia de San Julián  Salamanca</address>
         <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_18</styleUrl>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_17</styleUrl>
         <Point>
           <coordinates>
             -5.6621239,40.9647592,0
