@@ -237,6 +237,7 @@
         </Icon>
       </IconStyle>
     </Style>
+
     <Style id="Style_Parade_Salamanca_CristoHumildad_Line_Normal">
       <LineStyle>
         <color>ff202020</color>
@@ -245,6 +246,7 @@
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
+
     <Placemark>
       <name>Cristo de la Humildad - Recorrido</name>
       <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Line_Normal</styleUrl>
@@ -427,11 +429,8 @@
     </Placemark>
     
     <Folder>
-      <open>1</open>
       <name>Cristo de la Humildad</name>
       <Placemark>
-        <visibility>1</visibility>
-        <open>1</open>
         <name>Quintana</name>
         <address>Quintana  Salamanca</address>
         <description>Salamanca</description>
