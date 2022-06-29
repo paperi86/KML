@@ -1,0 +1,1 @@
+(<Style id="[^"]*">\n[\s]*)(<IconStyle>\n[\s]*)(<scale>1</scale>\n[\s]*)(<Icon>\n[\s]*)(<href>[^<]*</href>\n[\s]*)(</Icon>\n[\s]*)(</IconStyle>)\n[\s]*</Style>

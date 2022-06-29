@@ -1,0 +1,1 @@
+<Placemark>\n[\s]*(<(name|address|description|styleUrl)>[^<]*</(name|address|description|styleUrl)>\n[\s]*){1,4}<Point>\n[\s]*<coordinates>\n[\s]*[0-9,\.\-]*\n[\s]*</coordinates>\n[\s]*</Point>\n[\s]*</Placemark>
