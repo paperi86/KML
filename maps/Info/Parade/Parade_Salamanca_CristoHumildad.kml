@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document id="Parade_Salamanca_CristoHumildad">
     <open>1</open>
+    <refreshMode>onUpdate</refreshMode>
     <name>HERMANDAD FRANCISCANA DEL SANTÍSIMO CRISTO DE LA HUMILDAD</name>
     <description><![CDATA[SÁBADO DE PASIÓN<br>HORARIO: 22:00 H. <br>SALIDA: Iglesia de San Martín. <br>RECORRIDO: Quintana, Juan del Rey, Prado, plaza de San Benito, Cañizal, Carniceros, Rabanal, Cervantes, Traviesa, Libreros, Tavira, Horno, Tentenecio, Gibraltar, Patio Chico (acto central, con oración y música coral), Arcediano, plaza de los Leones, Doyagüe, plaza de Carvajal, San Vicente Ferrer, Silencio, Tostado, plaza de Anaya, Francisco Vitoria, Rúa Antigua, Compañía, Meléndez, Corrillo y Quintana. <br>PASO: Santísimo Cristo de la Humildad (Fernando Mayoral, 2017)]]></description>
 
