@@ -157,14 +157,16 @@
         </Icon>
       </IconStyle>
     </Style>
+
     <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Line_Normal">
       <LineStyle>
         <color>ffffffff</color>
-        <width>10</width>
+        <width>8</width>
         <gx:outerColor>ffff8f8f</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
       </LineStyle>
     </Style>
+
     <Placemark>
       <name>Cristo del Amor y de la Paz - Recorrido</name>
       <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Line_Normal</styleUrl>
@@ -410,6 +412,7 @@
         </coordinates>
       </LineString>
     </Placemark>
+
     <Folder>
       <name>Cristo del Amor y de la Paz - Markers</name>
       <Placemark>
@@ -622,5 +625,5 @@
         </Point>
       </Placemark>
     </Folder>
-  </Document>  
+  </Document>
 </kml>
