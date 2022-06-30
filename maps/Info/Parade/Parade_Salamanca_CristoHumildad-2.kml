@@ -457,6 +457,16 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Libreros</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667551,40.9611596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Doyagüe</name>
         <description>Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_18</styleUrl>
