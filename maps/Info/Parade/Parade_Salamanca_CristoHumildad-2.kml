@@ -77,6 +77,14 @@
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_18">
       <IconStyle>
         <scale>1</scale>
