@@ -5,6 +5,70 @@
     <open>1</open>
     <description><![CDATA[SÁBADO DE PASIÓN<br>HORARIO: 22:00 H. <br>SALIDA: Iglesia de San Martín. <br>RECORRIDO: Quintana, Juan del Rey, Prado, plaza de San Benito, Cañizal, Carniceros, Rabanal, Cervantes, Traviesa, Libreros, Tavira, Horno, Tentenecio, Gibraltar, Patio Chico (acto central, con oración y música coral), Arcediano, plaza de los Leones, Doyagüe, plaza de Carvajal, San Vicente Ferrer, Silencio, Tostado, plaza de Anaya, Francisco Vitoria, Rúa Antigua, Compañía, Meléndez, Corrillo y Quintana. <br>PASO: Santísimo Cristo de la Humildad (Fernando Mayoral, 2017)]]></description>
 
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_11">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_12">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_13">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_14">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_15">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_16">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_17">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_1">
       <IconStyle>
         <scale>1</scale>
@@ -74,70 +138,6 @@
         <scale>1</scale>
         <Icon>
           <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-17.png</href>
         </Icon>
       </IconStyle>
     </Style>
