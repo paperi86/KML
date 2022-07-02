@@ -6,10 +6,6 @@
             "systemId": "maps/Info/Parade/kml22.xsd"
         },
         {
-            "pattern": "**/Parade_Salamanca_CristoHumildad2.kml",
-            "systemId": "maps/Info/Parade/kml22.xsd"
-        },
-        {
             "pattern": "**/valid.kml",
             "systemId": "maps/Info/Parade/kml22.xsd"
         }
