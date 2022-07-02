@@ -431,6 +431,86 @@
     <Folder>
       <name>Cristo de la Humildad</name>
       <Placemark>
+        <name>Libreros</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667338,40.961489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tavira</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6677363,40.9605733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horno</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
+            -5.667772,40.960343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tentenecio</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6672789,40.9597869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gibraltar</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6667289,40.959714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patio Chico</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
+            -5.665712,40.959970,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Arcediano</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6658703,40.9599248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de los Leones</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
+            -5.6656654,40.9600313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Quintana</name>
         <description>Salamanca</description>
         <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_1</styleUrl>
@@ -517,86 +597,6 @@
         <Point>
           <coordinates>
             -5.6676024,40.9619828,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Libreros</name>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
-            -5.667338,40.961489,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Tavira</name>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6677363,40.9605733,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Horno</name>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
-            -5.667772,40.960343,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Tentenecio</name>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_13</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6672789,40.9597869,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Gibraltar</name>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6667289,40.959714,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Patio Chico</name>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_15</styleUrl>
-        <Point>
-          <coordinates>
-            -5.665712,40.959970,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Arcediano</name>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_16</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6658703,40.9599248,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de los Leones</name>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_17</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6656654,40.9600313,0
           </coordinates>
         </Point>
       </Placemark>
