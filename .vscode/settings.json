@@ -2,11 +2,11 @@
     "liveServer.settings.port": 5501,
     "xml.fileAssociations": [
         {
-            "pattern": "**/Parade_Salamanca_CristoHumildad.xml",
+            "pattern": "**/valid.kml",
             "systemId": "maps/Info/Parade/kml22.xsd"
         },
         {
-            "pattern": "**/valid.kml",
+            "pattern": "**/Parade_Salamanca_*.kml",
             "systemId": "maps/Info/Parade/kml22.xsd"
         }
     ]

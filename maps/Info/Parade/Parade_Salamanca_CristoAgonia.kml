@@ -1,183 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document id="Parade_Salamanca_CristoAgonia">
-    <open>1</open>
-    <name>SERÁFICA HERMANDAD DE NAZARENOS DEL SANTÍSIMO CRISTO DE LA AGONÍA</name>
-    <description><![CDATA[JUEVES SANTO. 18 DE ABRIL<br><br>SERÁFICA HERMANDAD DE NAZARENOS DEL SANTÍSIMO CRISTO DE LA AGONÍA<br><br>HORARIO: 20:00 H. <br>SALIDA: RR.MM. Úrsulas. <br>RECORRIDO: Convento de RR.MM. Úrsulas, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Serranos, Libreros, Calderón de la Barca, Benedicto XVI, Rúa Mayor, Quintana, plaza del Poeta Iglesias, Plaza Mayor, Corrillo, Meléndez, Compañía, plaza de Monterrey, Bordadores, Úrsulas, Convento RR.MM. Úrsulas. <br>PASOS: El Prendimiento (Damián Villar, 1948). <br>Jesús ante Pilatos (Francisco González Macías, 1948). <br>Santísimo Cristo de la Agonía (Damián Villar, 1960). <br>Dolorosa (Soriano Montagut, 1939).]]></description>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_19">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-19.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Marker_20">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-20.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAgonia_Line_Normal">
-      <LineStyle>
-        <color>ff804080</color>
-        <width>10</width>
+<kml:kml 
+  xmlns:kml="http://www.opengis.net/kml/2.2" 
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="
+    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+  <kml:Document id="Parade_Salamanca_CristoAgonia">
+    <kml:open>1</kml:open>
+    <kml:description><![CDATA[JUEVES SANTO. 18 DE ABRIL<br><br>SERÁFICA HERMANDAD DE NAZARENOS DEL SANTÍSIMO CRISTO DE LA AGONÍA<br><br>HORARIO: 20:00 H. <br>SALIDA: RR.MM. Úrsulas. <br>RECORRIDO: Convento de RR.MM. Úrsulas, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Serranos, Libreros, Calderón de la Barca, Benedicto XVI, Rúa Mayor, Quintana, plaza del Poeta Iglesias, Plaza Mayor, Corrillo, Meléndez, Compañía, plaza de Monterrey, Bordadores, Úrsulas, Convento RR.MM. Úrsulas. <br>PASOS: El Prendimiento (Damián Villar, 1948). <br>Jesús ante Pilatos (Francisco González Macías, 1948). <br>Santísimo Cristo de la Agonía (Damián Villar, 1960). <br>Dolorosa (Soriano Montagut, 1939).]]></kml:description>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_6">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-6.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_7">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-7.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_8">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-8.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_9">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-9.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_10">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-10.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_11">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-11.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_12">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-12.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_13">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-13.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_14">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-14.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_15">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-15.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_16">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-16.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_17">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-17.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_18">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-18.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_19">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-19.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_20">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAgonia/marker-20.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Line_Normal">
+      <kml:LineStyle>
+        <kml:color>ff804080</kml:color>
+        <kml:width>10</kml:width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
-    <Placemark>
-      <name>Cristo de la Agonía - Recorrido</name>
-      <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
+      </kml:LineStyle>
+    </kml:Style>
+    <kml:Placemark>
+      <kml:name>Cristo de la Agonía - Recorrido</kml:name>
+      <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Line_Normal</kml:styleUrl>
+      <kml:LineString>
+        <kml:tessellate>1</kml:tessellate>
+        <kml:coordinates>
           -5.66727,40.96588,0
           -5.66726,40.96588,0
           -5.66762,40.96602,0
@@ -299,227 +304,227 @@
           -5.66709,40.96582,0
           -5.66726,40.96588,0
           -5.66727,40.96588,0
-        </coordinates>
-      </LineString>
-    </Placemark>
+        </kml:coordinates>
+      </kml:LineString>
+    </kml:Placemark>
 
-    <Folder>
-      <name>Cristo de la Agonía - Markers</name>
-      <Placemark>
-        <name>Convento de RR.MM. Úrsulas</name>
-        <address>Convento de RR.MM. Úrsulas  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
-            -5.6672679,40.9658832,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Domínguez Berrueta</name>
-        <address>Calle Domínguez Berrueta  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
+    <kml:Folder>
+      <kml:name>Cristo de la Agonía - Markers</kml:name>
+      <kml:Placemark>
+        <kml:name>Convento de RR.MM. Úrsulas</kml:name>
+        <kml:address>Convento de RR.MM. Úrsulas  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
+            -5.6672,40.9660,0
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Domínguez Berrueta</kml:name>
+        <kml:address>Calle Domínguez Berrueta  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_2</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6680438,40.965755,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Ramón y Cajal</name>
-        <address>Calle Ramón y Cajal  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Ramón y Cajal</kml:name>
+        <kml:address>Calle Ramón y Cajal  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.668034,40.965431,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de las Agustinas</name>
-        <address>Plaza de las Agustinas  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_4</styleUrl>
-      </Placemark>
-      <Placemark>
-        <name>Calle Compañía</name>
-        <address>Calle Compañía  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de las Agustinas</kml:name>
+        <kml:address>Plaza de las Agustinas  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_4</kml:styleUrl>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Compañía</kml:name>
+        <kml:address>Calle Compañía  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6663808,40.9638679,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Serranos</name>
-        <address>Calle Serranos  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Serranos</kml:name>
+        <kml:address>Calle Serranos  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_6</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666700,40.962498,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Libreros</name>
-        <address>Calle Libreros  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Libreros</kml:name>
+        <kml:address>Calle Libreros  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_7</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667551,40.9611596,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Calderón de la Barca</name>
-        <address>Calle Calderón de la Barca  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Calderón de la Barca</kml:name>
+        <kml:address>Calle Calderón de la Barca  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_8</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667218,40.9609892,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Benedicto XVI</name>
-        <address>Calle Benedicto XVI  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Benedicto XVI</kml:name>
+        <kml:address>Calle Benedicto XVI  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_9</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6665576,40.9613035,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Mayor</name>
-        <address>Rúa Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Mayor</kml:name>
+        <kml:address>Rúa Mayor  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_10</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665339,40.9630034,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Quintana</name>
-        <address>Calle Quintana  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Quintana</kml:name>
+        <kml:address>Calle Quintana  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_11</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6645175,40.9641302,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Poeta Iglesias</name>
-        <address>Plaza del Poeta Iglesias  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Poeta Iglesias</kml:name>
+        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_12</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.664017,40.964313,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza Mayor</name>
-        <address>Plaza Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_13</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza Mayor</kml:name>
+        <kml:address>Plaza Mayor  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_13</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6640255,40.9650549,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Corrillo</name>
-        <address>Plaza del Corrillo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Corrillo</kml:name>
+        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_14</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6647796,40.9644478,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Meléndez</name>
-        <address>Calle Meléndez  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_15</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Meléndez</kml:name>
+        <kml:address>Calle Meléndez  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_15</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6656443,40.9636939,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Compañía</name>
-        <address>Calle Compañía  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_16</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Compañía</kml:name>
+        <kml:address>Calle Compañía  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_16</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666381,40.963868,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de Monterrey</name>
-        <address>Plaza de Monterrey  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_17</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de Monterrey</kml:name>
+        <kml:address>Plaza de Monterrey  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_17</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666554,40.965156,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Bordadores</name>
-        <address>Calle Bordadores  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_18</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Bordadores</kml:name>
+        <kml:address>Calle Bordadores  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_18</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666577,40.965552,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Úrsulas</name>
-        <address>Calle Úrsulas  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_19</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Úrsulas</kml:name>
+        <kml:address>Calle Úrsulas  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_19</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6672599,40.96588,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Convento RR.MM. Úrsulas</name>
-        <address>Convento RR.MM. Úrsulas  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_20</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Convento RR.MM. Úrsulas</kml:name>
+        <kml:address>Convento RR.MM. Úrsulas  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAgonia_Marker_20</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6672679,40.9658832,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>
-</kml>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>
+</kml:kml>
