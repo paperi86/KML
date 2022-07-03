@@ -1,178 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document id="Parade_Salamanca_CristoAmorYPaz">
-    <open>1</open>
-    <name>HERMANDAD DEL CRISTO DEL AMOR Y DE LA PAZ</name>
-    <description><![CDATA[JUEVES SANTO. Día 18 DE ABRIL<br><br>HERMANDAD DEL CRISTO DEL AMOR Y DE LA PAZ<br><br>HORARIO: 20:30 H. <br>SALIDA: Antigua Iglesia del Arrabal (Ribera del puente). <br>RECORRIDO: Iglesia antigua del Arrabal, carretera de Madrid, paseo del Progreso entrada en el Puente Romano, Rector Esperabé, Ribera del Puente, Tentenecio, plaza Juan XXIII, (Entrada a la Catedral por Puerta del Obispo), acto Penitencial en el atrio de la Catedral reanudación de la procesión por la plaza de Anaya, Rúa Mayor, plaza del Corrillo, Meléndez, Compañía, Rúa Antigua, plaza de San Isidro, Libreros, Vera Cruz, Tentenecio, Ribera del Puente, Puente Romano, carretera de Madrid y antigua Iglesia del Arrabal. <br>PASOS: Cristo del Amor y de la Paz (Anónimo, S. XVII). <br>María Nuestra Madre (Hipólito Pérez Calvo, 1987).]]></description>
+<kml:kml 
+  xmlns:kml="http://www.opengis.net/kml/2.2" 
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="
+    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
 
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_19">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-19.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+  <kml:Document id="Parade_Salamanca_CristoAmorYPaz">
+    <kml:name>Cristo del Amor y de la Paz</kml:name>
+    <kml:open>1</kml:open>
+    <kml:description><![CDATA[JUEVES SANTO. Día 18 DE ABRIL<br><br>HERMANDAD DEL CRISTO DEL AMOR Y DE LA PAZ<br><br>HORARIO: 20:30 H. <br>SALIDA: Antigua Iglesia del Arrabal (Ribera del puente). <br>RECORRIDO: Iglesia antigua del Arrabal, carretera de Madrid, paseo del Progreso entrada en el Puente Romano, Rector Esperabé, Ribera del Puente, Tentenecio, plaza Juan XXIII, (Entrada a la Catedral por Puerta del Obispo), acto Penitencial en el atrio de la Catedral reanudación de la procesión por la plaza de Anaya, Rúa Mayor, plaza del Corrillo, Meléndez, Compañía, Rúa Antigua, plaza de San Isidro, Libreros, Vera Cruz, Tentenecio, Ribera del Puente, Puente Romano, carretera de Madrid y antigua Iglesia del Arrabal. <br>PASOS: Cristo del Amor y de la Paz (Anónimo, S. XVII). <br>María Nuestra Madre (Hipólito Pérez Calvo, 1987).]]></kml:description>
 
-    <Style id="Style_Parade_Salamanca_CristoAmorYPaz_Line_Normal">
-      <LineStyle>
-        <color>ffffffff</color>
-        <width>8</width>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_6">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-6.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_7">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-7.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_8">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-8.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_9">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-9.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_10">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-10.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_11">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-11.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_12">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-12.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_13">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-13.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_14">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-14.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_15">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-15.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_16">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-16.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_17">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-17.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_18">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-18.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Marker_19">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoAmorYPaz/marker-19.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+
+    <kml:Style id="Style_Parade_Salamanca_CristoAmorYPaz_Line_Normal">
+      <kml:LineStyle>
+        <kml:color>ffffffff</kml:color>
+        <kml:width>8</kml:width>
         <gx:outerColor>ffff8f8f</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
+      </kml:LineStyle>
+    </kml:Style>
 
-    <Placemark>
-      <name>Cristo del Amor y de la Paz - Recorrido</name>
-      <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
+    <kml:Placemark>
+      <kml:name>Cristo del Amor y de la Paz - Recorrido</kml:name>
+      <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Line_Normal</kml:styleUrl>
+      <kml:LineString>
+        <kml:tessellate>1</kml:tessellate>
+        <kml:coordinates>
           -5.66897,40.95551,0
           -5.66899,40.95551,0
           -5.669,40.95551,0
@@ -409,221 +416,221 @@
           -5.669,40.95551,0
           -5.66899,40.95551,0
           -5.66897,40.95551,0
-        </coordinates>
-      </LineString>
-    </Placemark>
+        </kml:coordinates>
+      </kml:LineString>
+    </kml:Placemark>
 
-    <Folder>
-      <name>Cristo del Amor y de la Paz - Markers</name>
-      <Placemark>
-        <name>Iglesia Nueva del Arrabal</name>
-        <address>Iglesia Nueva del Arrabal  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
+    <kml:Folder>
+      <kml:name>Cristo del Amor y de la Paz - Markers</kml:name>
+      <kml:Placemark>
+        <kml:name>Iglesia Nueva del Arrabal</kml:name>
+        <kml:address>Iglesia Nueva del Arrabal  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6698217,40.9553266,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Paseo del Progreso</name>
-        <address>Paseo del Progreso  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Paseo del Progreso</kml:name>
+        <kml:address>Paseo del Progreso  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_2</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.670895,40.956005,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Puente Romano</name>
-        <address>Puente Romano  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Puente Romano</kml:name>
+        <kml:address>Puente Romano  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6701733,40.9577818,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Paseo San Gregorio</name>
-        <address>Paseo San Gregorio  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Paseo San Gregorio</kml:name>
+        <kml:address>Paseo San Gregorio  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_4</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.668925,40.959360,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Tentenecio</name>
-        <address>Calle Tentenecio  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Tentenecio</kml:name>
+        <kml:address>Calle Tentenecio  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667406,40.959744,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza Juan XXIII</name>
-        <address>Plaza Juan XXIII  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza Juan XXIII</kml:name>
+        <kml:address>Plaza Juan XXIII  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_6</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667093,40.960600,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Catedral Nueva</name>
-        <address>Catedral Nueva  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Catedral Nueva</kml:name>
+        <kml:address>Catedral Nueva  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_7</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666747,40.960857,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de Anaya</name>
-        <address>Plaza de Anaya  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de Anaya</kml:name>
+        <kml:address>Plaza de Anaya  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_8</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6662654,40.9612055,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Mayor</name>
-        <address>Rúa Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Mayor</kml:name>
+        <kml:address>Rúa Mayor  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_9</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665339,40.9630034,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Corrillo</name>
-        <address>Plaza del Corrillo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Corrillo</kml:name>
+        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_10</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.664815,40.964238,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Meléndez</name>
-        <address>Calle Meléndez  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Meléndez</kml:name>
+        <kml:address>Calle Meléndez  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_11</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6656443,40.9636939,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Compañía</name>
-        <address>Calle Compañía  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Compañía</kml:name>
+        <kml:address>Calle Compañía  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_12</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666078,40.962829,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Antigua</name>
-        <address>Rúa Antigua  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_13</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Antigua</kml:name>
+        <kml:address>Rúa Antigua  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_13</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665957,40.962656,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de San Isidro</name>
-        <address>Plaza de San Isidro  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de San Isidro</kml:name>
+        <kml:address>Plaza de San Isidro  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_14</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6664645,40.9625054,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Libreros</name>
-        <address>Calle Libreros  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_15</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Libreros</kml:name>
+        <kml:address>Calle Libreros  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_15</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667551,40.9611596,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Vera Cruz</name>
-        <address>Calle Vera Cruz  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_16</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Vera Cruz</kml:name>
+        <kml:address>Calle Vera Cruz  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_16</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6682101,40.9598987,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Tentenecio</name>
-        <address>Calle Tentenecio  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_17</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Tentenecio</kml:name>
+        <kml:address>Calle Tentenecio  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_17</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667406,40.959744,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Puente Romano</name>
-        <address>Puente Romano  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_18</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Puente Romano</kml:name>
+        <kml:address>Puente Romano  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_18</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6701733,40.9577818,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Iglesia Nueva del Arrabal</name>
-        <address>Iglesia Nueva del Arrabal  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_19</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Iglesia Nueva del Arrabal</kml:name>
+        <kml:address>Iglesia Nueva del Arrabal  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoAmorYPaz_Marker_19</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6698217,40.9553266,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>
-</kml>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>
+</kml:kml>

@@ -1,146 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document id="Parade_Salamanca_CristoYacente">
-    <open>1</open>
-    <name>Cristo Yacente y Agonía</name>
-    <description><![CDATA[JUEVES SANTO. Día 18 DE ABRIL<br><br>REAL COFRADÍA PENITENCIAL DE CRISTO YACENTE DE LA MISERICORDIA Y DE LA AGONÍA REDENTORA<br><br>HORARIO: 00:00 H. <br>SALIDA: S.I.B. Catedral Nueva. <br>RECORRIDO: Atrio de la Catedral, plaza de Anaya, Tostado, San Pablo, plaza del Poeta Iglesias, Quintana, Juan del Rey, Prado, Doctrinos, Compañía, Rúa Antigua, plaza San Isidro, Libreros, Calderón de la Barca, Catedral. <br>PASOS: Santísimo Cristo de la Agonía Redentora (Anónimo, 1525). <br>Santísimo Cristo Yacente de la Misericordia (Enrique Orejudo, 1991).]]></description>
+<kml:kml 
+xmlns:kml="http://www.opengis.net/kml/2.2" 
+xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="
+  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+  
+  <kml:Document id="Parade_Salamanca_CristoYacente">
+    <kml:name>Cristo Yacente</kml:name>
+    <kml:open>1</kml:open>
+    <kml:description><![CDATA[JUEVES SANTO. Día 18 DE ABRIL<br><br>REAL COFRADÍA PENITENCIAL DE CRISTO YACENTE DE LA MISERICORDIA Y DE LA AGONÍA REDENTORA<br><br>HORARIO: 00:00 H. <br>SALIDA: S.I.B. Catedral Nueva. <br>RECORRIDO: Atrio de la Catedral, plaza de Anaya, Tostado, San Pablo, plaza del Poeta Iglesias, Quintana, Juan del Rey, Prado, Doctrinos, Compañía, Rúa Antigua, plaza San Isidro, Libreros, Calderón de la Barca, Catedral. <br>PASOS: Santísimo Cristo de la Agonía Redentora (Anónimo, 1525). <br>Santísimo Cristo Yacente de la Misericordia (Enrique Orejudo, 1991).]]></kml:description>
 
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoYacente_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_6">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-6.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_7">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-7.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_8">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-8.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_9">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-9.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_10">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-10.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_11">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-11.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_12">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-12.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_13">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-13.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_14">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-14.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Marker_15">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoYacente/marker-15.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
 
-    <Style id="Style_Parade_Salamanca_CristoYacente_Line_Normal">
-      <LineStyle>
-        <color>ffffffff</color>
-        <width>8</width>
+    <kml:Style id="Style_Parade_Salamanca_CristoYacente_Line_Normal">
+      <kml:LineStyle>
+        <kml:color>ffffffff</kml:color>
+        <kml:width>8</kml:width>
         <gx:outerColor>fff02010</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
+      </kml:LineStyle>
+    </kml:Style>
     
-    <Placemark>
-      <name>Cristo Yacente y de la Agonía - Recorrido</name>
-      <styleUrl>#Style_Parade_Salamanca_CristoYacente_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
+    <kml:Placemark>
+      <kml:name>Cristo Yacente y de la Agonía - Recorrido</kml:name>
+      <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Line_Normal</kml:styleUrl>
+      <kml:LineString>
+        <kml:tessellate>1</kml:tessellate>
+        <kml:coordinates>
           -5.66579,40.96106,0
           -5.66585,40.96108,0
           -5.66627,40.96121,0
@@ -237,171 +244,171 @@
           -5.66627,40.96121,0
           -5.66585,40.96108,0
           -5.66578,40.96105,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Folder>
-      <name>Cristo Yacente y de la Agonía - Markers</name>
-      <Placemark>
-        <name>Atrio de la Catedral</name>
-        <address>Atrio de la Catedral  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
+        </kml:coordinates>
+      </kml:LineString>
+    </kml:Placemark>
+    <kml:Folder>
+      <kml:name>Cristo Yacente y de la Agonía - Markers</kml:name>
+      <kml:Placemark>
+        <kml:name>Atrio de la Catedral</kml:name>
+        <kml:address>Atrio de la Catedral  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6657869,40.9610568,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de Anaya</name>
-        <address>Plaza de Anaya  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_2</styleUrl>
-      </Placemark>
-      <Placemark>
-        <name>Calle Tostado</name>
-        <address>Calle Tostado  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de Anaya</kml:name>
+        <kml:address>Plaza de Anaya  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_2</kml:styleUrl>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Tostado</kml:name>
+        <kml:address>Calle Tostado  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6648406,40.9609664,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle San Pablo</name>
-        <address>Calle San Pablo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle San Pablo</kml:name>
+        <kml:address>Calle San Pablo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_4</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.664253,40.961386,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Poeta Iglesias</name>
-        <address>Plaza del Poeta Iglesias  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Poeta Iglesias</kml:name>
+        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.664079,40.964173,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Quintana</name>
-        <address>Calle Quintana  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Quintana</kml:name>
+        <kml:address>Calle Quintana  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_6</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6645175,40.9641302,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Juan del Rey</name>
-        <address>Calle Juan del Rey  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Juan del Rey</kml:name>
+        <kml:address>Calle Juan del Rey  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_7</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6655647,40.9642421,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Prado</name>
-        <address>Calle Prado  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Prado</kml:name>
+        <kml:address>Calle Prado  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_8</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665742,40.964568,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Doctrinos</name>
-        <address>Calle Doctrinos  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Doctrinos</kml:name>
+        <kml:address>Calle Doctrinos  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_9</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6660047,40.9647181,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Compañía</name>
-        <address>Calle Compañía  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Compañía</kml:name>
+        <kml:address>Calle Compañía  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_10</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6663808,40.9638679,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Antigua</name>
-        <address>Rúa Antigua  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Antigua</kml:name>
+        <kml:address>Rúa Antigua  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_11</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6659574,40.962656,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza San Isidro</name>
-        <address>Plaza San Isidro  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza San Isidro</kml:name>
+        <kml:address>Plaza San Isidro  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_12</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6664645,40.9625054,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Libreros</name>
-        <address>Calle Libreros  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_13</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Libreros</kml:name>
+        <kml:address>Calle Libreros  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_13</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667551,40.9611596,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Calderón de la Barca</name>
-        <address>Calle Calderón de la Barca  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Calderón de la Barca</kml:name>
+        <kml:address>Calle Calderón de la Barca  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_14</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667218,40.9609892,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Catedral</name>
-        <address>Catedral  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_15</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Catedral</kml:name>
+        <kml:address>Catedral  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoYacente_Marker_15</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6657795,40.9610543,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>
-</kml>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>
+</kml:kml>

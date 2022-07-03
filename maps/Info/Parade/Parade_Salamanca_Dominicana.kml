@@ -1,178 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document id="Parade_Salamanca_Dominicana">
-    <open>1</open>
-    <name>HERMANDAD DOMINICANA DEL SANTÍSIMO CRISTO DE LA BUENA MUERTE</name>
-    <description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br><br>HERMANDAD DOMINICANA DEL SANTÍSIMO CRISTO DE LA BUENA MUERTE, NUESTRO PADRE JESÚS DE LA PASIÓN, DE NUESTRA SEÑORA DE LOS DOLORES Y DE LA ESPERANZA.<br><br>HORARIO: 05:00 H. <br>SALIDA: Iglesia San Esteban (PP Dominicos) y S.I.B Catedral Nueva. <br>RECORRIDO: Iglesia del Convento de San Esteban (PP. Dominicos), plaza del Concilio de Trento, San Pablo, Palominos, Rúa Mayor, plaza de Anaya, (entrada a Catedral Nueva por la Puerta de Ramos, salida de Catedral por la puerta del Obispo), Calderón de la Barca, Libreros, plaza de San Isidro, Compañía, Meléndez, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, San Pablo, Juan de la Fuente, Rosario y Atrio de San Esteban.<br>PASOS: Nuestro Padre Jesús de la Pasión (Damián Villar, 1945). <br>Santísimo Cristo de la Buena Muerte (Anónimo, S. XVII). <br>Nuestra Señora de los Dolores (Piedad), (Luis Salvador Carmona, 1760). <br>Nuestra Señora de la Esperanza (Damián Villar, 1952).]]></description>
+<kml:kml 
+xmlns:kml="http://www.opengis.net/kml/2.2" 
+xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="
+  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+  
+  <kml:Document id="Parade_Salamanca_Dominicana">
+    <kml:name>Hermandad Dominicana</kml:name>
+    <kml:open>1</kml:open>
+    <kml:description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br><br>HERMANDAD DOMINICANA DEL SANTÍSIMO CRISTO DE LA BUENA MUERTE, NUESTRO PADRE JESÚS DE LA PASIÓN, DE NUESTRA SEÑORA DE LOS DOLORES Y DE LA ESPERANZA.<br><br>HORARIO: 05:00 H. <br>SALIDA: Iglesia San Esteban (PP Dominicos) y S.I.B Catedral Nueva. <br>RECORRIDO: Iglesia del Convento de San Esteban (PP. Dominicos), plaza del Concilio de Trento, San Pablo, Palominos, Rúa Mayor, plaza de Anaya, (entrada a Catedral Nueva por la Puerta de Ramos, salida de Catedral por la puerta del Obispo), Calderón de la Barca, Libreros, plaza de San Isidro, Compañía, Meléndez, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, San Pablo, Juan de la Fuente, Rosario y Atrio de San Esteban.<br>PASOS: Nuestro Padre Jesús de la Pasión (Damián Villar, 1945). <br>Santísimo Cristo de la Buena Muerte (Anónimo, S. XVII). <br>Nuestra Señora de los Dolores (Piedad), (Luis Salvador Carmona, 1760). <br>Nuestra Señora de la Esperanza (Damián Villar, 1952).]]></kml:description>
 
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_17">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-17.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_18">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-18.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Dominicana_Marker_19">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-19.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_6">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-6.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_7">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-7.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_8">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-8.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_9">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-9.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_10">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-10.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_11">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-11.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_12">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-12.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_13">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-13.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_14">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-14.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_15">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-15.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_16">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-16.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_17">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-17.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_18">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-18.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Marker_19">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Dominicana/marker-19.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
 
-    <Style id="Style_Parade_Salamanca_Dominicana_Line_Normal">
-      <LineStyle>
-        <color>fff02010</color>
-        <width>8</width>
+    <kml:Style id="Style_Parade_Salamanca_Dominicana_Line_Normal">
+      <kml:LineStyle>
+        <kml:color>fff02010</kml:color>
+        <kml:width>8</kml:width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
+      </kml:LineStyle>
+    </kml:Style>
 
-    <Placemark>
-      <name>Dominicana - Recorrido</name>
-      <styleUrl>#Style_Parade_Salamanca_Dominicana_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
+    <kml:Placemark>
+      <kml:name>Dominicana - Recorrido</kml:name>
+      <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Line_Normal</kml:styleUrl>
+      <kml:LineString>
+        <kml:tessellate>1</kml:tessellate>
+        <kml:coordinates>
           -5.66322,40.96067,0
           -5.66325,40.96067,0
           -5.66336,40.9607,0
@@ -321,215 +328,215 @@
           -5.66316,40.96071,0
           -5.66319,40.96068,0
           -5.66321,40.96067,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Folder>
-      <name>Dominicana - Markers</name>
-      <Placemark>
-        <name>Iglesia del Convento de San Esteban</name>
-        <address>Iglesia del Convento de San Esteban  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
+        </kml:coordinates>
+      </kml:LineString>
+    </kml:Placemark>
+    <kml:Folder>
+      <kml:name>Dominicana - Markers</kml:name>
+      <kml:Placemark>
+        <kml:name>Iglesia del Convento de San Esteban</kml:name>
+        <kml:address>Iglesia del Convento de San Esteban  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667399,40.9609178,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Concilio de Trento</name>
-        <address>Plaza del Concilio de Trento  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Concilio de Trento</kml:name>
+        <kml:address>Plaza del Concilio de Trento  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_2</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6637313,40.9607941,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle San Pablo</name>
-        <address>Calle San Pablo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle San Pablo</kml:name>
+        <kml:address>Calle San Pablo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6648559,40.9611843,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Palominos</name>
-        <address>Calle Palominos  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Palominos</kml:name>
+        <kml:address>Calle Palominos  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_4</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6651174,40.9620005,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Mayor</name>
-        <address>Rúa Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Mayor</kml:name>
+        <kml:address>Rúa Mayor  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665339,40.9630034,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de Anaya</name>
-        <address>Plaza de Anaya  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de Anaya</kml:name>
+        <kml:address>Plaza de Anaya  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_6</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6662216,40.9617646,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Catedral Nueva</name>
-        <address>Catedral Nueva  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Catedral Nueva</kml:name>
+        <kml:address>Catedral Nueva  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_7</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6668568,40.9609012,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Calderón de la Barca</name>
-        <address>Calle Calderón de la Barca  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Calderón de la Barca</kml:name>
+        <kml:address>Calle Calderón de la Barca  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_8</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667218,40.9609892,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Libreros</name>
-        <address>Calle Libreros  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Libreros</kml:name>
+        <kml:address>Calle Libreros  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_9</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667551,40.9611596,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de San Isidro</name>
-        <address>Plaza de San Isidro  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de San Isidro</kml:name>
+        <kml:address>Plaza de San Isidro  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_10</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6664645,40.9625054,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Compañía</name>
-        <address>Calle Compañía  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Compañía</kml:name>
+        <kml:address>Calle Compañía  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_11</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666080,40.962863,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Meléndez</name>
-        <address>Calle Meléndez  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Meléndez</kml:name>
+        <kml:address>Calle Meléndez  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_12</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6656443,40.9636939,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Corrillo</name>
-        <address>Plaza del Corrillo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_13</styleUrl>
-      </Placemark>
-      <Placemark>
-        <name>Plaza Mayor</name>
-        <address>Plaza Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Corrillo</kml:name>
+        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_13</kml:styleUrl>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza Mayor</kml:name>
+        <kml:address>Plaza Mayor  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_14</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6644507,40.9650278,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Poeta Iglesias</name>
-        <address>Plaza del Poeta Iglesias  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_15</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Poeta Iglesias</kml:name>
+        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_15</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6640916,40.9642839,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle San Pablo</name>
-        <address>Calle San Pablo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_16</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle San Pablo</kml:name>
+        <kml:address>Calle San Pablo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_16</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.664131,40.963111,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Juan de la Fuente</name>
-        <address>Calle Juan de la Fuente  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_17</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Juan de la Fuente</kml:name>
+        <kml:address>Calle Juan de la Fuente  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_17</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6633626,40.9615316,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Rosario</name>
-        <address>Calle Rosario  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_18</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Rosario</kml:name>
+        <kml:address>Calle Rosario  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_18</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.662679,40.961019,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Convento de San Esteban</name>
-        <address>Convento de San Esteban  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_19</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Convento de San Esteban</kml:name>
+        <kml:address>Convento de San Esteban  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_Dominicana_Marker_19</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667399,40.9609178,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>  
-</kml>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>  
+</kml:kml>

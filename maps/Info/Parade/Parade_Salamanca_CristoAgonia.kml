@@ -6,7 +6,9 @@
   xsi:schemaLocation="
     http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
     http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+    
   <kml:Document id="Parade_Salamanca_CristoAgonia">
+    <kml:name>Cristo de la Agonía</kml:name>
     <kml:open>1</kml:open>
     <kml:description><![CDATA[JUEVES SANTO. 18 DE ABRIL<br><br>SERÁFICA HERMANDAD DE NAZARENOS DEL SANTÍSIMO CRISTO DE LA AGONÍA<br><br>HORARIO: 20:00 H. <br>SALIDA: RR.MM. Úrsulas. <br>RECORRIDO: Convento de RR.MM. Úrsulas, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Serranos, Libreros, Calderón de la Barca, Benedicto XVI, Rúa Mayor, Quintana, plaza del Poeta Iglesias, Plaza Mayor, Corrillo, Meléndez, Compañía, plaza de Monterrey, Bordadores, Úrsulas, Convento RR.MM. Úrsulas. <br>PASOS: El Prendimiento (Damián Villar, 1948). <br>Jesús ante Pilatos (Francisco González Macías, 1948). <br>Santísimo Cristo de la Agonía (Damián Villar, 1960). <br>Dolorosa (Soriano Montagut, 1939).]]></kml:description>
     <kml:Style id="Style_Parade_Salamanca_CristoAgonia_Marker_1">

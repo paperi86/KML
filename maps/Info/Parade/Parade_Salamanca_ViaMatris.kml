@@ -1,122 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document id="Parade_Salamanca_ViaMatris">
-    <open>1</open>
-    <name>Procesión Via Matris</name>
-    <description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURISIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN VIA MATRIS<br><br>HORARIO: 20:30 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, plaza de San Benito, (Acto del Vía Matris frente a las Madres de Dios), Compañía, Meléndez, Juan del Rey, Prado, Doctrinos, Compañía, plaza de Monterrey, Úrsulas y Vera Cruz. <br>PASO: Stma. Virgen de los Dolores (Felipe del Corral, S.XVIII).]]></description>
+<kml:kml
+xmlns:kml="http://www.opengis.net/kml/2.2" 
+xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="
+  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+  
+  <kml:Document id="Parade_Salamanca_ViaMatris">
+    <kml:name>Via Matris</kml:name>
+    <kml:open>1</kml:open>
+    <kml:description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURISIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN VIA MATRIS<br><br>HORARIO: 20:30 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, plaza de San Benito, (Acto del Vía Matris frente a las Madres de Dios), Compañía, Meléndez, Juan del Rey, Prado, Doctrinos, Compañía, plaza de Monterrey, Úrsulas y Vera Cruz. <br>PASO: Stma. Virgen de los Dolores (Felipe del Corral, S.XVIII).]]></kml:description>
     
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_ViaMatris_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_6">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-6.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_7">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-7.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_8">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-8.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_9">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-9.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_10">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-10.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_11">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-11.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Marker_12">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaMatris/marker-12.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
     
-    <Style id="Style_Parade_Salamanca_ViaMatris_Line_Normal">
-      <LineStyle>
-        <color>80b0f000</color>
-        <width>3</width>
+    <kml:Style id="Style_Parade_Salamanca_ViaMatris_Line_Normal">
+      <kml:LineStyle>
+        <kml:color>80b0f000</kml:color>
+        <kml:width>3</kml:width>
         <gx:outerColor>ffffff00</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
+      </kml:LineStyle>
+    </kml:Style>
     
-    <Placemark>
-      <name>Via Matris - Recorrido</name>
-      <styleUrl>#Style_Parade_Salamanca_ViaMatris_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
+    <kml:Placemark>
+      <kml:name>Via Matris - Recorrido</kml:name>
+      <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Line_Normal</kml:styleUrl>
+      <kml:LineString>
+        <kml:tessellate>1</kml:tessellate>
+        <kml:coordinates>
           -5.66773,40.96617,0
           -5.66761,40.96612,0
           -5.66762,40.96611,0
@@ -197,120 +204,120 @@
           -5.66762,40.96611,0
           -5.66761,40.96612,0
           -5.66774,40.96617,0
-        </coordinates>
-      </LineString>
-    </Placemark> 
+        </kml:coordinates>
+      </kml:LineString>
+    </kml:Placemark> 
 
-    <Folder>
-      <Placemark>
-        <name>Capilla de la Vera Cruz</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
+    <kml:Folder>
+      <kml:Placemark>
+        <kml:name>Capilla de la Vera Cruz</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.66769309999995,40.966247,0
-          </coordinates>
-        </Point>
-      </Placemark>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
      
-      <Placemark>
-        <name>Calle Dominguez Berrueta</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
+      <kml:Placemark>
+        <kml:name>Calle Dominguez Berrueta</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_2</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6677293,40.9661682,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Ramón y Cajal</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Ramón y Cajal</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6682369,40.9655296,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de las Agustinas, Salamanca</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de las Agustinas, Salamanca</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_4</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6668743,40.9649625,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle de la Compañía, Salamanca</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle de la Compañía, Salamanca</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6663808,40.9638679,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza San Benito, Salamanca</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza San Benito, Salamanca</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_6</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6660906,40.9636818,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle de la Compañía, Salamanca</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle de la Compañía, Salamanca</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_7</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6663808,40.9638679,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Meléndez, Salamanca</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Meléndez, Salamanca</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_8</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6656443,40.9636939,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Juan del Rey, Salamanca</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Juan del Rey, Salamanca</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_9</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6655647,40.9642421,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Prado, Salamanca</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Prado, Salamanca</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_10</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6657593,40.9643957,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Doctrinos</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Doctrinos</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_11</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6660054,40.9647182,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Capilla de la Vera Cruz</name>
-        <styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Capilla de la Vera Cruz</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_ViaMatris_Marker_12</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6677418,40.9661729,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>
-</kml>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>
+</kml:kml>

@@ -1,138 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document id="Parade_Salamanca_JesusAmigoNinos"  xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <open>1</open>
-    <name>Jesús Amigo de los Niños</name>
-    <description><![CDATA[DOMINGO DE RAMOS. Día 14 DE ABRIL<br><br>HERMANDAD JESÚS AMIGO DE LOS NIÑOS<br><br>HORARIO: 12:15 H. S.I.B. <br>SALIDA: Catedral Nueva. <br>RECORRIDO: Catedral Nueva, Atrio de la Catedral, Calderón de la Barca, Libreros, Compañía, Meléndez, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, Quintana, Rúa Mayor, Rúa Antigua, plaza de Anaya, Catedral Nueva. <br>PASO: Jesús Amigo de los Niños (Borriquilla) (Carlos Guerra-Del Moral Santos, 2009).]]></description>
+<kml:kml 
+xmlns:kml="http://www.opengis.net/kml/2.2" 
+xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="
+  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+  
+  <kml:Document id="Parade_Salamanca_JesusAmigoNinos">
+    <kml:name>Jesús Amigo de los Niños</kml:name>
+    <kml:open>1</kml:open>
+    <kml:description><![CDATA[DOMINGO DE RAMOS. Día 14 DE ABRIL<br><br>HERMANDAD JESÚS AMIGO DE LOS NIÑOS<br><br>HORARIO: 12:15 H. S.I.B. <br>SALIDA: Catedral Nueva. <br>RECORRIDO: Catedral Nueva, Atrio de la Catedral, Calderón de la Barca, Libreros, Compañía, Meléndez, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, Quintana, Rúa Mayor, Rúa Antigua, plaza de Anaya, Catedral Nueva. <br>PASO: Jesús Amigo de los Niños (Borriquilla) (Carlos Guerra-Del Moral Santos, 2009).]]></kml:description>
 
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_6">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-6.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_7">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-7.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_8">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-8.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_9">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-9.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_10">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-10.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_11">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-11.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_12">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-12.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_13">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-13.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Marker_14">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusAmigoNinos/marker-14.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
 
-    <Style id="Style_Parade_Salamanca_JesusAmigoNinos_Line_Normal">
-        <LineStyle>
-          <color>ffffffff</color>
-          <width>8</width>
+    <kml:Style id="Style_Parade_Salamanca_JesusAmigoNinos_Line_Normal">
+        <kml:LineStyle>
+          <kml:color>ffffffff</kml:color>
+          <kml:width>8</kml:width>
           <gx:outerColor>ffbf8f00</gx:outerColor>
           <gx:outerWidth>0.25</gx:outerWidth>
-        </LineStyle>
-      </Style>
+        </kml:LineStyle>
+      </kml:Style>
       
-      <Placemark>
-        <name>Recorrido</name>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Line_Normal</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
+      <kml:Placemark>
+        <kml:name>Recorrido</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Line_Normal</kml:styleUrl>
+        <kml:LineString>
+          <kml:tessellate>1</kml:tessellate>
+          <kml:coordinates>
             -5.66578,40.96105,0
             -5.66585,40.96108,0
             -5.66627,40.96121,0
@@ -214,165 +221,165 @@
             -5.66627,40.96121,0
             -5.66585,40.96108,0
             -5.66578,40.96105,0
-          </coordinates>
-        </LineString>
-      </Placemark>
+          </kml:coordinates>
+        </kml:LineString>
+      </kml:Placemark>
 
-    <Folder>
-      <name>Jesus Amigo de los Niños - Markers</name>
-      <Placemark>
-        <name>Catedral Nueva</name>
-        <address>Catedral Nueva  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
+    <kml:Folder>
+      <kml:name>Jesus Amigo de los Niños - Markers</kml:name>
+      <kml:Placemark>
+        <kml:name>Catedral Nueva</kml:name>
+        <kml:address>Catedral Nueva  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6665546,40.960868,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Atrio de la Catedral</name>
-        <address>Atrio de la Catedral  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Atrio de la Catedral</kml:name>
+        <kml:address>Atrio de la Catedral  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_2</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666313,40.961105,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Calderón de la Barca</name>
-        <address>Calle Calderón de la Barca  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Calderón de la Barca</kml:name>
+        <kml:address>Calle Calderón de la Barca  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6672142,40.9608435,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Libreros</name>
-        <address>Calle Libreros  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Libreros</kml:name>
+        <kml:address>Calle Libreros  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_4</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667441,40.961346,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Compañía</name>
-        <address>Calle Compañía  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Compañía</kml:name>
+        <kml:address>Calle Compañía  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666070,40.962823,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Meléndez</name>
-        <address>Calle Meléndez  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Meléndez</kml:name>
+        <kml:address>Calle Meléndez  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_6</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665867,40.963569,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Corrillo</name>
-        <address>Plaza del Corrillo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Corrillo</kml:name>
+        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_7</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6647796,40.9644478,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza Mayor</name>
-        <address>Plaza Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza Mayor</kml:name>
+        <kml:address>Plaza Mayor  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_8</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6649738,40.9645959,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Poeta Iglesias</name>
-        <address>Plaza del Poeta Iglesias  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Poeta Iglesias</kml:name>
+        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_9</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.664083,40.964373,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Quintana</name>
-        <address>Calle Quintana  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Quintana</kml:name>
+        <kml:address>Calle Quintana  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_10</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.664271,40.964189,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Mayor</name>
-        <address>Rúa Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Mayor</kml:name>
+        <kml:address>Rúa Mayor  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_11</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665339,40.9630034,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Antigua</name>
-        <address>Rúa Antigua  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Antigua</kml:name>
+        <kml:address>Rúa Antigua  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_12</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6659574,40.962656,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de Anaya</name>
-        <address>Plaza de Anaya  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_13</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de Anaya</kml:name>
+        <kml:address>Plaza de Anaya  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_13</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6657775,40.9610536,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Catedral Nueva</name>
-        <address>Catedral Nueva. Salamanca</address>
-        <styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Catedral Nueva</kml:name>
+        <kml:address>Catedral Nueva. Salamanca</kml:address>
+        <kml:styleUrl>#Style_Parade_Salamanca_JesusAmigoNinos_Marker_14</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6665546,40.960868,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>  
-</kml>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>  
+</kml:kml>

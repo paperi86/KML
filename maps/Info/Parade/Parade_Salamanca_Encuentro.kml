@@ -1,114 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document id="Parade_Salamanca_Encuentro">
-    <open>1</open>
-    <name>PROCESIÓN CONJUNTA DE RESURRECCIÓN</name>
-    <description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN DEL ENCUENTRO<br><br>DOMINGO DE RESURRECCIÓN. 21 DE ABRIL<br>HORARIO: 13:15 H. <br>ITINERARIO: Atrio de la Catedral, Benedicto XVI, Rúa Mayor, Quintana, Plaza del Poeta Iglesias, Plaza Mayor, Prior, Plaza de Monterrey, Bordadores, Úrsulas, Iglesia de la Vera Cruz. PASOS: Lignum Crucis (Reliquia autenticada de la Cruz de Cristo traída de Roma en el S. XVII. Cruz-relicario, Pedro Benítez, 1675), Las tres marías ante el Sepulcro vacío (imágenes, Pedro Hernández 1617, Santo Sepulcro, anónimo 1678). Nuestra Señora de la Alegría (anónimo S. XVIII). Jesús Resucitado (Alejandro Carnicero, 1725)]]></description>
+<kml:kml 
+xmlns:kml="http://www.opengis.net/kml/2.2" 
+xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="
+  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+  
+  <kml:Document id="Parade_Salamanca_Encuentro">
+    <kml:name>Encuentro</kml:name>
+    <kml:open>1</kml:open>
+    <kml:description><![CDATA[ ILUSTRE COFRADÍA DE LA SANTA CRUZ DEL REDENTOR Y DE LA PURÍSIMA CONCEPCIÓN DE LA VIRGEN, SU MADRE (VERA CRUZ)<br><br>PROCESIÓN DEL ENCUENTRO<br><br>DOMINGO DE RESURRECCIÓN. 21 DE ABRIL<br>HORARIO: 13:15 H. <br>ITINERARIO: Atrio de la Catedral, Benedicto XVI, Rúa Mayor, Quintana, Plaza del Poeta Iglesias, Plaza Mayor, Prior, Plaza de Monterrey, Bordadores, Úrsulas, Iglesia de la Vera Cruz. PASOS: Lignum Crucis (Reliquia autenticada de la Cruz de Cristo traída de Roma en el S. XVII. Cruz-relicario, Pedro Benítez, 1675), Las tres marías ante el Sepulcro vacío (imágenes, Pedro Hernández 1617, Santo Sepulcro, anónimo 1678). Nuestra Señora de la Alegría (anónimo S. XVIII). Jesús Resucitado (Alejandro Carnicero, 1725)]]></kml:description>
     
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_Encuentro_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_6">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-6.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_7">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-7.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_8">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-8.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_9">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-9.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_10">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-10.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_Encuentro_Marker_11">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Encuentro/marker-11.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
 
-     <Style id="Style_Parade_Salamanca_Encuentro_Line_Normal">
-      <LineStyle>
-        <color>ff80d0f0</color>
-        <width>8</width>
+     <kml:Style id="Style_Parade_Salamanca_Encuentro_Line_Normal">
+      <kml:LineStyle>
+        <kml:color>ff80d0f0</kml:color>
+        <kml:width>8</kml:width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
+      </kml:LineStyle>
+    </kml:Style>
 
-    <Placemark>
-      <name>Indicaciones de Plaza de Anaya, 15, 37008 Salamanca, España a Iglesia de la Vera Cruz</name>
-      <styleUrl>#Style_Parade_Salamanca_Encuentro_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
+    <kml:Placemark>
+      <kml:name>Indicaciones de Plaza de Anaya, 15, 37008 Salamanca, España a Iglesia de la Vera Cruz</kml:name>
+      <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Line_Normal</kml:styleUrl>
+      <kml:LineString>
+        <kml:tessellate>1</kml:tessellate>
+        <kml:coordinates>
           -5.66604,40.96114,0
           -5.66627,40.96121,0
           -5.66656,40.9613,0
@@ -162,113 +169,113 @@
           -5.66762,40.96611,0
           -5.66761,40.96612,0
           -5.66774,40.96617,0
-        </coordinates>
-      </LineString>
-    </Placemark>
+        </kml:coordinates>
+      </kml:LineString>
+    </kml:Placemark>
     
-    <Folder>
-      <name>Parade_Salamanca_Encuentro</name>
+    <kml:Folder>
+      <kml:name>Parade_Salamanca_Encuentro</kml:name>
 
-      <Placemark>
-        <name>Catedral Nueva</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
+      <kml:Placemark>
+        <kml:name>Catedral Nueva</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6660421,40.9611369,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Benedicto XVI</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Benedicto XVI</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_2</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6665576,40.9613035,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Mayor</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Mayor</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665339,40.9630034,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Quintana</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Quintana</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_4</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6645175,40.9641302,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Poeta Iglesias</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Poeta Iglesias</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.664017,40.964313,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza Mayor</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza Mayor</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_6</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6640255,40.9650549,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Prior</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Prior</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_7</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665441,40.964975,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de Monterrey</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de Monterrey</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_8</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666554,40.965156,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Bordadores</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Bordadores</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_9</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666577,40.965552,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Úrsulas</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Úrsulas</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_10</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6672599,40.96588,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Iglesia de la Vera Cruz</name>
-        <styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Iglesia de la Vera Cruz</kml:name>
+        <kml:styleUrl>#Style_Parade_Salamanca_Encuentro_Marker_11</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6677418,40.9661729,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>
 
-</kml>
+</kml:kml>

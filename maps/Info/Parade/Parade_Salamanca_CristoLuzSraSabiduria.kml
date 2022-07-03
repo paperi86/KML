@@ -1,154 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document id="Parade_Salamanca_CristoLuzSraSabiduria">
-    <open>1</open>
-    <name>Hermandad Universitaria del Stmo. Cristo de la Luz y Ntra. Sra. Madre de la Sabiduría</name>
-    <description><![CDATA[MARTES SANTO. Día 16 DE ABRIL<br>HERMANDAD UNIVERSITARIA DEL STMO. CRISTO DE LA LUZ Y NTRA. SRA. MADRE DE LA SABIDURÍA<br><br>HORARIO: 21:15 H.<br>SALIDA: Iglesia del Espíritu Santo (Clerecía).<br><br>RECORRIDO: Iglesia del Espíritu Santo (Clerecía), Plaza de San Isidro, Calle Libreros, Patio de Escuelas, Calle Libreros, Calle Calderón de la Barca, Calle Benedicto XVI, Rúa Mayor, Plaza del Corrillo, Calle Juan del Rey, Calle Prado, Calle Prior, Plaza de Monterrey, Calle Compañía, Rúa Antigua, Iglesia del Espíritu Santo (Clerecía)<br><br>PASO: Compuesto de las imagenes del Stmo. Cristo de la Luz (Esteban de Rueda, 1620) y de Ntra. Sra. Madre de la Sabiduría (Anónima, anterior)<br><br>URL: http://campus.usal.es/~hermandad/]]></description>
+<kml:kml 
+xmlns:kml="http://www.opengis.net/kml/2.2" 
+xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="
+  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+  
+  <kml:Document id="Parade_Salamanca_CristoLuzSraSabiduria">
+    <kml:name>Cristo de la Luz y Nuestra Señora de la Sabiduría</kml:name>
+    <kml:open>1</kml:open>
+    <kml:description><![CDATA[MARTES SANTO. Día 16 DE ABRIL<br>HERMANDAD UNIVERSITARIA DEL STMO. CRISTO DE LA LUZ Y NTRA. SRA. MADRE DE LA SABIDURÍA<br><br>HORARIO: 21:15 H.<br>SALIDA: Iglesia del Espíritu Santo (Clerecía).<br><br>RECORRIDO: Iglesia del Espíritu Santo (Clerecía), Plaza de San Isidro, Calle Libreros, Patio de Escuelas, Calle Libreros, Calle Calderón de la Barca, Calle Benedicto XVI, Rúa Mayor, Plaza del Corrillo, Calle Juan del Rey, Calle Prado, Calle Prior, Plaza de Monterrey, Calle Compañía, Rúa Antigua, Iglesia del Espíritu Santo (Clerecía)<br><br>PASO: Compuesto de las imagenes del Stmo. Cristo de la Luz (Esteban de Rueda, 1620) y de Ntra. Sra. Madre de la Sabiduría (Anónima, anterior)<br><br>URL: http://campus.usal.es/~hermandad/]]></kml:description>
 
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_6">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-6.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_7">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-7.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_8">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-8.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_9">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-9.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_10">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-10.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_11">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-11.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_12">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-12.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_13">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-13.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_14">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-14.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_15">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-15.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_16">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-16.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_6">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-6.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_7">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-7.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_8">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-8.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_9">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-9.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_10">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-10.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_11">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-11.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_12">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-12.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_13">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-13.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_14">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-14.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_15">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-15.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_16">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoLuzSraSabiduria/marker-16.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
 
-    <Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Line_Normal">
-      <LineStyle>
-        <color>ff202020</color>
-        <width>8</width>
+    <kml:Style id="Style_Parade_Salamanca_CristoLuzSraSabiduria_Line_Normal">
+      <kml:LineStyle>
+        <kml:color>ff202020</kml:color>
+        <kml:width>8</kml:width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
+      </kml:LineStyle>
+    </kml:Style>
 
-    <Placemark>
-      <name>Directions from Iglesia del Espíritu Santo (Clerecía) to Calle del Prior, 14, 37002 Salamanca, Spain</name>
-      <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
+    <kml:Placemark>
+      <kml:name>Directions from Iglesia del Espíritu Santo (Clerecía) to Calle del Prior, 14, 37002 Salamanca, Spain</kml:name>
+      <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Line_Normal</kml:styleUrl>
+      <kml:LineString>
+        <kml:tessellate>1</kml:tessellate>
+        <kml:coordinates>
           -5.66668,40.96248,0
           -5.66646,40.96251,0
           -5.66668,40.96248,0
@@ -238,188 +245,188 @@
           -5.66618,40.96259,0
           -5.66646,40.96251,0
           -5.66668,40.96248,0
-        </coordinates>
-      </LineString>
-    </Placemark>
+        </kml:coordinates>
+      </kml:LineString>
+    </kml:Placemark>
     
-    <Folder>
-      <name>Cristo de la Luz y Sra. de la Sabiduría - Markers</name>
-      <Placemark>
-        <name>Iglesia del Espíritu Santo (Clerecía)</name>
-        <address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
+    <kml:Folder>
+      <kml:name>Cristo de la Luz y Sra. de la Sabiduría - Markers</kml:name>
+      <kml:Placemark>
+        <kml:name>Iglesia del Espíritu Santo (Clerecía)</kml:name>
+        <kml:address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6666754,40.962484,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de San Isidro</name>
-        <address>Plaza de San Isidro  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de San Isidro</kml:name>
+        <kml:address>Plaza de San Isidro  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_2</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6664645,40.9625054,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Libreros</name>
-        <address>Calle Libreros  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Libreros</kml:name>
+        <kml:address>Calle Libreros  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667551,40.9611596,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Patio de Escuelas</name>
-        <address>Patio de Escuelas  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Patio de Escuelas</kml:name>
+        <kml:address>Patio de Escuelas  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_4</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6685702,40.961344,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Libreros</name>
-        <address>Calle Libreros  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Libreros</kml:name>
+        <kml:address>Calle Libreros  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6685702,40.961344,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Calderón de la Barca</name>
-        <address>Calle Calderón de la Barca  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_6</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Calderón de la Barca</kml:name>
+        <kml:address>Calle Calderón de la Barca  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_6</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.667218,40.9609892,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Benedicto XVI</name>
-        <address>Calle Benedicto XVI  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_7</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Benedicto XVI</kml:name>
+        <kml:address>Calle Benedicto XVI  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_7</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6665576,40.9613035,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Mayor</name>
-        <address>Rúa Mayor  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_8</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Mayor</kml:name>
+        <kml:address>Rúa Mayor  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_8</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.665339,40.9630034,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza del Corrillo</name>
-        <address>Plaza del Corrillo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_9</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza del Corrillo</kml:name>
+        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_9</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6650166,40.9640871,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Juan del Rey</name>
-        <address>Calle Juan del Rey  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_10</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Juan del Rey</kml:name>
+        <kml:address>Calle Juan del Rey  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_10</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6655647,40.9642421,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Prado</name>
-        <address>Calle Prado  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_11</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Prado</kml:name>
+        <kml:address>Calle Prado  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_11</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6657593,40.9643957,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Prior</name>
-        <address>Calle Prior  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_12</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Prior</kml:name>
+        <kml:address>Calle Prior  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_12</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6657138,40.9650325,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Plaza de Monterrey</name>
-        <address>Plaza de Monterrey  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_13</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Plaza de Monterrey</kml:name>
+        <kml:address>Plaza de Monterrey  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_13</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.666554,40.965156,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Compañía</name>
-        <address>Calle Compañía  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_14</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Compañía</kml:name>
+        <kml:address>Calle Compañía  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_14</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6663808,40.9638679,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Rúa Antigua</name>
-        <address>Rúa Antigua  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_15</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Rúa Antigua</kml:name>
+        <kml:address>Rúa Antigua  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_15</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6659574,40.962656,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Iglesia del Espíritu Santo (Clerecía)</name>
-        <address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_16</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Iglesia del Espíritu Santo (Clerecía)</kml:name>
+        <kml:address>Iglesia del Espíritu Santo (Clerecía)  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_CristoLuzSraSabiduria_Marker_16</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6666754,40.962484,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>
-</kml>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>
+</kml:kml>

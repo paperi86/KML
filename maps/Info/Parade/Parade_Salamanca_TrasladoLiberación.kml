@@ -1,64 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2">
-  <Document id="Parade_Salamanca_TrasladoLiberacion">
-    <name>Markers</name>
-    <open>1</open>
+<kml:kml
+xmlns:kml="http://www.opengis.net/kml/2.2" 
+xmlns:gx="http://www.google.com/kml/ext/2.2"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="
+  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+  
+  <kml:Document id="Parade_Salamanca_TrasladoLiberacion">
+    <kml:name>Traslado Liberación</kml:name>
+    <kml:open>1</kml:open>
 
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_1">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-1.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_2">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-2.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_3">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-3.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_4">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-4.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_5">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-5.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
+    <kml:Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_1">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-1.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_2">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-2.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_3">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-3.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_4">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-4.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
+    <kml:Style id="Style_Parade_Salamanca_TrasladoLiberacion_Marker_5">
+      <kml:IconStyle>
+        <kml:scale>1</kml:scale>
+        <kml:Icon>
+          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_TrasladoLiberacion/marker-5.png</kml:href>
+        </kml:Icon>
+      </kml:IconStyle>
+    </kml:Style>
 
-    <Style id="Style_Parade_Salamanca_TrasladoLiberacion_Line_Normal">
-      <LineStyle>
-        <color>ff202020</color>
-        <width>8</width>
+    <kml:Style id="Style_Parade_Salamanca_TrasladoLiberacion_Line_Normal">
+      <kml:LineStyle>
+        <kml:color>ff202020</kml:color>
+        <kml:width>8</kml:width>
         <gx:outerColor>ffd9d9d9</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </LineStyle>
-    </Style>
-    <Placemark>
-      <name>Recorrido</name>
-      <styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Line_Normal</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
+      </kml:LineStyle>
+    </kml:Style>
+    <kml:Placemark>
+      <kml:name>Recorrido</kml:name>
+      <kml:styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Line_Normal</kml:styleUrl>
+      <kml:LineString>
+        <kml:tessellate>1</kml:tessellate>
+        <kml:coordinates>
           -5.68107,40.97225,0
           -5.68108,40.97224,0
           -5.6811,40.97222,0
@@ -175,68 +182,68 @@
           -5.66985,40.96522,0
           -5.66976,40.9653,0
           -5.6694,40.9656,0
-        </coordinates>
-      </LineString>
-    </Placemark>
+        </kml:coordinates>
+      </kml:LineString>
+    </kml:Placemark>
 
-    <Folder>
-      <name>Markers</name>
-      <Placemark>
-        <name>Cementerio San Carlos Borromeo</name>
-        <address>Cementerio San Carlos Borromeo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_1</styleUrl>
-        <Point>
-          <coordinates>
+    <kml:Folder>
+      <kml:name>Markers</kml:name>
+      <kml:Placemark>
+        <kml:name>Cementerio San Carlos Borromeo</kml:name>
+        <kml:address>Cementerio San Carlos Borromeo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_1</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6850592,40.975372,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Avenida de los Maristas</name>
-        <address>Avenida de los Maristas  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_2</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Avenida de los Maristas</kml:name>
+        <kml:address>Avenida de los Maristas  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_2</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6810658,40.9722542,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Espejo, Salamanca</name>
-        <address>Calle Espejo  Salamanca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_3</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Espejo, Salamanca</kml:name>
+        <kml:address>Calle Espejo  Salamanca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_3</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6707214,40.9652081,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Calle Fonseca</name>
-        <address>Calle Fonseca</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_4</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Calle Fonseca</kml:name>
+        <kml:address>Calle Fonseca</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_4</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6693965,40.9655993,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Colegio Arzobispo Fonseca</name>
-        <address>Calle Fonseca, 4</address>
-        <description>Salamanca</description>
-        <styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_5</styleUrl>
-        <Point>
-          <coordinates>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+      <kml:Placemark>
+        <kml:name>Colegio Arzobispo Fonseca</kml:name>
+        <kml:address>Calle Fonseca, 4</kml:address>
+        <kml:description>Salamanca</kml:description>
+        <kml:styleUrl>#Style_Parade_Salamanca_TrasladoLiberacion_Marker_5</kml:styleUrl>
+        <kml:Point>
+          <kml:coordinates>
             -5.6702705,40.9653309,0
-          </coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-  </Document>
+          </kml:coordinates>
+        </kml:Point>
+      </kml:Placemark>
+    </kml:Folder>
+  </kml:Document>
   
-</kml>
+</kml:kml>
