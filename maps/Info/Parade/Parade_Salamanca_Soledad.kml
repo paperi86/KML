@@ -1,177 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml:kml
-xmlns:kml="http://www.opengis.net/kml/2.2" 
-xmlns:gx="http://www.google.com/kml/ext/2.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="
-  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
-  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+<kml
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="
+    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
   
-  <kml:Document id="Parade_Salamanca_Soledad">
-    <kml:name>Soledad</kml:name>
-    <kml:open>1</kml:open>
-    <kml:description><![CDATA[SÁBADO SANTO. Día 20 DE ABRIL<br>HORARIO: 00:00 H. <br><br>SALIDA: S.I.B. Catedral Nueva. <br>RECORRIDO: Salida Puerta del Obispo de la S.I.B. Catedral Nueva, Benedicto XVI, Rúa Mayor, Palominos, San Pablo, plaza del Concilio de Trento, atrio de San Esteban, Rosario, Juan de la Fuente, plaza del Colón, San Pablo, plaza del Poeta Iglesias, Plaza Mayor (Acto a Nuestra Señora), plaza del Corrillo, Rúa Mayor, plaza de Anaya, Benedicto XVI, Atrio de la S.I.B. Catedral, entrada por la puerta del Obispo. <br>PASOS: La Soledad de la Cruz (Vicente Cid y Tomás Monzón, 1997).<br>Nuestra Señora de la Soledad (Mariano Benlliure, 1941).]]></kml:description>
+  <Document id="Parade_Salamanca_Soledad">
+    <name>Soledad</name>
+    <open>1</open>
+    <description><![CDATA[SÁBADO SANTO. Día 20 DE ABRIL<br>HORARIO: 00:00 H. <br><br>SALIDA: S.I.B. Catedral Nueva. <br>RECORRIDO: Salida Puerta del Obispo de la S.I.B. Catedral Nueva, Benedicto XVI, Rúa Mayor, Palominos, San Pablo, plaza del Concilio de Trento, atrio de San Esteban, Rosario, Juan de la Fuente, plaza del Colón, San Pablo, plaza del Poeta Iglesias, Plaza Mayor (Acto a Nuestra Señora), plaza del Corrillo, Rúa Mayor, plaza de Anaya, Benedicto XVI, Atrio de la S.I.B. Catedral, entrada por la puerta del Obispo. <br>PASOS: La Soledad de la Cruz (Vicente Cid y Tomás Monzón, 1997).<br>Nuestra Señora de la Soledad (Mariano Benlliure, 1941).]]></description>
 
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_1">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-1.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_2">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-2.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_3">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-3.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_4">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-4.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_5">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-5.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_6">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-6.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_7">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-7.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_8">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-8.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_9">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-9.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_10">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-10.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_11">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-11.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_12">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-12.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_13">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-13.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_14">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-14.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_15">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-15.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_16">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-16.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_17">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-17.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Marker_18">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-18.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_1">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_2">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_3">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_4">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_5">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_6">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_7">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_8">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_9">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_11">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_12">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_13">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_14">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_15">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_16">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_17">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_Soledad_Marker_18">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_Soledad/marker-18.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
 
-    <kml:Style id="Style_Parade_Salamanca_Soledad_Line_Normal">
-      <kml:LineStyle>
-        <kml:color>ff202020</kml:color>
-        <kml:width>8</kml:width>
+    <Style id="Style_Parade_Salamanca_Soledad_Line_Normal">
+      <LineStyle>
+        <color>ff202020</color>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </kml:LineStyle>
-    </kml:Style>
+      </LineStyle>
+    </Style>
 
-    <kml:Placemark>
-      <kml:name>Soledad - Recorrido</kml:name>
-      <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Line_Normal</kml:styleUrl>
-      <kml:LineString>
-        <kml:tessellate>1</kml:tessellate>
-        <kml:coordinates>
+    <Placemark>
+      <name>Soledad - Recorrido</name>
+      <styleUrl>#Style_Parade_Salamanca_Soledad_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
           -5.66686,40.9609,0
           -5.66671,40.96108,0
           -5.66656,40.9613,0
@@ -306,209 +305,209 @@ xsi:schemaLocation="
           -5.66656,40.9613,0
           -5.66671,40.96108,0
           -5.66686,40.9609,0
-        </kml:coordinates>
-      </kml:LineString>
-    </kml:Placemark>
+        </coordinates>
+      </LineString>
+    </Placemark>
 
-    <kml:Folder>
-      <kml:name>Soledad - Markers</kml:name>
-      <kml:Placemark>
-        <kml:name>Catedral Nueva</kml:name>
-        <kml:address>Catedral Nueva  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_1</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+    <Folder>
+      <name>Soledad - Markers</name>
+      <Placemark>
+        <name>Catedral Nueva</name>
+        <address>Catedral Nueva  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
             -5.6668568,40.9609012,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Benedicto XVI</kml:name>
-        <kml:address>Calle Benedicto XVI  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_2</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
             -5.6665576,40.9613035,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Mayor</kml:name>
-        <kml:address>Rúa Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_3</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
             -5.6656947,40.9624657,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Palominos</kml:name>
-        <kml:address>Calle Palominos  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_4</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Palominos</name>
+        <address>Calle Palominos  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
             -5.6657436,40.9620668,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle San Pablo</kml:name>
-        <kml:address>Calle San Pablo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_5</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle San Pablo</name>
+        <address>Calle San Pablo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
             -5.6648559,40.9611843,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Concilio de Trento</kml:name>
-        <kml:address>Plaza del Concilio de Trento  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_6</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Concilio de Trento</name>
+        <address>Plaza del Concilio de Trento  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
             -5.6637313,40.9607941,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Atrio de San Esteban</kml:name>
-        <kml:address>Atrio de San Esteban  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_7</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atrio de San Esteban</name>
+        <address>Atrio de San Esteban  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
             -5.663265,40.960615,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Rosario</kml:name>
-        <kml:address>Calle Rosario  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_8</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Rosario</name>
+        <address>Calle Rosario  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
             -5.662679,40.961019,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Juan de la Fuente</kml:name>
-        <kml:address>Calle Juan de la Fuente  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_9</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Juan de la Fuente</name>
+        <address>Calle Juan de la Fuente  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
             -5.6633626,40.9615316,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Colón</kml:name>
-        <kml:address>Plaza de Colón  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_10</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Colón</name>
+        <address>Plaza de Colón  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
             -5.664040,40.961997,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle San Pablo</kml:name>
-        <kml:address>Calle San Pablo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_11</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle San Pablo</name>
+        <address>Calle San Pablo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
             -5.664131,40.963111,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Poeta Iglesias</kml:name>
-        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_12</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
             -5.6640916,40.9642839,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza Mayor</kml:name>
-        <kml:address>Plaza Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_13</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
             -5.664426,40.9645936,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Corrillo</kml:name>
-        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_14</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <address>Plaza del Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
             -5.6647796,40.9644478,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Mayor</kml:name>
-        <kml:address>Rúa Mayor</kml:address>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_15</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor</address>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
             -5.665339,40.9630034,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Anaya</kml:name>
-        <kml:address>Plaza de Anaya  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_16</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <address>Plaza de Anaya  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
             -5.6668432,40.961655,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Benedicto XVI</kml:name>
-        <kml:address>Calle Benedicto XVI  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_17</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
             -5.6665576,40.9613035,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Catedral Nueva</kml:name>
-        <kml:address>Catedral Nueva  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_Soledad_Marker_18</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catedral Nueva</name>
+        <address>Catedral Nueva  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_Soledad_Marker_18</styleUrl>
+        <Point>
+          <coordinates>
             -5.6668568,40.9609012,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-    </kml:Folder>
-  </kml:Document>
-</kml:kml>
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,202 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml:kml
-  xmlns:kml="http://www.opengis.net/kml/2.2" 
-  xmlns:gx="http://www.google.com/kml/ext/2.2"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="
-    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
-    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+<kml
+    xmlns:gx="http://www.google.com/kml/ext/2.2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+      http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+      http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
     
-  <kml:Document id="Parade_Salamanca_ViaCrucis">
-    <kml:name>Vía Crucis</kml:name>  
-    <kml:open>1</kml:open>
+  <Document id="Parade_Salamanca_ViaCrucis">
+    <name>Vía Crucis</name>  
+    <open>1</open>
     
-    <kml:description><![CDATA[JUEVES SANTO. Día 18 DE ABRIL<br><br>HERMANDAD DE NUESTRO PADRE JESÚS DEL VÍA CRUCIS<br><br>HORARIO: 18:15 H. <br>SALIDA: Auditorio de San Blas. <br>RECORRIDO: Plaza San Blas, Calle Ancha, plaza de las Agustinas, Compañía, Rúa Mayor, plaza del Corrillo, Juan del Rey, Prado, Prior, plaza Monterrey, Bordadores, Cuesta del Carmen, plaza de la Fuente, avenida Villamayor (Entrada al hospital de la Santísima Trinidad), avenida de Villamayor, Candelario, Filiberto Villalobos, Peña de Francia, y Atrio de la Parroquia de San Juan de Mata. <br>PASO: Nuestro Padre Jesús del Vía Crucis (Antonio Malmierca Zúñiga (2007).]]></kml:description>
+    <description><![CDATA[JUEVES SANTO. Día 18 DE ABRIL<br><br>HERMANDAD DE NUESTRO PADRE JESÚS DEL VÍA CRUCIS<br><br>HORARIO: 18:15 H. <br>SALIDA: Auditorio de San Blas. <br>RECORRIDO: Plaza San Blas, Calle Ancha, plaza de las Agustinas, Compañía, Rúa Mayor, plaza del Corrillo, Juan del Rey, Prado, Prior, plaza Monterrey, Bordadores, Cuesta del Carmen, plaza de la Fuente, avenida Villamayor (Entrada al hospital de la Santísima Trinidad), avenida de Villamayor, Candelario, Filiberto Villalobos, Peña de Francia, y Atrio de la Parroquia de San Juan de Mata. <br>PASO: Nuestro Padre Jesús del Vía Crucis (Antonio Malmierca Zúñiga (2007).]]></description>
 
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_1">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-1.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_2">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-2.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_3">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-3.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_4">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-4.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_5">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-5.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_6">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-6.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_7">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-7.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_8">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-8.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_9">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-9.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_10">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-10.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_11">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-11.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_12">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-12.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_13">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-13.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_14">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-14.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_15">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-15.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_16">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-16.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_17">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-17.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_18">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-18.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_19">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-19.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_20">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-20.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Marker_21">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-21.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_1">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_2">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_3">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_4">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_5">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_6">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_7">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_8">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_9">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_11">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_12">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_13">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_14">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_15">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_16">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_17">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_18">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-18.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Marker_21">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_ViaCrucis/marker-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
 
-    <kml:Style id="Style_Parade_Salamanca_ViaCrucis_Line_Normal">
-        <kml:LineStyle>
-          <kml:color>ffffff00</kml:color>
-          <kml:width>3</kml:width>
+    <Style id="Style_Parade_Salamanca_ViaCrucis_Line_Normal">
+        <LineStyle>
+          <color>ffffff00</color>
+          <width>3</width>
           <gx:outerColor>ffffff00</gx:outerColor>
           <gx:outerWidth>0.25</gx:outerWidth>
-        </kml:LineStyle>
-      </kml:Style>
+        </LineStyle>
+      </Style>
 
-      <kml:Placemark>
-        <kml:name>Via Crucis - Recorrido</kml:name>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Line_Normal</kml:styleUrl>
-        <kml:LineString>
-          <kml:tessellate>1</kml:tessellate>
-          <kml:coordinates>
+      <Placemark>
+        <name>Via Crucis - Recorrido</name>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Line_Normal</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
             -5.66983,40.96464,0
             -5.66982,40.96461,0
             -5.6698,40.96458,0
@@ -371,243 +370,243 @@
             -5.67512,40.97094,0
             -5.67519,40.97101,0
             -5.67501,40.97113,0
-          </kml:coordinates>
-        </kml:LineString>
-      </kml:Placemark>
+          </coordinates>
+        </LineString>
+      </Placemark>
 
-    <kml:Folder>
-      <kml:name>Via Crucis - Markers</kml:name>
-      <kml:Placemark>
-        <kml:name>Auditorio de San Blas</kml:name>
-        <kml:address>Auditorio de San Blas  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_1</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+    <Folder>
+      <name>Via Crucis - Markers</name>
+      <Placemark>
+        <name>Auditorio de San Blas</name>
+        <address>Auditorio de San Blas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
             -5.6742276,40.9648072,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza San Blas</kml:name>
-        <kml:address>Plaza San Blas  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_2</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza San Blas</name>
+        <address>Plaza San Blas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
             -5.6698327,40.9646412,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Ancha</kml:name>
-        <kml:address>Calle Ancha  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_3</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Ancha</name>
+        <address>Calle Ancha  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
             -5.6685852,40.964505,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de las Agustinas</kml:name>
-        <kml:address>Plaza de las Agustinas  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_4</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de las Agustinas</name>
+        <address>Plaza de las Agustinas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
             -5.6668743,40.9649625,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Compañía</kml:name>
-        <kml:address>Calle Compañía  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_5</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
             -5.6663808,40.9638679,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Mayor</kml:name>
-        <kml:address>Rúa Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_6</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
             -5.665339,40.9630034,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Corrillo</kml:name>
-        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_7</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <address>Plaza del Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
             -5.664837,40.964229,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Juan del Rey</kml:name>
-        <kml:address>Calle Juan del Rey  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_8</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Juan del Rey</name>
+        <address>Calle Juan del Rey  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
             -5.6655849,40.9642493,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Prado</kml:name>
-        <kml:address>Calle Prado  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_9</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prado</name>
+        <address>Calle Prado  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
             -5.665747,40.964588,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Prior</kml:name>
-        <kml:address>Calle Prior  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_10</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <address>Calle Prior  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
             -5.666039,40.965111,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza Monterrey</kml:name>
-        <kml:address>Plaza Monterrey  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_11</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Monterrey</name>
+        <address>Plaza Monterrey  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
             -5.666554,40.965156,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Bordadores</kml:name>
-        <kml:address>Calle Bordadores  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_12</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Bordadores</name>
+        <address>Calle Bordadores  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
             -5.6665265,40.966041,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Cuesta del Carmen</kml:name>
-        <kml:address>Cuesta del Carmen  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_13</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuesta del Carmen</name>
+        <address>Cuesta del Carmen  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
             -5.666530,40.966826,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de la Fuente</kml:name>
-        <kml:address>Plaza de la Fuente  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_14</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de la Fuente</name>
+        <address>Plaza de la Fuente  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
             -5.667250,40.967630,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Avenida Villamayor</kml:name>
-        <kml:address>Avenida Villamayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_15</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Villamayor</name>
+        <address>Avenida Villamayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
             -5.6700609,40.970447,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Hospital de la Santísima Trinidad</kml:name>
-        <kml:address>Hospital de la Santísima Trinidad  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_16</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hospital de la Santísima Trinidad</name>
+        <address>Hospital de la Santísima Trinidad  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
             -5.6691758,40.9681262,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Avenida de Villamayor</kml:name>
-        <kml:address>Avenida de Villamayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_17</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida de Villamayor</name>
+        <address>Avenida de Villamayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
             -5.670882,40.971560,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Candelario</kml:name>
-        <kml:address>Calle Candelario  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_18</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Candelario</name>
+        <address>Calle Candelario  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_18</styleUrl>
+        <Point>
+          <coordinates>
             -5.673016,40.9714684,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Avenida Filiberto Villalobos</kml:name>
-        <kml:address>Avenida Filiberto Villalobos  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_19</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Avenida Filiberto Villalobos</name>
+        <address>Avenida Filiberto Villalobos  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_19</styleUrl>
+        <Point>
+          <coordinates>
             -5.674828,40.970682,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Peña de Francia</kml:name>
-        <kml:address>Calle Peña de Francia  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_20</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Peña de Francia</name>
+        <address>Calle Peña de Francia  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_20</styleUrl>
+        <Point>
+          <coordinates>
             -5.675063,40.971083,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Parroquia de San Juan de Mata</kml:name>
-        <kml:address>Parroquia de San Juan de Mata  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_21</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parroquia de San Juan de Mata</name>
+        <address>Parroquia de San Juan de Mata  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_ViaCrucis_Marker_21</styleUrl>
+        <Point>
+          <coordinates>
             -5.6750098,40.9711278,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-    </kml:Folder>
-  </kml:Document>
-</kml:kml>
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

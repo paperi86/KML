@@ -1,210 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml:kml
-xmlns:kml="http://www.opengis.net/kml/2.2" 
-xmlns:gx="http://www.google.com/kml/ext/2.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="
-  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
-  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+<kml
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="
+    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
   
-  <kml:Document id="Parade_Salamanca_SantoEntierro">
-    <kml:name>Santo Entierro</kml:name>
-    <kml:open>1</kml:open>
-    <kml:description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br><br>HORARIO: 16:45 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Iglesia de la Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Rúa Antigua, plaza de San Isidro, Libreros, Calderón de la Barca, Benedicto XVI, plaza de Anaya, Rúa Mayor, Corrillo, Plaza Mayor (por el centro), Zamora, plaza de Los Bandos, Espoz y Mina, Prior, Bordadores, Úrsulas y Capilla de la Vera Cruz. <br>PASOS: La Flagelación del Salvador “Los Azotes” (Alejandro Carnicero, 1724). <br>El Balcón de Pilato “La Caña” (Juan de Villabrile y Ron, finales del S. XVII). <br>N. P. Jesús con la Cruz a Cuestas (Juan de Villabrile y Ron, finales del S. XVII). <br>La Caída (anónimo 1617/Francisco González Macías, 1943). <br>El Calvario (conjunto compuesto por el Stmo. Cristo de los Doctrinos (anónimo finales S. XVII), Virgen de la Amargura, San Juan (Pedro Hernández 1615) y María Magdalena (anónimo anterior a 1700). <br>Stma. Virgen de los Dolores (Felipe del Corral, S. XVIII). <br>Santo Sepulcro (anónimo, 1678) En el interior de la urna, Cristo Nuestro Bien (Pedro Hernández, 1615).]]></kml:description>
+  <Document id="Parade_Salamanca_SantoEntierro">
+    <name>Santo Entierro</name>
+    <open>1</open>
+    <description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br><br>HORARIO: 16:45 H. <br>SALIDA: Iglesia de la Vera Cruz. <br>RECORRIDO: Iglesia de la Vera Cruz, Domínguez Berrueta, Ramón y Cajal, plaza de las Agustinas, Compañía, Rúa Antigua, plaza de San Isidro, Libreros, Calderón de la Barca, Benedicto XVI, plaza de Anaya, Rúa Mayor, Corrillo, Plaza Mayor (por el centro), Zamora, plaza de Los Bandos, Espoz y Mina, Prior, Bordadores, Úrsulas y Capilla de la Vera Cruz. <br>PASOS: La Flagelación del Salvador “Los Azotes” (Alejandro Carnicero, 1724). <br>El Balcón de Pilato “La Caña” (Juan de Villabrile y Ron, finales del S. XVII). <br>N. P. Jesús con la Cruz a Cuestas (Juan de Villabrile y Ron, finales del S. XVII). <br>La Caída (anónimo 1617/Francisco González Macías, 1943). <br>El Calvario (conjunto compuesto por el Stmo. Cristo de los Doctrinos (anónimo finales S. XVII), Virgen de la Amargura, San Juan (Pedro Hernández 1615) y María Magdalena (anónimo anterior a 1700). <br>Stma. Virgen de los Dolores (Felipe del Corral, S. XVIII). <br>Santo Sepulcro (anónimo, 1678) En el interior de la urna, Cristo Nuestro Bien (Pedro Hernández, 1615).]]></description>
 
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_1">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-1.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_2">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-2.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_3">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-3.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_4">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-4.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_5">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-5.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_6">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-6.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_7">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-7.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_8">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-8.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_9">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-9.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_10">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-10.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_11">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-11.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_12">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-12.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_13">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-13.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_14">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-14.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_15">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-15.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_16">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-16.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_17">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-17.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_18">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-18.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_19">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-19.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_20">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-20.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_21">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-21.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Marker_22">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-22.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_1">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_2">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_3">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_4">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_5">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_6">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_7">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_8">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_9">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_11">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_12">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_13">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_14">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_15">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_16">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_17">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_18">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-18.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_21">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Marker_22">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_SantoEntierro/marker-22.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
 
-    <kml:Style id="Style_Parade_Salamanca_SantoEntierro_Line_Normal">
-      <kml:LineStyle>
-        <kml:color>ff60a0e0</kml:color>
-        <kml:width>10</kml:width>
+    <Style id="Style_Parade_Salamanca_SantoEntierro_Line_Normal">
+      <LineStyle>
+        <color>ff60a0e0</color>
+        <width>10</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </kml:LineStyle>
-    </kml:Style>
+      </LineStyle>
+    </Style>
 
-    <kml:Placemark>
-      <kml:name>Santo Entierro - Recorrido</kml:name>
-      <kml:description>Santo Entierro - Recorrido, Salamanca</kml:description>
-      <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Line_Normal</kml:styleUrl>
-      <kml:LineString>
-        <kml:tessellate>1</kml:tessellate>
-        <kml:coordinates>
+    <Placemark>
+      <name>Santo Entierro - Recorrido</name>
+      <description>Santo Entierro - Recorrido, Salamanca</description>
+      <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
           -5.66774,40.96617,0
           -5.66761,40.96612,0
           -5.66762,40.96611,0
@@ -343,232 +342,232 @@ xsi:schemaLocation="
           -5.66762,40.96611,0
           -5.66761,40.96612,0
           -5.66774,40.96617,0
-        </kml:coordinates>
-      </kml:LineString>
-    </kml:Placemark>
+        </coordinates>
+      </LineString>
+    </Placemark>
     
-    <kml:Folder>
-      <kml:name>Placemarks</kml:name>
-      <kml:Placemark>
-        <kml:name>Iglesia de la Vera Cruz</kml:name>
-        <kml:description>Iglesia de la Vera Cruz, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_1</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+    <Folder>
+      <name>Placemarks</name>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <description>Iglesia de la Vera Cruz, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
             -5.6677418,40.9661729,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Domínguez Berrueta</kml:name>
-        <kml:description>Calle Domínguez Berrueta, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_2</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Domínguez Berrueta</name>
+        <description>Calle Domínguez Berrueta, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
             -5.6680438,40.965755,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Ramón y Cajal</kml:name>
-        <kml:description>Calle Ramón y Cajal, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_3</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Ramón y Cajal</name>
+        <description>Calle Ramón y Cajal, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
             -5.668034,40.965431,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de las Agustinas</kml:name>
-        <kml:description>Plaza de las Agustinas, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_4</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de las Agustinas</name>
+        <description>Plaza de las Agustinas, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
             -5.6668743,40.9649625,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Compañía</kml:name>
-        <kml:description>Calle Compañía, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_5</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <description>Calle Compañía, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
             -5.666381,40.963868,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Antigua</kml:name>
-        <kml:description>Rúa Antigua, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_6</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <description>Rúa Antigua, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
             -5.6659574,40.962656,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de San Isidro</kml:name>
-        <kml:description>Plaza de San Isidro, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_7</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Isidro</name>
+        <description>Plaza de San Isidro, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
             -5.6664645,40.9625054,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Libreros</kml:name>
-        <kml:description>Calle Libreros, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_8</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <description>Calle Libreros, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
             -5.667551,40.9611596,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Calderón de la Barca</kml:name>
-        <kml:description>Calle Calderón de la Barca, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_9</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Calderón de la Barca</name>
+        <description>Calle Calderón de la Barca, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
             -5.667218,40.9609892,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Benedicto XVI</kml:name>
-        <kml:description>Calle Benedicto XVI, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_10</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <description>Calle Benedicto XVI, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
             -5.6665576,40.9613035,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Anaya</kml:name>
-        <kml:description>Plaza de Anaya, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_11</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <description>Plaza de Anaya, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
             -5.6657845,40.9614516,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Mayor</kml:name>
-        <kml:description>Rúa Mayor, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_12</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <description>Rúa Mayor, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
             -5.665339,40.9630034,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Corrillo</kml:name>
-        <kml:description>Calle Corrillo, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_13</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Corrillo</name>
+        <description>Calle Corrillo, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
             -5.6647796,40.9644478,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza Mayor</kml:name>
-        <kml:description>Plaza Mayor, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_14</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <description>Plaza Mayor, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
             -5.6640255,40.9650549,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Zamora</kml:name>
-        <kml:description>Calle Zamora, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_15</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Zamora</name>
+        <description>Calle Zamora, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
             -5.663992,40.965761,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Los Bandos</kml:name>
-        <kml:description>Plaza de Los Bandos, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_16</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Los Bandos</name>
+        <description>Plaza de Los Bandos, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
             -5.664074,40.966974,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Espoz y Mina</kml:name>
-        <kml:description>Calle Espoz y Mina, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_17</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Espoz y Mina</name>
+        <description>Calle Espoz y Mina, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
             -5.6652097,40.9659524,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Prior</kml:name>
-        <kml:description>Calle Prior, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_18</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <description>Calle Prior, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_18</styleUrl>
+        <Point>
+          <coordinates>
             -5.665441,40.964975,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Bordadores</kml:name>
-        <kml:description>Calle Bordadores, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_19</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Bordadores</name>
+        <description>Calle Bordadores, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_19</styleUrl>
+        <Point>
+          <coordinates>
             -5.666577,40.965552,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Úrsulas</kml:name>
-        <kml:description>Calle Úrsulas, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_20</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Úrsulas</name>
+        <description>Calle Úrsulas, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_20</styleUrl>
+        <Point>
+          <coordinates>
             -5.6672599,40.96588,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Iglesia de la Vera Cruz</kml:name>
-        <kml:description>Iglesia de la Vera Cruz, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_21</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <description>Iglesia de la Vera Cruz, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_21</styleUrl>
+        <Point>
+          <coordinates>
             -5.6677418,40.9661729,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Iglesia de la Vera Cruz</kml:name>
-        <kml:description>Iglesia de la Vera Cruz, Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_22</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Vera Cruz</name>
+        <description>Iglesia de la Vera Cruz, Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_SantoEntierro_Marker_22</styleUrl>
+        <Point>
+          <coordinates>
             -5.6677418,40.9661729,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-    </kml:Folder>
-  </kml:Document>
-</kml:kml>
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

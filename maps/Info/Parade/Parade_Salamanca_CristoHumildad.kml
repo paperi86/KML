@@ -1,265 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml:kml 
-  xmlns:kml="http://www.opengis.net/kml/2.2" 
-  xmlns:gx="http://www.google.com/kml/ext/2.2"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="
-    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
-    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+<kml 
+    xmlns:gx="http://www.google.com/kml/ext/2.2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+      http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+      http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
     
-  <kml:Document id="Parade_Salamanca_CristoHumildad">
-    <kml:name>Cristo de la Humildad</kml:name>
-    <kml:open>1</kml:open>
-    <kml:description><![CDATA[SÁBADO DE PASIÓN<br>HORARIO: 22:00 H. <br>SALIDA: Iglesia de San Martín. <br>RECORRIDO: Quintana, Juan del Rey, Prado, plaza de San Benito, Cañizal, Carniceros, Rabanal, Cervantes, Traviesa, Libreros, Tavira, Horno, Tentenecio, Gibraltar, Patio Chico (acto central, con oración y música coral), Arcediano, plaza de los Leones, Doyagüe, plaza de Carvajal, San Vicente Ferrer, Silencio, Tostado, plaza de Anaya, Francisco Vitoria, Rúa Antigua, Compañía, Meléndez, Corrillo y Quintana. <br>PASO: Santísimo Cristo de la Humildad (Fernando Mayoral, 2017)]]></kml:description>
+  <Document id="Parade_Salamanca_CristoHumildad">
+    <name>Cristo de la Humildad</name>
+    <open>1</open>
+    <description><![CDATA[SÁBADO DE PASIÓN<br>HORARIO: 22:00 H. <br>SALIDA: Iglesia de San Martín. <br>RECORRIDO: Quintana, Juan del Rey, Prado, plaza de San Benito, Cañizal, Carniceros, Rabanal, Cervantes, Traviesa, Libreros, Tavira, Horno, Tentenecio, Gibraltar, Patio Chico (acto central, con oración y música coral), Arcediano, plaza de los Leones, Doyagüe, plaza de Carvajal, San Vicente Ferrer, Silencio, Tostado, plaza de Anaya, Francisco Vitoria, Rúa Antigua, Compañía, Meléndez, Corrillo y Quintana. <br>PASO: Santísimo Cristo de la Humildad (Fernando Mayoral, 2017)]]></description>
 
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_1">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-1.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_2">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-2.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_3">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-3.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_4">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-4.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_5">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-5.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_6">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-6.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_7">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-7.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_8">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-8.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_9">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-9.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_10">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-10.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_11">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-11.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_12">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-12.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_13">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-13.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_14">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-14.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_15">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-15.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_16">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-16.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_17">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-17.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_18">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-18.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_19">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-19.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_20">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-20.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_21">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-21.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_22">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-22.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_23">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-23.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_24">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-24.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_25">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-25.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_26">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-26.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_27">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-27.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_28">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-28.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Marker_29">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-29.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_1">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_2">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_3">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_4">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_5">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_6">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_7">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_8">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_9">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_11">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_12">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_13">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_14">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_15">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_16">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_17">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_18">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-18.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_21">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_22">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-22.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_23">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-23.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_24">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-24.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_25">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-25.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_26">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-26.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_27">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-27.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_28">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-28.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Marker_29">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_CristoHumildad/marker-29.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     
-    <kml:Style id="Style_Parade_Salamanca_CristoHumildad_Line_Normal">
-      <kml:LineStyle>
-        <kml:color>ff202020</kml:color>
-        <kml:width>8</kml:width>
+    <Style id="Style_Parade_Salamanca_CristoHumildad_Line_Normal">
+      <LineStyle>
+        <color>ff202020</color>
+        <width>8</width>
         <gx:outerColor>ffd9d9d9</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </kml:LineStyle>
-    </kml:Style>
+      </LineStyle>
+    </Style>
 
-    <kml:Placemark>
-      <kml:name>Cristo de la Humildad - Recorrido</kml:name>
-      <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Line_Normal</kml:styleUrl>
-      <kml:LineString>
-        <kml:tessellate>1</kml:tessellate>
-        <kml:coordinates>
+    <Placemark>
+      <name>Cristo de la Humildad - Recorrido</name>
+      <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
           -5.66452,40.96413,0
           -5.66463,40.96411,0
           -5.6648,40.9641,0
@@ -431,302 +430,302 @@
           -5.6648,40.9641,0
           -5.66463,40.96411,0
           -5.66452,40.96413,0
-        </kml:coordinates>
-      </kml:LineString>
-    </kml:Placemark>
+        </coordinates>
+      </LineString>
+    </Placemark>
 
-    <kml:Folder>
-      <kml:name>Cristo de la Humildad</kml:name>
-      <kml:Placemark>
-        <kml:name>Quintana</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_1</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+    <Folder>
+      <name>Cristo de la Humildad</name>
+      <Placemark>
+        <name>Quintana</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
             -5.6645175,40.9641302,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Juan del Rey</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_2</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan del Rey</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
             -5.6655647,40.9642421,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Prado</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_3</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prado</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
             -5.665738,40.964601,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de San Benito</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_4</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Benito</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
             -5.6660906,40.9636818,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Cañizal</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_5</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cañizal</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
             -5.6671506,40.9638957,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Carniceros</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_6</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carniceros</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
             -5.6679934,40.9634602,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rabanal</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_7</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rabanal</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
             -5.667742,40.963152,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Cervantes</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_8</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cervantes</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
             -5.6674175,40.9630897,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Traviesa</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_9</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Traviesa</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
             -5.6676024,40.9619828,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Libreros</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_10</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Libreros</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
             -5.667338,40.961489,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Tavira</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_11</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tavira</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
             -5.6677363,40.9605733,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Horno</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_12</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horno</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
             -5.667772,40.960343,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Tentenecio</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_13</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tentenecio</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
             -5.6672789,40.9597869,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Gibraltar</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_14</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gibraltar</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
             -5.6667289,40.959714,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Patio Chico</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_15</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patio Chico</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
             -5.665712,40.959970,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Arcediano</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_16</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Arcediano</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
             -5.6658703,40.9599248,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de los Leones</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_17</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de los Leones</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
             -5.6656654,40.9600313,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Doyagüe</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_18</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doyagüe</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_18</styleUrl>
+        <Point>
+          <coordinates>
             -5.6651646,40.9599948,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Carvajal</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_19</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Carvajal</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_19</styleUrl>
+        <Point>
+          <coordinates>
             -5.6649413,40.9599323,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>San Vicente Ferrer</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_20</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Vicente Ferrer</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_20</styleUrl>
+        <Point>
+          <coordinates>
             -5.6655287,40.9603536,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Silencio</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_21</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Silencio</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_21</styleUrl>
+        <Point>
+          <coordinates>
             -5.6649954,40.9607576,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Tostado</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_22</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Tostado</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_22</styleUrl>
+        <Point>
+          <coordinates>
             -5.6651894,40.9609637,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Anaya</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_23</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_23</styleUrl>
+        <Point>
+          <coordinates>
             -5.6657845,40.9614516,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Francisco Vitoria</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_24</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Francisco Vitoria</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_24</styleUrl>
+        <Point>
+          <coordinates>
             -5.6664596,40.9621005,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Antigua</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_25</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_25</styleUrl>
+        <Point>
+          <coordinates>
             -5.6659574,40.962656,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Compañía</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_26</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Compañía</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_26</styleUrl>
+        <Point>
+          <coordinates>
             -5.6663808,40.9638679,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Meléndez</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_27</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meléndez</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_27</styleUrl>
+        <Point>
+          <coordinates>
             -5.6656443,40.9636939,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Corrillo</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_28</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_28</styleUrl>
+        <Point>
+          <coordinates>
             -5.664815,40.964238,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Quintana</kml:name>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_29</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quintana</name>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_CristoHumildad_Marker_29</styleUrl>
+        <Point>
+          <coordinates>
             -5.6645175,40.9641302,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-    </kml:Folder>
-  </kml:Document>
-</kml:kml>
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

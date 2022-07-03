@@ -1,175 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml:kml
-xmlns:kml="http://www.opengis.net/kml/2.2" 
-xmlns:gx="http://www.google.com/kml/ext/2.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="
-  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
-  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+<kml
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="
+    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
   
-  <kml:Document id="Parade_Salamanca_JesusNazareno">
-    <kml:name>Jesús Nazareno</kml:name>
-    <kml:open>1</kml:open>
-    <kml:description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br>HORARIO: 18:30 H. <br>SALIDA: Iglesia de San Julián y Santa Basilisa. <br>RECORRIDO: Iglesia de San Julián, Obispo Jarrín, plaza del Mercado, plaza del Poeta Iglesias, Plaza Mayor, salida Plaza Mayor por el arco de Prior, Prior, plaza de Monterrey, Compañía, Rúa Antigua, Francisco Vitoria, plaza de Anaya, Rúa Mayor, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, plaza del Mercado, Obispo Jarrín, iglesia de San Julián. <br>PASOS: Jesús en la calle de la Amargura (la figura de Jesús, el Cirineo, el soldado y el sayón (José de Larra Churriguera, 1716) la Virgen María (Antonio Hernández, 1797). <br>Santo Entierro (Francisco González Macías, 1942).]]></kml:description>
+  <Document id="Parade_Salamanca_JesusNazareno">
+    <name>Jesús Nazareno</name>
+    <open>1</open>
+    <description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br>HORARIO: 18:30 H. <br>SALIDA: Iglesia de San Julián y Santa Basilisa. <br>RECORRIDO: Iglesia de San Julián, Obispo Jarrín, plaza del Mercado, plaza del Poeta Iglesias, Plaza Mayor, salida Plaza Mayor por el arco de Prior, Prior, plaza de Monterrey, Compañía, Rúa Antigua, Francisco Vitoria, plaza de Anaya, Rúa Mayor, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, plaza del Mercado, Obispo Jarrín, iglesia de San Julián. <br>PASOS: Jesús en la calle de la Amargura (la figura de Jesús, el Cirineo, el soldado y el sayón (José de Larra Churriguera, 1716) la Virgen María (Antonio Hernández, 1797). <br>Santo Entierro (Francisco González Macías, 1942).]]></description>
 
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_1">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-1.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_2">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-2.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_3">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-3.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_4">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-4.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_5">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-5.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_6">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-6.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_7">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-7.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_8">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-8.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_9">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-9.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_10">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-10.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_11">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-11.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_12">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-12.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_13">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-13.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_14">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-14.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_15">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-15.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_16">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-16.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_17">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-17.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Marker_18">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-18.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusNazareno_Line_Normal">
-        <kml:LineStyle>
-          <kml:color>ff804080</kml:color>
-          <kml:width>8</kml:width>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_1">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_2">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_3">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_4">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_5">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_6">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_7">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_8">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_9">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_11">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_12">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_13">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_14">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_15">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_16">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_17">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Marker_18">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusNazareno/marker-18.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusNazareno_Line_Normal">
+        <LineStyle>
+          <color>ff804080</color>
+          <width>8</width>
           <gx:outerColor>ffffffff</gx:outerColor>
           <gx:outerWidth>0.25</gx:outerWidth>
-        </kml:LineStyle>
-      </kml:Style>
-      <kml:Placemark>
-        <kml:name>Recorrido</kml:name>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Line_Normal</kml:styleUrl>
-        <kml:LineString>
-          <kml:tessellate>1</kml:tessellate>
-          <kml:coordinates>
+        </LineStyle>
+      </Style>
+      <Placemark>
+        <name>Recorrido</name>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Line_Normal</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
             -5.66212,40.96476,0
             -5.66211,40.96476,0
             -5.6622,40.96477,0
@@ -288,198 +287,198 @@ xsi:schemaLocation="
             -5.66232,40.9648,0
             -5.6622,40.96477,0
             -5.66211,40.96476,0
-          </kml:coordinates>
-        </kml:LineString>
-      </kml:Placemark>
-    <kml:Folder>
-      <kml:name>Jesus Nazareno - Markers</kml:name>
-      <kml:Placemark>
-        <kml:name>Iglesia de San Julián</kml:name>
-        <kml:address>Iglesia de San Julián  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_1</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </LineString>
+      </Placemark>
+    <Folder>
+      <name>Jesus Nazareno - Markers</name>
+      <Placemark>
+        <name>Iglesia de San Julián</name>
+        <address>Iglesia de San Julián  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
             -5.6621239,40.9647592,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Obispo Jarrín</kml:name>
-        <kml:address>Calle Obispo Jarrín  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_2</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Obispo Jarrín</name>
+        <address>Calle Obispo Jarrín  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
             -5.6621139,40.9647573,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Mercado</kml:name>
-        <kml:address>Plaza del Mercado  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_3</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Mercado</name>
+        <address>Plaza del Mercado  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
             -5.6636059,40.9647744,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Poeta Iglesias</kml:name>
-        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_4</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
             -5.664083,40.964373,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza Mayor</kml:name>
-        <kml:address>Plaza Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_5</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
             -5.6649738,40.9645959,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Prior</kml:name>
-        <kml:address>Calle Prior  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_6</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prior</name>
+        <address>Calle Prior  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
             -5.6650242,40.9648898,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Monterrey</kml:name>
-        <kml:address>Plaza de Monterrey  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_7</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Monterrey</name>
+        <address>Plaza de Monterrey  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
             -5.666554,40.965156,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Compañía</kml:name>
-        <kml:address>Calle Compañía  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_8</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
             -5.6663808,40.9638679,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Antigua</kml:name>
-        <kml:address>Rúa Antigua  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_9</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <address>Rúa Antigua  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
             -5.6659574,40.962656,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Francisco Vitoria</kml:name>
-        <kml:address>Calle Francisco Vitoria  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_10</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Francisco Vitoria</name>
+        <address>Calle Francisco Vitoria  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
             -5.6664596,40.9621005,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Anaya</kml:name>
-        <kml:address>Plaza de Anaya  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_11</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <address>Plaza de Anaya  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
             -5.6657775,40.9610536,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Mayor</kml:name>
-        <kml:address>Rúa Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_12</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
             -5.665339,40.9630034,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Corrillo</kml:name>
-        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_13</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <address>Plaza del Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
             -5.6647971,40.9641168,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Poeta Iglesias</kml:name>
-        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_14</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
             -5.6637381,40.9642867,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Mercado</kml:name>
-        <kml:address>Plaza del Mercado  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_15</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Mercado</name>
+        <address>Plaza del Mercado  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
             -5.6636059,40.9647744,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Obispo Jarrín</kml:name>
-        <kml:address>Calle Obispo Jarrín  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_16</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Obispo Jarrín</name>
+        <address>Calle Obispo Jarrín  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
             -5.6621139,40.9647573,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Iglesia de San Julián</kml:name>
-        <kml:address>Iglesia de San Julián  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_17</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de San Julián</name>
+        <address>Iglesia de San Julián  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusNazareno_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
             -5.6621239,40.9647592,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-    </kml:Folder>
-  </kml:Document> 
-</kml:kml>
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document> 
+</kml>

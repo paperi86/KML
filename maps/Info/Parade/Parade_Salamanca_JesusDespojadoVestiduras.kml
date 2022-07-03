@@ -1,208 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml:kml 
-xmlns:kml="http://www.opengis.net/kml/2.2" 
-xmlns:gx="http://www.google.com/kml/ext/2.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="
-  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
-  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+<kml 
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="
+    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
   
-  <kml:Document id="Parade_Salamanca_JesusDespojadoVestiduras">
-    <kml:name>Jesús Despojado de sus Vestiduras</kml:name>
-    <kml:open>1</kml:open>
-    <kml:description><![CDATA[DOMINGO DE RAMOS. Día 14 DE ABRIL<br><br> HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS DESPOJADO DE SUS VESTIDURAS Y MARÍA SANTÍSIMA DE LA CARIDAD Y DEL CONSUELO<br><br>HORARIO: 18:00 H. <br>SALIDA: Iglesia de la Purísima. <br>RECORRIDO: Iglesia de La Purísima, plaza de las Agustinas, Compañía, Isla de la Rúa Mayor, Rúa Mayor, plaza de Anaya, Benedicto XVI, (Entrada a la Catedral por la Puerta del Obispo y Estación de Penitencia ante el Santísimo Sacramento del Altar), salida de la Catedral por la Puerta del Obispo, Calderón de la Barca, Libreros, plaza de San Isidro, Rúa Antigua, Rúa Mayor, Quintana, plaza del Poeta Iglesias, Plaza Mayor, plaza del Corrillo, Juan del Rey, Prado, Doctrinos, Compañía, plaza de las Agustinas, Iglesia de la Purísima. <br>PASOS: Nuestro Padre Jesús Despojado de sus Vestiduras (Francisco Romero Zafra, 2012). <br>María Santísima de la Caridad y del Consuelo (Francisco Romero Zafra, 2013).]]></kml:description>
+  <Document id="Parade_Salamanca_JesusDespojadoVestiduras">
+    <name>Jesús Despojado de sus Vestiduras</name>
+    <open>1</open>
+    <description><![CDATA[DOMINGO DE RAMOS. Día 14 DE ABRIL<br><br> HERMANDAD DE PENITENCIA DE NUESTRO PADRE JESÚS DESPOJADO DE SUS VESTIDURAS Y MARÍA SANTÍSIMA DE LA CARIDAD Y DEL CONSUELO<br><br>HORARIO: 18:00 H. <br>SALIDA: Iglesia de la Purísima. <br>RECORRIDO: Iglesia de La Purísima, plaza de las Agustinas, Compañía, Isla de la Rúa Mayor, Rúa Mayor, plaza de Anaya, Benedicto XVI, (Entrada a la Catedral por la Puerta del Obispo y Estación de Penitencia ante el Santísimo Sacramento del Altar), salida de la Catedral por la Puerta del Obispo, Calderón de la Barca, Libreros, plaza de San Isidro, Rúa Antigua, Rúa Mayor, Quintana, plaza del Poeta Iglesias, Plaza Mayor, plaza del Corrillo, Juan del Rey, Prado, Doctrinos, Compañía, plaza de las Agustinas, Iglesia de la Purísima. <br>PASOS: Nuestro Padre Jesús Despojado de sus Vestiduras (Francisco Romero Zafra, 2012). <br>María Santísima de la Caridad y del Consuelo (Francisco Romero Zafra, 2013).]]></description>
 
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_1">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-1.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_2">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-2.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_3">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-3.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_4">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-4.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_5">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-5.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_6">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-6.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_7">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-7.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_8">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-8.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_9">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-9.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_10">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-10.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_11">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-11.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_12">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-12.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_13">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-13.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_14">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-14.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_15">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-15.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_16">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-16.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_17">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-17.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_18">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-18.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_19">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-19.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_20">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-20.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_21">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-21.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_22">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-22.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_1">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_2">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_3">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_4">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_5">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_6">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_7">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_8">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_9">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_11">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_12">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_13">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_14">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_15">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_16">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_17">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_18">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-18.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_19">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_20">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_21">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_22">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_JesusDespojadoVestiduras/marker-22.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
 
-    <kml:Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Line_Normal">
-      <kml:LineStyle>
-        <kml:color>ff606060</kml:color>
-        <kml:width>8</kml:width>
+    <Style id="Style_Parade_Salamanca_JesusDespojadoVestiduras_Line_Normal">
+      <LineStyle>
+        <color>ff606060</color>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.25</gx:outerWidth>
-      </kml:LineStyle>
-    </kml:Style>
-      <kml:Placemark>
-        <kml:name>Recorrido</kml:name>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Line_Normal</kml:styleUrl>
-        <kml:LineString>
-          <kml:tessellate>1</kml:tessellate>
-          <kml:coordinates>
+      </LineStyle>
+    </Style>
+      <Placemark>
+        <name>Recorrido</name>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Line_Normal</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
             -5.66703,40.965,0
             -5.66703,40.96498,0
             -5.66702,40.96498,0
@@ -313,254 +312,254 @@ xsi:schemaLocation="
             -5.66702,40.96498,0
             -5.66703,40.96498,0
             -5.66703,40.965,0
-          </kml:coordinates>
-        </kml:LineString>
-      </kml:Placemark>
+          </coordinates>
+        </LineString>
+      </Placemark>
 
-    <kml:Folder>
-      <kml:name>Jesús Despojado de sus Vestiduras - Markers</kml:name>
-      <kml:Placemark>
-        <kml:name>Iglesia de La Purísima</kml:name>
-        <kml:address>Iglesia de La Purísima  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_1</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+    <Folder>
+      <name>Jesús Despojado de sus Vestiduras - Markers</name>
+      <Placemark>
+        <name>Iglesia de La Purísima</name>
+        <address>Iglesia de La Purísima  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
             -5.6670257,40.9650041,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de las Agustinas</kml:name>
-        <kml:address>Plaza de las Agustinas  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_2</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de las Agustinas</name>
+        <address>Plaza de las Agustinas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
             -5.667026,40.9650007,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Compañía</kml:name>
-        <kml:address>Calle Compañía  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_3</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
             -5.6663808,40.9638679,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Mayor</kml:name>
-        <kml:address>Rúa Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_4</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
             -5.665339,40.9630034,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de Anaya</kml:name>
-        <kml:address>Plaza de Anaya  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_5</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de Anaya</name>
+        <address>Plaza de Anaya  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
             -5.6657775,40.9610536,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Benedicto XVI</kml:name>
-        <kml:address>Calle Benedicto XVI  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_6</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
             -5.6665576,40.9613035,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Catedral Nueva</kml:name>
-        <kml:address>Catedral Nueva  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_7</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Catedral Nueva</name>
+        <address>Catedral Nueva  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
             -5.6665546,40.960868,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Calderón de la Barca</kml:name>
-        <kml:address>Calle Calderón de la Barca  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_8</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Calderón de la Barca</name>
+        <address>Calle Calderón de la Barca  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
             -5.6672142,40.9608435,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Libreros</kml:name>
-        <kml:address>Calle Libreros  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_9</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Libreros</name>
+        <address>Calle Libreros  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
             -5.667551,40.9611596,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de San Isidro</kml:name>
-        <kml:address>Plaza de San Isidro  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_10</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de San Isidro</name>
+        <address>Plaza de San Isidro  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
             -5.6664645,40.9625054,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Antigua</kml:name>
-        <kml:address>Rúa Antigua  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_11</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Antigua</name>
+        <address>Rúa Antigua  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
             -5.6659574,40.962656,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Mayor</kml:name>
-        <kml:address>Rúa Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_12</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
             -5.665339,40.9630034,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Quintana</kml:name>
-        <kml:address>Calle Quintana  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_13</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Quintana</name>
+        <address>Calle Quintana  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
             -5.6645175,40.9641302,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Poeta Iglesias</kml:name>
-        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_14</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
             -5.664083,40.964373,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza Mayor</kml:name>
-        <kml:address>Plaza Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_15</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
             -5.6649738,40.9645959,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Corrillo</kml:name>
-        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_16</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <address>Plaza del Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_16</styleUrl>
+        <Point>
+          <coordinates>
             -5.6647971,40.9641168,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Juan del Rey</kml:name>
-        <kml:address>Calle Juan del Rey  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_17</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Juan del Rey</name>
+        <address>Calle Juan del Rey  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_17</styleUrl>
+        <Point>
+          <coordinates>
             -5.6655647,40.9642421,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Prado</kml:name>
-        <kml:address>Calle Prado  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_18</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Prado</name>
+        <address>Calle Prado  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_18</styleUrl>
+        <Point>
+          <coordinates>
             -5.665760,40.964556,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Doctrinos</kml:name>
-        <kml:address>Calle Doctrinos  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_19</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Doctrinos</name>
+        <address>Calle Doctrinos  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_19</styleUrl>
+        <Point>
+          <coordinates>
             -5.6660047,40.9647181,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Compañía</kml:name>
-        <kml:address>Calle Compañía  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_20</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Compañía</name>
+        <address>Calle Compañía  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_20</styleUrl>
+        <Point>
+          <coordinates>
             -5.666070,40.962823,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza de las Agustinas</kml:name>
-        <kml:address>Plaza de las Agustinas  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_21</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza de las Agustinas</name>
+        <address>Plaza de las Agustinas  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_21</styleUrl>
+        <Point>
+          <coordinates>
             -5.667026,40.9650007,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Iglesia de la Purísima</kml:name>
-        <kml:address>Iglesia de la Purísima  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_22</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia de la Purísima</name>
+        <address>Iglesia de la Purísima  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_JesusDespojadoVestiduras_Marker_22</styleUrl>
+        <Point>
+          <coordinates>
             -5.6670257,40.9650041,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-    </kml:Folder>
-  </kml:Document>
-</kml:kml>
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

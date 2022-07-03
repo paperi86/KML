@@ -1,153 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml:kml
-xmlns:kml="http://www.opengis.net/kml/2.2" 
-xmlns:gx="http://www.google.com/kml/ext/2.2"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="
-  http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
-  http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
+<kml
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="
+    http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd
+    http://www.google.com/kml/ext/2.2 http://developers.google.com/kml/schema/kml22gx.xsd">
   
-  <kml:Document id="Parade_Salamanca_OracionEnHuerto">
-    <kml:name>Oración en el Huerto</kml:name>
-    <kml:open>1</kml:open>
-    <kml:description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br>HORARIO: 18:00 H. <br>SALIDA: Iglesia del Carmen del Abajo. <br>RECORRIDO: Iglesia del Carmen de Abajo, Arroyo de Santo Domingo, Rector Esperabé, Ribera del Puente, Tentenecio, plaza Juan XXIII, Benedicto XVI, Rúa Mayor, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, San Pablo, Juan de la Fuente, plaza Concilio de Trento, Arroyo de Santo Domingo, Iglesia del Carmen de Abajo. <br>PASO: Oración de Jesús en el Huerto de los Olivos (Siglos, XVII y XVIII).]]></kml:description>
+  <Document id="Parade_Salamanca_OracionEnHuerto">
+    <name>Oración en el Huerto</name>
+    <open>1</open>
+    <description><![CDATA[VIERNES SANTO. Día 19 DE ABRIL<br>HORARIO: 18:00 H. <br>SALIDA: Iglesia del Carmen del Abajo. <br>RECORRIDO: Iglesia del Carmen de Abajo, Arroyo de Santo Domingo, Rector Esperabé, Ribera del Puente, Tentenecio, plaza Juan XXIII, Benedicto XVI, Rúa Mayor, plaza del Corrillo, Plaza Mayor, plaza del Poeta Iglesias, San Pablo, Juan de la Fuente, plaza Concilio de Trento, Arroyo de Santo Domingo, Iglesia del Carmen de Abajo. <br>PASO: Oración de Jesús en el Huerto de los Olivos (Siglos, XVII y XVIII).]]></description>
 
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_1">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-1.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_2">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-2.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_3">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-3.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_4">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-4.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_5">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-5.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_6">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-6.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_7">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-7.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_8">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-8.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_9">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-9.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_10">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-10.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_11">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-11.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_12">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-12.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_13">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-13.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_14">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-14.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_15">
-      <kml:IconStyle>
-        <kml:scale>1</kml:scale>
-        <kml:Icon>
-          <kml:href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-15.png</kml:href>
-        </kml:Icon>
-      </kml:IconStyle>
-    </kml:Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_1">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_2">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_3">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_4">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_5">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_6">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_7">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_8">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_9">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_10">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_11">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_12">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_13">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_14">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Marker_15">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/paperi86/KML/main/MapMarkers/Parade_Salamanca_OracionEnHuerto/marker-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     
-    <kml:Style id="Style_Parade_Salamanca_OracionEnHuerto_Line_Normal">
-      <kml:LineStyle>
-        <kml:color>ff108040</kml:color>
-        <kml:width>8</kml:width>
+    <Style id="Style_Parade_Salamanca_OracionEnHuerto_Line_Normal">
+      <LineStyle>
+        <color>ff108040</color>
+        <width>8</width>
         <gx:outerColor>ffffffff</gx:outerColor>
         <gx:outerWidth>0.5</gx:outerWidth>
-      </kml:LineStyle>
-    </kml:Style>
+      </LineStyle>
+    </Style>
 
-    <kml:Placemark>
-      <kml:name>Recorrido</kml:name>
-      <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Line_Normal</kml:styleUrl>
-      <kml:LineString>
-        <kml:tessellate>1</kml:tessellate>
-        <kml:coordinates>
+    <Placemark>
+      <name>Recorrido</name>
+      <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Line_Normal</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
           -5.66386,40.95895,0
           -5.66386,40.95891,0
           -5.66387,40.95888,0
@@ -326,177 +325,177 @@ xsi:schemaLocation="
           -5.66381,40.95917,0
           -5.66384,40.95904,0
           -5.66386,40.95895,0
-        </kml:coordinates>
-      </kml:LineString>
-    </kml:Placemark>
+        </coordinates>
+      </LineString>
+    </Placemark>
 
-    <kml:Folder>
-      <kml:name>Huerto de los Olivos - Markers</kml:name>
-      <kml:Placemark>
-        <kml:name>Iglesia del Carmen de Abajo</kml:name>
-        <kml:address>Iglesia del Carmen de Abajo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_1</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+    <Folder>
+      <name>Huerto de los Olivos - Markers</name>
+      <Placemark>
+        <name>Iglesia del Carmen de Abajo</name>
+        <address>Iglesia del Carmen de Abajo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_1</styleUrl>
+        <Point>
+          <coordinates>
             -5.663856,40.9589504,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Arroyo de Santo Domingo</kml:name>
-        <kml:address>Calle Arroyo de Santo Domingo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_2</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Arroyo de Santo Domingo</name>
+        <address>Calle Arroyo de Santo Domingo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_2</styleUrl>
+        <Point>
+          <coordinates>
             -5.6638097,40.9591712,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Rector Esperabé</kml:name>
-        <kml:address>Calle Rector Esperabé  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_3</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Rector Esperabé</name>
+        <address>Calle Rector Esperabé  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_3</styleUrl>
+        <Point>
+          <coordinates>
             -5.6643497,40.9588008,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Tentenecio</kml:name>
-        <kml:address>Calle Tentenecio  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_4</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Tentenecio</name>
+        <address>Calle Tentenecio  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_4</styleUrl>
+        <Point>
+          <coordinates>
             -5.6672789,40.9597869,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza Juan XXIII</kml:name>
-        <kml:address>Plaza Juan XXIII  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_5</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Juan XXIII</name>
+        <address>Plaza Juan XXIII  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_5</styleUrl>
+        <Point>
+          <coordinates>
             -5.667044,40.9606794,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Benedicto XVI</kml:name>
-        <kml:address>Calle Benedicto XVI  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_6</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Benedicto XVI</name>
+        <address>Calle Benedicto XVI  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_6</styleUrl>
+        <Point>
+          <coordinates>
             -5.6665576,40.9613035,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Rúa Mayor</kml:name>
-        <kml:address>Rúa Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_7</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rúa Mayor</name>
+        <address>Rúa Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_7</styleUrl>
+        <Point>
+          <coordinates>
             -5.665339,40.9630034,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Corrillo</kml:name>
-        <kml:address>Plaza del Corrillo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_8</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Corrillo</name>
+        <address>Plaza del Corrillo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_8</styleUrl>
+        <Point>
+          <coordinates>
             -5.6647796,40.9644478,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza Mayor</kml:name>
-        <kml:address>Plaza Mayor  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_9</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Mayor</name>
+        <address>Plaza Mayor  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_9</styleUrl>
+        <Point>
+          <coordinates>
             -5.6649763,40.9650233,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza del Poeta Iglesias</kml:name>
-        <kml:address>Plaza del Poeta Iglesias  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_10</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza del Poeta Iglesias</name>
+        <address>Plaza del Poeta Iglesias  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_10</styleUrl>
+        <Point>
+          <coordinates>
             -5.664083,40.964373,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle San Pablo</kml:name>
-        <kml:address>Calle San Pablo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_11</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle San Pablo</name>
+        <address>Calle San Pablo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_11</styleUrl>
+        <Point>
+          <coordinates>
             -5.6642567,40.9621066,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Juan de la Fuente</kml:name>
-        <kml:address>Calle Juan de la Fuente  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_12</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Juan de la Fuente</name>
+        <address>Calle Juan de la Fuente  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_12</styleUrl>
+        <Point>
+          <coordinates>
             -5.6633626,40.9615316,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Plaza Concilio de Trento</kml:name>
-        <kml:address>Plaza Concilio de Trento  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_13</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaza Concilio de Trento</name>
+        <address>Plaza Concilio de Trento  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_13</styleUrl>
+        <Point>
+          <coordinates>
             -5.663413,40.960696,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Calle Arroyo de Santo Domingo</kml:name>
-        <kml:address>Calle Arroyo de Santo Domingo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_14</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle Arroyo de Santo Domingo</name>
+        <address>Calle Arroyo de Santo Domingo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_14</styleUrl>
+        <Point>
+          <coordinates>
             -5.6638097,40.9591712,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-      <kml:Placemark>
-        <kml:name>Iglesia del Carmen de Abajo</kml:name>
-        <kml:address>Iglesia del Carmen de Abajo  Salamanca</kml:address>
-        <kml:description>Salamanca</kml:description>
-        <kml:styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_15</kml:styleUrl>
-        <kml:Point>
-          <kml:coordinates>
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iglesia del Carmen de Abajo</name>
+        <address>Iglesia del Carmen de Abajo  Salamanca</address>
+        <description>Salamanca</description>
+        <styleUrl>#Style_Parade_Salamanca_OracionEnHuerto_Marker_15</styleUrl>
+        <Point>
+          <coordinates>
             -5.663856,40.9589504,0
-          </kml:coordinates>
-        </kml:Point>
-      </kml:Placemark>
-    </kml:Folder>
-  </kml:Document>
-</kml:kml>
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

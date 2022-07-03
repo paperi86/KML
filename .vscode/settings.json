@@ -4,10 +4,6 @@
         {
             "pattern": "**/valid.kml",
             "systemId": "maps/Info/Parade/kml22.xsd"
-        },
-        {
-            "pattern": "**/Parade_Salamanca_*.kml",
-            "systemId": "maps/Info/Parade/kml22.xsd"
         }
     ]
 }
